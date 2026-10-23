@@ -6,7 +6,7 @@
 
 **🚀 在线体验：https://crystalzhang0302.github.io/mcd-lovin-new/**（手机可直接打开，11 个城市随点随切）
 
-![screenshots](out/v3_home.png)
+![screenshots](out/v4_home.png)
 
 ## 这是什么
 
