@@ -1,0 +1,965 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>唯新才能解腻 · 麦当劳新品货架</title>
+<meta name="description" content="把麦当劳当季新品一次看完，点开看门店、看详情、拿一句祝福，再挑最近那家去下单。">
+<style>
+:root{
+  --red:#DA291C;
+  --red-d:#A81B0F;
+  --yellow:#FFC72C;
+  --yellow-d:#E8A400;
+  --cream:#FFF6E2;
+  --paper:#FFFDF7;
+  --ink:#2B1A0E;
+  --ink-l:#6B5545;
+  --green:#2F8B4F;
+  --sh:5px 5px 0 var(--ink);
+  --sh-sm:3px 3px 0 var(--ink);
+  --sh-xs:2px 2px 0 var(--ink);
+  --bd:3px solid var(--ink);
+  --r:22px;
+}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0;padding:0}
+body{
+  font-family:"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",system-ui,sans-serif;
+  background:var(--cream);
+  background-image:radial-gradient(circle at 12% 8%,#FFE9A8 0 22%,transparent 22.2%),
+                   radial-gradient(circle at 88% 78%,#FFD9D2 0 18%,transparent 18.2%);
+  color:var(--ink);
+  -webkit-font-smoothing:antialiased;
+  padding-bottom:92px;
+  min-height:100vh;
+  overflow-x:hidden;
+}
+img,svg{display:block}
+button{font-family:inherit;cursor:pointer;border:none;background:none;color:inherit}
+
+/* ============ 顶栏 ============ */
+.top{
+  position:relative;
+  background:var(--red);
+  border-bottom:var(--bd);
+  padding:18px 18px 22px;
+  overflow:hidden;
+}
+.top::after{
+  content:"";position:absolute;inset:0;
+  background-image:radial-gradient(circle,rgba(255,255,255,.16) 1.4px,transparent 1.5px);
+  background-size:15px 15px;pointer-events:none;
+}
+.brand{display:flex;align-items:center;gap:10px;position:relative}
+.logo{
+  width:46px;height:46px;flex:0 0 auto;border-radius:14px;
+  background:var(--yellow);border:var(--bd);box-shadow:var(--sh-sm);
+  display:grid;place-items:center;font-size:24px;
+  transform:rotate(-6deg);
+}
+h1{
+  margin:0;font-size:27px;line-height:1.05;font-weight:900;letter-spacing:-.5px;
+  color:#fff;
+  text-shadow:2.5px 2.5px 0 var(--ink),-1px -1px 0 var(--ink),1px -1px 0 var(--ink),-1px 1px 0 var(--ink);
+  transform:rotate(-1.2deg);
+}
+.sub{
+  margin:9px 0 0;position:relative;
+  font-size:12.5px;font-weight:700;color:#FFE9C8;
+}
+.sub b{color:var(--yellow)}
+.live{
+  display:inline-flex;align-items:center;gap:5px;
+  background:rgba(0,0,0,.22);border-radius:99px;padding:3px 9px;margin-right:4px;
+  font-size:11px;
+}
+.dot-live{width:6px;height:6px;border-radius:50%;background:#7BE495;box-shadow:0 0 0 2px rgba(123,228,149,.28)}
+
+/* ============ 吉祥物引导条 ============ */
+.hero{
+  margin:14px 14px 0;
+  background:var(--paper);border:var(--bd);border-radius:var(--r);
+  box-shadow:var(--sh);
+  padding:12px 14px;display:flex;align-items:center;gap:11px;
+  position:relative;
+}
+.mascot{
+  width:54px;height:64px;flex:0 0 auto;
+  animation:bob 2.6s ease-in-out infinite;
+}
+@keyframes bob{0%,100%{transform:translateY(0) rotate(-2deg)}50%{transform:translateY(-4px) rotate(2deg)}}
+.bubble{
+  position:relative;flex:1;
+  background:#fff;border:2.5px solid var(--ink);border-radius:15px;
+  padding:8px 12px;font-size:12.5px;font-weight:700;line-height:1.55;
+}
+.bubble::before{
+  content:"";position:absolute;left:-9px;top:16px;
+  width:13px;height:13px;background:#fff;
+  border-left:2.5px solid var(--ink);border-bottom:2.5px solid var(--ink);
+  transform:rotate(45deg);border-radius:0 0 0 3px;
+}
+.bubble em{font-style:normal;color:var(--red)}
+
+/* ============ 排序栏 ============ */
+.sortbar{
+  position:sticky;top:0;z-index:30;
+  display:flex;gap:7px;align-items:center;
+  padding:12px 14px 10px;
+  background:linear-gradient(var(--cream) 72%,rgba(255,246,226,0));
+}
+.chip{
+  border:2.5px solid var(--ink);border-radius:99px;
+  background:var(--paper);box-shadow:var(--sh-xs);
+  padding:6px 12px;font-size:12px;font-weight:800;white-space:nowrap;
+  transition:transform .12s,background .12s;
+}
+.chip:active{transform:translate(2px,2px);box-shadow:none}
+.chip.on{background:var(--yellow);box-shadow:var(--sh-sm)}
+.count{margin-left:auto;font-size:11px;font-weight:800;color:var(--ink-l);white-space:nowrap}
+@media(max-width:400px){.count{display:none}}
+
+/* ============ 新品网格 ============ */
+.grid{
+  display:grid;grid-template-columns:repeat(2,1fr);
+  gap:12px;padding:2px 14px 0;
+}
+@media(min-width:560px){.grid{grid-template-columns:repeat(3,1fr)}}
+@media(min-width:860px){.grid{grid-template-columns:repeat(4,1fr);max-width:1100px;margin:0 auto}}
+
+.card{
+  position:relative;text-align:left;
+  background:var(--paper);border:var(--bd);border-radius:var(--r);
+  box-shadow:var(--sh);
+  padding:12px 11px 10px;
+  transition:transform .14s ease,box-shadow .14s ease;
+  overflow:hidden;
+  display:flex;flex-direction:column;
+}
+.card:active{transform:translate(4px,4px);box-shadow:1px 1px 0 var(--ink)}
+.card::before{
+  content:"";position:absolute;inset:-40% -60% auto auto;width:110px;height:110px;
+  background:radial-gradient(circle,rgba(255,199,44,.35),transparent 70%);
+  pointer-events:none;
+}
+.ico{
+  width:52px;height:52px;border-radius:15px;
+  background:var(--cream);border:2.5px solid var(--ink);
+  display:grid;place-items:center;font-size:27px;line-height:1;
+  box-shadow:var(--sh-xs);
+  transform:rotate(-4deg);
+  margin-bottom:9px;
+  transition:transform .2s;
+}
+.card:hover .ico{transform:rotate(4deg) scale(1.06)}
+.cname{
+  font-size:13.5px;font-weight:900;line-height:1.28;margin:0 0 6px;
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
+  min-height:34px;
+}
+.prow{display:flex;align-items:baseline;gap:5px;margin-bottom:5px}
+.price{
+  font-size:19px;font-weight:900;color:var(--red);letter-spacing:-.5px;
+}
+.price small{font-size:11px;margin-right:1px}
+.price-none{font-size:12px;color:var(--ink-l);font-weight:800}
+.act{
+  display:inline-block;font-size:9.5px;font-weight:900;
+  padding:2.5px 7px;border-radius:99px;border:2px solid var(--ink);
+  background:var(--yellow);white-space:nowrap;max-width:100%;
+  overflow:hidden;text-overflow:ellipsis;
+  margin-bottom:8px;align-self:flex-start;
+}
+.act.k-联名{background:#FFB4D8}
+.act.k-限时{background:#FF9B84}
+.act.k-回归{background:#B7E4FF}
+.act.k-升级{background:#C7F0C2}
+.act.k-静默{background:#EDE3D2}
+.act.none{background:#EDE3D2;color:var(--ink-l)}
+.meta{
+  margin-top:auto;display:flex;align-items:center;gap:6px;
+  font-size:10.5px;font-weight:800;color:var(--ink-l);
+  border-top:2px dashed #E4D6C0;padding-top:8px;
+}
+.hot{display:inline-flex;align-items:center;gap:3px;color:var(--red)}
+.hbar{
+  flex:1;height:6px;border-radius:99px;background:#EFE3CE;
+  border:1.5px solid var(--ink);overflow:hidden;min-width:16px;
+}
+.hbar i{display:block;height:100%;background:linear-gradient(90deg,var(--yellow),var(--red));transition:width .5s cubic-bezier(.2,1,.3,1)}
+.rank{
+  position:absolute;right:-1px;top:-1px;
+  background:var(--ink);color:var(--yellow);
+  font-size:10px;font-weight:900;padding:3px 8px;
+  border-bottom-left-radius:12px;
+}
+.rank.r1{background:var(--red);color:#fff}
+.rank.r2{background:var(--yellow);color:var(--ink)}
+.rank.r3{background:#E08B2B;color:#fff}
+
+/* ============ 底部通栏 ============ */
+.cross{
+  margin:16px 14px 0;background:var(--yellow);
+  border:var(--bd);border-radius:var(--r);box-shadow:var(--sh);
+  padding:12px 14px;display:flex;gap:11px;align-items:center;
+}
+.cross .ci{font-size:24px;flex:0 0 auto;animation:spin 6s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.cross-t{font-size:12.5px;font-weight:900;margin-bottom:2px}
+.cross-x{font-size:11px;font-weight:700;line-height:1.5;color:#5A4010}
+
+.foot{
+  margin:18px 14px 0;text-align:center;
+  font-size:10px;line-height:1.85;color:#A08D78;font-weight:600;
+}
+.foot b{color:var(--ink-l)}
+
+/* ============ 弹层通用 ============ */
+.mask{
+  position:fixed;inset:0;z-index:100;
+  background:rgba(43,26,14,.52);
+  backdrop-filter:blur(3px);
+  opacity:0;pointer-events:none;transition:opacity .22s;
+}
+.mask.show{opacity:1;pointer-events:auto}
+.sheet{
+  position:fixed;left:0;right:0;bottom:0;z-index:101;
+  max-height:91vh;overflow-y:auto;overscroll-behavior:contain;
+  background:var(--paper);
+  border:var(--bd);border-bottom:none;
+  border-radius:28px 28px 0 0;
+  box-shadow:0 -6px 0 var(--ink);
+  transform:translateY(102%);transition:transform .3s cubic-bezier(.2,.9,.25,1);
+  padding:0 0 26px;
+}
+.sheet.show{transform:translateY(0)}
+@media(min-width:640px){
+  .sheet{left:50%;right:auto;bottom:5vh;width:520px;transform:translate(-50%,120%);
+    border-radius:28px;border-bottom:var(--bd);box-shadow:0 8px 0 var(--ink)}
+  .sheet.show{transform:translate(-50%,0)}
+}
+.grab{
+  position:sticky;top:0;z-index:3;
+  background:var(--paper);padding:10px 0 6px;
+  display:grid;place-items:center;
+}
+.grab i{width:44px;height:5px;border-radius:99px;background:#D9CBB4}
+.close{
+  position:absolute;right:14px;top:11px;
+  width:34px;height:34px;border-radius:50%;
+  background:var(--cream);border:2.5px solid var(--ink);
+  box-shadow:var(--sh-xs);display:grid;place-items:center;
+  font-size:15px;font-weight:900;z-index:4;
+}
+.close:active{transform:translate(2px,2px);box-shadow:none}
+
+/* ============ 详情 ============ */
+.dwrap{padding:6px 18px 0}
+.dmascot{width:74px;height:88px;margin:0 auto 6px;animation:bob 3s ease-in-out infinite}
+.verse{
+  position:relative;background:var(--yellow);
+  border:var(--bd);border-radius:18px;box-shadow:var(--sh-sm);
+  padding:13px 16px;text-align:center;margin-bottom:16px;
+  transform:rotate(-.8deg);
+}
+.verse .vlabel{
+  position:absolute;left:12px;top:-11px;
+  background:var(--ink);color:var(--yellow);
+  font-size:9.5px;font-weight:900;padding:2.5px 9px;border-radius:99px;
+  letter-spacing:1px;
+}
+.verse p{margin:0;font-size:16px;font-weight:900;line-height:1.45;letter-spacing:.5px}
+
+.dhead{display:flex;gap:13px;align-items:flex-start;margin-bottom:13px}
+.dico{
+  width:66px;height:66px;flex:0 0 auto;border-radius:19px;
+  background:var(--cream);border:var(--bd);box-shadow:var(--sh-sm);
+  display:grid;place-items:center;font-size:34px;transform:rotate(-5deg);
+}
+.dtitle{flex:1;min-width:0}
+.dname{font-size:18px;font-weight:900;line-height:1.25;margin:0 0 6px}
+.dprice{font-size:26px;font-weight:900;color:var(--red);letter-spacing:-1px}
+.dprice small{font-size:13px}
+.dcat{font-size:11px;font-weight:800;color:var(--ink-l);margin-top:3px}
+.ddesc{
+  font-size:13px;line-height:1.78;font-weight:600;color:#4A3828;
+  background:var(--cream);border:2.5px solid var(--ink);border-radius:16px;
+  padding:12px 14px;margin-bottom:13px;
+}
+.dtags{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:15px}
+.tag{
+  font-size:10.5px;font-weight:800;padding:3px 9px;border-radius:99px;
+  background:#fff;border:2px solid var(--ink);
+}
+.score{
+  display:flex;align-items:center;gap:8px;margin-bottom:16px;
+  font-size:11.5px;font-weight:800;color:var(--ink-l);
+}
+.score b{color:var(--red);font-size:14px}
+
+/* 活动卡 */
+.actcard{
+  background:#fff;border:var(--bd);border-radius:18px;box-shadow:var(--sh-sm);
+  padding:13px 14px;margin-bottom:16px;position:relative;
+}
+.actcard::after{
+  content:"";position:absolute;right:-2px;top:-2px;width:34px;height:34px;
+  background:linear-gradient(135deg,transparent 50%,var(--yellow) 50%);
+  border-bottom-left-radius:6px;
+}
+.actcard .ak{font-size:9.5px;font-weight:900;letter-spacing:1px;color:var(--red);margin-bottom:4px}
+.actcard .at{font-size:13.5px;font-weight:900;margin-bottom:4px}
+.actcard .ax{font-size:11.5px;font-weight:700;line-height:1.6;color:var(--ink-l)}
+.actcard.quiet{background:#F7F0E3;box-shadow:none;opacity:.85}
+.actcard.quiet .ak{color:var(--ink-l)}
+
+/* 门店列表 */
+.stitle{
+  display:flex;align-items:center;gap:7px;
+  font-size:12.5px;font-weight:900;margin:0 0 10px;
+}
+.stitle span{
+  font-size:10px;font-weight:800;color:var(--ink-l);
+  background:var(--cream);border:2px solid var(--ink);border-radius:99px;padding:1.5px 8px;
+}
+.srow{
+  display:flex;align-items:center;gap:11px;
+  background:#fff;border:2.5px solid var(--ink);border-radius:16px;
+  padding:11px 12px;margin-bottom:9px;
+  box-shadow:var(--sh-xs);
+  transition:transform .12s,box-shadow .12s;
+}
+.srow:active{transform:translate(2px,2px);box-shadow:none}
+.sinfo{flex:1;min-width:0}
+.sname{font-size:12.5px;font-weight:900;line-height:1.3;margin-bottom:3px;
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.saddr{font-size:10px;font-weight:700;color:var(--ink-l);
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.sdist{
+  flex:0 0 auto;text-align:center;
+  font-size:10px;font-weight:900;color:var(--green);
+  background:#E8F6EA;border:2px solid var(--green);border-radius:10px;
+  padding:4px 7px;min-width:52px;
+}
+.sdist small{display:block;font-size:8px;opacity:.7;font-weight:800}
+.sdist.far{color:#B07A2E;background:#FFF4DF;border-color:#B07A2E}
+.btn-go{
+  flex:0 0 auto;white-space:nowrap;
+  background:var(--red);color:#fff;
+  border:2.5px solid var(--ink);border-radius:12px;
+  box-shadow:var(--sh-xs);
+  font-size:12px;font-weight:900;padding:8px 13px;
+  transition:transform .12s,box-shadow .12s;
+}
+.btn-go:active{transform:translate(2px,2px);box-shadow:none}
+.stale{
+  font-size:9.5px;font-weight:800;color:#B07A2E;
+  background:#FFF4DF;border:2px solid #B07A2E;border-radius:99px;
+  padding:1px 6px;margin-left:5px;white-space:nowrap;
+}
+
+/* ============ 下单 ============ */
+.owrap{padding:4px 18px 0}
+.ostore{
+  background:var(--cream);border:2.5px solid var(--ink);border-radius:16px;
+  padding:11px 13px;margin-bottom:13px;
+}
+.ostore .ol{font-size:9.5px;font-weight:900;color:var(--ink-l);letter-spacing:.5px;margin-bottom:3px}
+.ostore .on{font-size:13.5px;font-weight:900;line-height:1.3}
+.ostore .oa{font-size:10.5px;font-weight:700;color:var(--ink-l);margin-top:3px}
+
+.oitem{
+  display:flex;align-items:center;gap:12px;
+  background:#fff;border:2.5px solid var(--ink);border-radius:16px;
+  padding:11px 13px;margin-bottom:13px;box-shadow:var(--sh-xs);
+}
+.oitem .oi{font-size:26px}
+.oitem .onm{flex:1;font-size:12.5px;font-weight:900;line-height:1.3}
+.qty{display:flex;align-items:center;border:2.5px solid var(--ink);border-radius:11px;overflow:hidden;background:var(--cream)}
+.qty button{width:29px;height:29px;font-size:15px;font-weight:900;display:grid;place-items:center}
+.qty button:active{background:var(--yellow)}
+.qty span{min-width:26px;text-align:center;font-size:12.5px;font-weight:900;border-left:2.5px solid var(--ink);border-right:2.5px solid var(--ink);line-height:29px}
+
+.ototal{
+  display:flex;align-items:baseline;justify-content:space-between;
+  border-top:3px dashed #E0D2BA;padding-top:12px;margin-bottom:16px;
+}
+.ototal .tl{font-size:12px;font-weight:800;color:var(--ink-l)}
+.ototal .tv{font-size:25px;font-weight:900;color:var(--red);letter-spacing:-1px}
+
+.btn-big{
+  width:100%;background:var(--red);color:#fff;
+  border:var(--bd);border-radius:16px;box-shadow:var(--sh-sm);
+  font-size:15px;font-weight:900;padding:14px;letter-spacing:.5px;
+  transition:transform .12s,box-shadow .12s;
+}
+.btn-big:active{transform:translate(3px,3px);box-shadow:none}
+.btn-big.ghost{background:var(--paper);color:var(--ink);margin-top:9px;box-shadow:var(--sh-xs)}
+.btn-big:disabled{background:#C9BCA8;box-shadow:var(--sh-xs);transform:none}
+
+/* 下单凭证 */
+.receipt{
+  background:#fff;border:var(--bd);border-radius:18px;box-shadow:var(--sh-sm);
+  padding:0;overflow:hidden;margin-bottom:14px;
+}
+.rhead{background:var(--red);color:#fff;padding:9px 14px;font-size:11px;font-weight:900;letter-spacing:1px;
+  display:flex;justify-content:space-between;align-items:center}
+.rhead .rc{background:rgba(0,0,0,.25);border-radius:99px;padding:2px 8px;font-size:9px;letter-spacing:0}
+.rbody{padding:13px 14px}
+.rline{display:flex;justify-content:space-between;gap:10px;font-size:11.5px;font-weight:700;padding:4px 0;color:var(--ink-l)}
+.rline b{color:var(--ink);font-weight:900;text-align:right}
+.rcode{
+  margin:10px 0 0;background:#2B1A0E;color:#FFD977;
+  border-radius:10px;padding:10px 12px;
+  font-family:ui-monospace,Consolas,monospace;font-size:10px;line-height:1.6;
+  white-space:pre-wrap;word-break:break-all;
+  max-height:132px;overflow:auto;
+}
+.note{
+  font-size:10.5px;line-height:1.75;font-weight:700;color:var(--ink-l);
+  background:var(--cream);border:2px dashed #D8C8AE;border-radius:13px;
+  padding:10px 12px;margin-bottom:13px;
+}
+.note b{color:var(--red)}
+
+/* toast */
+.toast{
+  position:fixed;left:50%;bottom:96px;transform:translate(-50%,14px);
+  z-index:300;background:var(--ink);color:#fff;
+  border:2.5px solid #000;border-radius:99px;box-shadow:0 4px 0 #000;
+  padding:9px 18px;font-size:12px;font-weight:800;
+  opacity:0;pointer-events:none;transition:opacity .2s,transform .2s;
+  white-space:nowrap;max-width:88vw;overflow:hidden;text-overflow:ellipsis;
+}
+.toast.show{opacity:1;transform:translate(-50%,0)}
+
+/* 失败提示 */
+#boot{
+  position:fixed;inset:0;z-index:999;background:var(--cream);
+  display:none;place-items:center;padding:28px;text-align:center;
+}
+#boot.show{display:grid}
+#boot .bt{font-size:15px;font-weight:900;margin-bottom:8px}
+#boot .bx{font-size:12px;font-weight:700;line-height:1.7;color:var(--ink-l)}
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="brand">
+    <div class="logo">🍟</div>
+    <h1>唯新才能解腻</h1>
+  </div>
+  <p class="sub" id="subline">
+    <span class="live"><i class="dot-live"></i><span id="dateTag">加载中</span></span>
+    <span id="sumTag"></span>
+  </p>
+</header>
+
+<section class="hero">
+  <svg class="mascot" viewBox="0 0 120 142" aria-hidden="true">
+    <defs>
+      <linearGradient id="mB" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="#B9210F"/><stop offset=".35" stop-color="#E8422A"/>
+        <stop offset=".72" stop-color="#DA291C"/><stop offset="1" stop-color="#A81B0F"/>
+      </linearGradient>
+      <linearGradient id="mF" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="#FFE79B"/><stop offset=".5" stop-color="#FBD04F"/><stop offset="1" stop-color="#D9971A"/>
+      </linearGradient>
+    </defs>
+    <ellipse cx="60" cy="136" rx="30" ry="4" fill="#2B1A0E" opacity=".18"/>
+    <rect x="36" y="12" width="9" height="30" rx="4" fill="url(#mF)" stroke="#2B1A0E" stroke-width="2.2"/>
+    <rect x="48" y="6" width="9" height="36" rx="4" fill="url(#mF)" stroke="#2B1A0E" stroke-width="2.2"/>
+    <rect x="60" y="9" width="9" height="33" rx="4" fill="url(#mF)" stroke="#2B1A0E" stroke-width="2.2"/>
+    <rect x="72" y="14" width="9" height="28" rx="4" fill="url(#mF)" stroke="#2B1A0E" stroke-width="2.2"/>
+    <path d="M28 44 L92 44 L88 128 Q87.5 132 84 132 L36 132 Q32.5 132 32 128 Z" fill="url(#mB)" stroke="#2B1A0E" stroke-width="3.4" stroke-linejoin="round"/>
+    <path d="M28 44 L92 44 L91 55 L29 55 Z" fill="#F9ECD2" opacity=".92"/>
+    <rect x="26" y="39" width="68" height="9" rx="4.5" fill="#8E1509" stroke="#2B1A0E" stroke-width="3"/>
+    <ellipse cx="45" cy="80" rx="6.6" ry="7.6" fill="#FFF8E8" stroke="#2B1A0E" stroke-width="2.2"/>
+    <ellipse cx="76" cy="80" rx="6.6" ry="7.6" fill="#FFF8E8" stroke="#2B1A0E" stroke-width="2.2"/>
+    <circle cx="46.5" cy="81.5" r="3.6" fill="#2B1A0E"/>
+    <circle cx="77.5" cy="81.5" r="3.6" fill="#2B1A0E"/>
+    <circle cx="45" cy="79.5" r="1.3" fill="#fff"/>
+    <circle cx="76" cy="79.5" r="1.3" fill="#fff"/>
+    <path d="M52 96 Q60.5 104 69 96" stroke="#2B1A0E" stroke-width="3.2" fill="none" stroke-linecap="round"/>
+    <ellipse cx="36" cy="90" rx="5.5" ry="3.4" fill="#FF9B84" opacity=".55"/>
+    <ellipse cx="85" cy="90" rx="5.5" ry="3.4" fill="#FF9B84" opacity=".55"/>
+  </svg>
+  <div class="bubble" id="heroText">
+    按 <em>热度</em> 排的 — 点得越多的新品越靠前。戳一张卡，看它的门店和今天的运气。
+  </div>
+</section>
+
+<div class="sortbar">
+  <button class="chip on" data-sort="hot">🔥 热度</button>
+  <button class="chip" data-sort="new">🆕 上新</button>
+  <button class="chip" data-sort="cheap">💰 最便宜</button>
+  <button class="chip" data-sort="near">📍 最近</button>
+  <span class="count" id="cnt"></span>
+</div>
+
+<main class="grid" id="grid"></main>
+
+<section class="cross" id="crossBox" hidden>
+  <div class="ci">🎁</div>
+  <div>
+    <div class="cross-t" id="crossT"></div>
+    <div class="cross-x" id="crossX"></div>
+  </div>
+</section>
+
+<p class="foot">
+  <b>非麦当劳官方产品</b>，由开发者基于麦当劳开放平台 MCP 构建 · 数据来自官方接口实时抓取<br>
+  本页仅作新品发现与推荐，无兑奖、无抽奖、与官方积分活动无关 · 价格与供应以门店实际为准
+</p>
+
+<div class="mask" id="mask"></div>
+
+<!-- 详情 -->
+<section class="sheet" id="sheetDetail" aria-modal="true" role="dialog">
+  <div class="grab"><i></i></div>
+  <button class="close" data-close>✕</button>
+  <div class="dwrap" id="detailBody"></div>
+</section>
+
+<!-- 下单 -->
+<section class="sheet" id="sheetOrder" aria-modal="true" role="dialog">
+  <div class="grab"><i></i></div>
+  <button class="close" data-close>✕</button>
+  <div class="owrap" id="orderBody"></div>
+</section>
+
+<div class="toast" id="toast"></div>
+<div id="boot">
+  <div>
+    <div class="bt">⚠️ 页面数据没加载出来</div>
+    <div class="bx">请确认 <b>data/items.js</b> 和 index.html 在同一个文件夹里。<br>先用命令行跑一次 <b>python build_site.py</b> 生成数据。</div>
+  </div>
+</div>
+
+<script src="data/items.js" onerror="document.getElementById('boot').classList.add('show')"></script>
+<script>
+(function(){
+"use strict";
+
+var D = window.NEW_DATA;
+if(!D || !D.items){ document.getElementById("boot").classList.add("show"); return; }
+
+var META = D.meta || {};
+var ITEMS = D.items.slice();
+
+/* ---------- 图标映射 ---------- */
+var ICONS = [
+  [/圆筒|甜筒|冰淇淋/, "🍦"],
+  [/麦旋风|新地/, "🌀"],
+  [/柠|柠檬/, "🍋"],
+  [/薯饼/, "💛"],
+  [/芝士条|芝士棒/, "🧀"],
+  [/炸鸡|脆汁鸡|鸡块/, "🍗"],
+  [/扭扭薯|薯条/, "🍟"],
+  [/奶昔/, "🥤"],
+  [/咖喱/, "🍛"],
+  [/鸡腿堡|板烧|汉堡/, "🍔"],
+  [/小食盘|四宫格|双全盒/, "🍱"],
+  [/咖啡|可乐|饮/, "🥤"]
+];
+function iconOf(name){
+  for(var i=0;i<ICONS.length;i++){ if(ICONS[i][0].test(name)) return ICONS[i][1]; }
+  return "✨";
+}
+
+/* ---------- 热度存储 ---------- */
+var HKEY = "mcd_new_heat_v1";
+var heat = {};
+try{ heat = JSON.parse(localStorage.getItem(HKEY) || "{}") || {}; }catch(e){ heat = {}; }
+function saveHeat(){ try{ localStorage.setItem(HKEY, JSON.stringify(heat)); }catch(e){} }
+function heatOf(id){ return heat[id] || 0; }
+function bump(id){
+  heat[id] = heatOf(id) + 1;
+  saveHeat();
+  return heat[id];
+}
+function maxHeat(){
+  var m = 0;
+  for(var k in heat){ if(heat[k] > m) m = heat[k]; }
+  return m;
+}
+
+/* ---------- 排序 ---------- */
+var sortMode = "hot";
+function nearestDist(it){
+  var d = null;
+  for(var i=0;i<it.s.length;i++){
+    var v = it.s[i].d;
+    if(typeof v === "number" && (d === null || v < d)) d = v;
+  }
+  return d === null ? 99999 : d;
+}
+function sortItems(){
+  var arr = ITEMS.slice();
+  if(sortMode === "hot"){
+    arr.sort(function(a,b){
+      var d = heatOf(b.id) - heatOf(a.id);
+      if(d) return d;
+      if(b.s.length !== a.s.length) return b.s.length - a.s.length;
+      return nearestDist(a) - nearestDist(b);
+    });
+  }else if(sortMode === "cheap"){
+    arr.sort(function(a,b){
+      var pa = a.p == null ? 9999 : a.p, pb = b.p == null ? 9999 : b.p;
+      return pa - pb;
+    });
+  }else if(sortMode === "near"){
+    arr.sort(function(a,b){ return nearestDist(a) - nearestDist(b); });
+  }else{
+    arr.sort(function(a,b){
+      if(b.s.length !== a.s.length) return b.s.length - a.s.length;
+      var pa = a.p == null ? 9999 : a.p, pb = b.p == null ? 9999 : b.p;
+      return pa - pb;
+    });
+  }
+  return arr;
+}
+
+/* ---------- 工具 ---------- */
+var $ = function(id){ return document.getElementById(id); };
+var grid = $("grid");
+
+function money(p){
+  if(p == null) return null;
+  return (Math.round(p * 10) % 10 === 0) ? String(Math.round(p)) : p.toFixed(1);
+}
+function esc(s){
+  return String(s == null ? "" : s)
+    .replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;")
+    .replace(/"/g,"&quot;");
+}
+
+/* ---------- 渲染首页 ---------- */
+function renderGrid(){
+  var arr = sortItems();
+  var mx = Math.max(1, maxHeat());
+  var totalHeat = 0;
+  for(var k in heat) totalHeat += heat[k];
+
+  grid.innerHTML = arr.map(function(it, idx){
+    var h = heatOf(it.id);
+    var pct = Math.round(h / mx * 100);
+    var act = it.a && it.a.t ? it.a : null;
+    var pr = money(it.p);
+    var rankCls = idx === 0 ? "r1" : idx === 1 ? "r2" : idx === 2 ? "r3" : "";
+    var rankHtml = (sortMode === "hot" && h > 0)
+      ? '<div class="rank ' + rankCls + '">NO.' + (idx+1) + '</div>' : "";
+    return ''
+      + '<button class="card" data-id="' + it.id + '">'
+      +   rankHtml
+      +   '<div class="ico">' + iconOf(it.n) + '</div>'
+      +   '<div class="cname">' + esc(it.n) + '</div>'
+      +   '<div class="prow">' + (pr !== null
+              ? '<span class="price"><small>¥</small>' + pr + '</span>'
+              : '<span class="price-none">价格待定</span>') + '</div>'
+      +   (act
+            ? '<div class="act k-' + (act.k || "静默") + '">' + esc(act.t) + '</div>'
+            : '<div class="act none">暂无关联活动</div>')
+      +   '<div class="meta">'
+      +     '<span class="hot">🔥' + h + '</span>'
+      +     '<span class="hbar"><i style="width:' + pct + '%"></i></span>'
+      +     '<span>' + it.s.length + '店</span>'
+      +   '</div>'
+      + '</button>';
+  }).join("");
+
+  $("cnt").textContent = ITEMS.length + " 个新品";
+  $("dateTag").textContent = (META.date || "") + " · " + (META.city || "");
+  $("sumTag").innerHTML = " · <b>" + ITEMS.length + "</b> 个新品 · <b>" + (META.stores || []).length + "</b> 家门店";
+
+  var top = arr[0];
+  if(totalHeat > 0 && top){
+    $("heroText").innerHTML = '当前最热：<em>' + esc(top.n) + '</em>，被点了 '
+      + heatOf(top.id) + ' 次。戳一张卡，看它的门店和今天的运气。';
+  }
+}
+
+/* ---------- 弹层控制 ---------- */
+var mask = $("mask");
+var openSheet = null;
+function show(sheet){
+  if(openSheet && openSheet !== sheet) openSheet.classList.remove("show");
+  sheet.classList.add("show");
+  mask.classList.add("show");
+  openSheet = sheet;
+  document.body.style.overflow = "hidden";
+}
+function closeAll(){
+  if(openSheet) openSheet.classList.remove("show");
+  mask.classList.remove("show");
+  openSheet = null;
+  document.body.style.overflow = "";
+}
+
+/* ---------- 详情 ---------- */
+var currentId = null;
+
+/* 详情页吉祥物：简化版薯条盒小人（闭眼微笑） */
+var DMASCOT = ''
+  + '<svg class="dmascot" viewBox="0 0 120 142" aria-hidden="true">'
+  +   '<ellipse cx="60" cy="136" rx="30" ry="4" fill="#2B1A0E" opacity=".16"/>'
+  +   '<rect x="36" y="12" width="9" height="30" rx="4" fill="#FBD04F" stroke="#2B1A0E" stroke-width="2.2"/>'
+  +   '<rect x="48" y="6" width="9" height="36" rx="4" fill="#FBD04F" stroke="#2B1A0E" stroke-width="2.2"/>'
+  +   '<rect x="60" y="9" width="9" height="33" rx="4" fill="#FBD04F" stroke="#2B1A0E" stroke-width="2.2"/>'
+  +   '<rect x="72" y="14" width="9" height="28" rx="4" fill="#FBD04F" stroke="#2B1A0E" stroke-width="2.2"/>'
+  +   '<path d="M28 44 L92 44 L88 128 Q87.5 132 84 132 L36 132 Q32.5 132 32 128 Z" fill="#DA291C" stroke="#2B1A0E" stroke-width="3.4" stroke-linejoin="round"/>'
+  +   '<path d="M28 44 L92 44 L91 55 L29 55 Z" fill="#F9ECD2" opacity=".92"/>'
+  +   '<rect x="26" y="39" width="68" height="9" rx="4.5" fill="#8E1509" stroke="#2B1A0E" stroke-width="3"/>'
+  +   '<path d="M38 79 Q45 72 52 79" stroke="#2B1A0E" stroke-width="3.2" fill="none" stroke-linecap="round"/>'
+  +   '<path d="M69 79 Q76 72 83 79" stroke="#2B1A0E" stroke-width="3.2" fill="none" stroke-linecap="round"/>'
+  +   '<path d="M52 96 Q60.5 104 69 96" stroke="#2B1A0E" stroke-width="3.2" fill="none" stroke-linecap="round"/>'
+  +   '<ellipse cx="36" cy="90" rx="5.5" ry="3.4" fill="#FF9B84" opacity=".55"/>'
+  +   '<ellipse cx="85" cy="90" rx="5.5" ry="3.4" fill="#FF9B84" opacity=".55"/>'
+  + '</svg>';
+
+function openDetail(id){
+  var it = null;
+  for(var i=0;i<ITEMS.length;i++){ if(ITEMS[i].id === id){ it = ITEMS[i]; break; } }
+  if(!it) return;
+
+  currentId = id;
+  var cnt = bump(id);          // 点开即计一次热度
+  renderGrid();
+
+  var act = it.a;
+  var actHtml = (act && act.t)
+    ? '<div class="actcard">'
+      + '<div class="ak">连带活动 · ' + esc(act.k || "上新") + '</div>'
+      + '<div class="at">' + esc(act.t) + '</div>'
+      + '<div class="ax">' + esc(act.x || "") + '</div>'
+      + '</div>'
+    : '<div class="actcard quiet">'
+      + '<div class="ak">连带活动</div>'
+      + '<div class="at">静默上新，没有配套活动</div>'
+      + '<div class="ax">官方日历里没有对应的推广活动，它就是单纯多了一个选择。</div>'
+      + '</div>';
+
+  var storesHtml = it.s.map(function(s){
+    var d = s.d;
+    var distTxt = (typeof d === "number")
+      ? '<div class="sdist' + (d > 400 ? " far" : "") + '">' + d + 'm<small>步行</small></div>'
+      : '<div class="sdist far">—<small>未知</small></div>';
+    return ''
+      + '<div class="srow">'
+      +   '<div class="sinfo">'
+      +     '<div class="sname">' + esc(s.n) + (s.fresh ? "" : '<span class="stale">时段校验</span>') + '</div>'
+      +     '<div class="saddr">' + esc(s.addr || "") + '</div>'
+      +   '</div>'
+      +   distTxt
+      +   '<button class="btn-go" data-order="' + s.c + '">下单</button>'
+      + '</div>';
+  }).join("");
+
+  var pr = money(it.p);
+  $("detailBody").innerHTML = ''
+    + DMASCOT
+    + '<div class="verse"><span class="vlabel">今日签</span><p>' + esc(it.v || "初来乍到，先尝为敬") + '</p></div>'
+    + '<div class="dhead">'
+    +   '<div class="dico">' + iconOf(it.n) + '</div>'
+    +   '<div class="dtitle">'
+    +     '<div class="dname">' + esc(it.n) + '</div>'
+    +     (pr !== null
+            ? '<div class="dprice"><small>¥</small>' + pr + '</div>'
+            : '<div class="dprice" style="font-size:15px">价格待定</div>')
+    +     '<div class="dcat">' + esc(it.c || "") + '</div>'
+    +   '</div>'
+    + '</div>'
+    + '<div class="ddesc">' + esc(it.d || "这一款今天刚到店，详情暂无。") + '</div>'
+    + (it.g && it.g.length
+        ? '<div class="dtags">' + it.g.map(function(t){ return '<span class="tag">' + esc(t) + '</span>'; }).join("") + '</div>'
+        : '')
+    + '<div class="score">🔥 今日热度 <b>' + cnt + '</b> 次 · 有 <b>' + it.s.length + '</b> 家门店在售</div>'
+    + actHtml
+    + '<h3 class="stitle">选一家门店去下单 <span>' + esc(META.anchor || "") + ' 附近</span></h3>'
+    + storesHtml
+    + '<div class="note">'
+    +   '<b>关于「时段校验」：</b>带这个标记的门店，货架数据来自最近一次正餐时段的实测。'
+    +   '当前若是早餐时段，这一款可能还没上架。价格与供应最终以门店实际为准。'
+    + '</div>';
+
+  show($("sheetDetail"));
+  $("sheetDetail").scrollTop = 0;
+}
+
+/* ---------- 下单 ---------- */
+var orderCtx = null;
+
+function openOrder(storeCode){
+  var it = null;
+  for(var i=0;i<ITEMS.length;i++){ if(ITEMS[i].id === currentId){ it = ITEMS[i]; break; } }
+  if(!it) return;
+  var st = null;
+  for(var j=0;j<it.s.length;j++){ if(it.s[j].c === storeCode){ st = it.s[j]; break; } }
+  if(!st) return;
+
+  orderCtx = { it: it, st: st, qty: 1 };
+  drawOrder();
+  show($("sheetOrder"));
+  $("sheetOrder").scrollTop = 0;
+}
+
+function drawOrder(){
+  var it = orderCtx.it, st = orderCtx.st, qty = orderCtx.qty;
+  var unit = (st.p != null ? st.p : it.p);
+  var total = unit == null ? null : unit * qty;
+  var pr = total == null ? "—" : ("¥" + money(total));
+
+  $("orderBody").innerHTML = ''
+    + '<div class="ostore">'
+    +   '<div class="ol">取餐门店</div>'
+    +   '<div class="on">' + esc(st.n) + '</div>'
+    +   '<div class="oa">' + (typeof st.d === "number" ? st.d + " m · " : "") + esc(st.addr || "") + '</div>'
+    + '</div>'
+    + '<div class="oitem">'
+    +   '<div class="oi">' + iconOf(it.n) + '</div>'
+    +   '<div class="onm">' + esc(it.n)
+    +     (unit != null ? '<div style="font-size:11px;color:#6B5545;font-weight:800;margin-top:2px">¥' + money(unit) + ' / 份</div>' : '')
+    +   '</div>'
+    +   '<div class="qty">'
+    +     '<button data-q="-1">−</button><span>' + qty + '</span><button data-q="1">+</button>'
+    +   '</div>'
+    + '</div>'
+    + '<div class="ototal"><span class="tl">合计（到店自取）</span><span class="tv">' + pr + '</span></div>'
+    + '<button class="btn-big" id="btnConfirm">确认下单</button>'
+    + '<button class="btn-big ghost" data-close>再想想</button>';
+
+  $("btnConfirm").addEventListener("click", confirmOrder);
+}
+
+function confirmOrder(){
+  var it = orderCtx.it, st = orderCtx.st, qty = orderCtx.qty;
+  var unit = (st.p != null ? st.p : it.p);
+  var total = unit == null ? null : (unit * qty);
+  var no = "MX" + Date.now().toString(36).toUpperCase().slice(-6);
+
+  var payload = {
+    method: "create-order",
+    params: {
+      storeCode: st.c,
+      orderType: 1,
+      beType: 1,
+      items: [{ productCode: st.pc, quantity: qty }]
+    }
+  };
+  var tstr = total == null ? "—" : money(total);
+
+  $("orderBody").innerHTML = ''
+    + '<div class="receipt">'
+    +   '<div class="rhead"><span>下单凭证</span><span class="rc">' + no + '</span></div>'
+    +   '<div class="rbody">'
+    +     '<div class="rline"><span>门店</span><b>' + esc(st.n) + '</b></div>'
+    +     '<div class="rline"><span>门店编码</span><b>' + esc(st.c) + '</b></div>'
+    +     '<div class="rline"><span>商品</span><b>' + esc(it.n) + ' × ' + qty + '</b></div>'
+    +     '<div class="rline"><span>商品编码</span><b>' + esc(st.pc) + '</b></div>'
+    +     '<div class="rline"><span>合计</span><b>¥' + tstr + '</b></div>'
+    +     '<div class="rcode">' + esc(JSON.stringify(payload, null, 2)) + '</div>'
+    +   '</div>'
+    + '</div>'
+    + '<div class="note">'
+    +   '<b>为什么不能直接付款：</b>本页是纯静态站点，没有后端，'
+    +   '无法安全存放麦当劳接口凭证。所以这一步生成的是一张<strong>可直接执行的下单指令</strong>——'
+    +   '交给支持麦当劳 MCP 的 AI 助手即可完成下单并拿到支付链接；'
+    +   '也可以在麦当劳 App 里找到这家门店，按上面的商品自助下单。'
+    +   '接入后端代理后，这里会直接返回官方支付链接。'
+    + '</div>'
+    + '<button class="btn-big" id="btnCopy">复制下单指令</button>'
+    + '<button class="btn-big ghost" data-close>关掉</button>';
+
+  $("btnCopy").addEventListener("click", function(){
+    copyText(JSON.stringify(payload, null, 2));
+  });
+}
+
+function copyText(txt){
+  if(navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(txt).then(function(){ toast("下单指令已复制"); },
+      function(){ fallbackCopy(txt); });
+  }else{ fallbackCopy(txt); }
+}
+function fallbackCopy(txt){
+  var ta = document.createElement("textarea");
+  ta.value = txt;
+  ta.style.position = "fixed"; ta.style.opacity = "0";
+  document.body.appendChild(ta);
+  ta.select();
+  try{ document.execCommand("copy"); toast("下单指令已复制"); }
+  catch(e){ toast("复制失败，请长按代码手动复制"); }
+  document.body.removeChild(ta);
+}
+
+/* ---------- toast ---------- */
+var toastTimer = null;
+function toast(msg){
+  var el = $("toast");
+  el.textContent = msg;
+  el.classList.add("show");
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(function(){ el.classList.remove("show"); }, 1900);
+}
+
+/* ---------- 事件 ---------- */
+grid.addEventListener("click", function(e){
+  var card = e.target.closest(".card");
+  if(card) openDetail(card.dataset.id);
+});
+
+$("detailBody").addEventListener("click", function(e){
+  var btn = e.target.closest("[data-order]");
+  if(btn) openOrder(btn.dataset.order);
+});
+
+$("orderBody").addEventListener("click", function(e){
+  var q = e.target.closest("[data-q]");
+  if(!q) return;
+  var delta = parseInt(q.dataset.q, 10);
+  orderCtx.qty = Math.max(1, Math.min(20, orderCtx.qty + delta));
+  drawOrder();
+});
+
+document.querySelectorAll("[data-close]").forEach(function(b){
+  b.addEventListener("click", closeAll);
+});
+mask.addEventListener("click", closeAll);
+document.addEventListener("keydown", function(e){
+  if(e.key === "Escape") closeAll();
+});
+
+document.querySelectorAll(".chip").forEach(function(c){
+  c.addEventListener("click", function(){
+    document.querySelectorAll(".chip").forEach(function(x){ x.classList.remove("on"); });
+    c.classList.add("on");
+    sortMode = c.dataset.sort;
+    renderGrid();
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  });
+});
+
+/* ---------- 启动 ---------- */
+if(META.cross && META.cross.t){
+  $("crossT").textContent = META.cross.t;
+  $("crossX").textContent = META.cross.x;
+  $("crossBox").hidden = false;
+}
+
+renderGrid();
+window.__mcdBoot = true;
+})();
+</script>
+<script>
+setTimeout(function(){
+  if(!window.__mcdBoot && !document.getElementById("boot").classList.contains("show")){
+    document.getElementById("boot").classList.add("show");
+    document.querySelector("#boot .bt").textContent = "⚠️ 交互脚本没有运行";
+    document.querySelector("#boot .bx").innerHTML = "当前页面可能被嵌在受限的预览框里（脚本被禁用）。<br>请用浏览器直接打开这个 HTML 文件。";
+  }
+}, 2600);
+</script>
+</body>
+</html>
