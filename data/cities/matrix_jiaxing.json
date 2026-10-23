@@ -1,0 +1,736 @@
+{
+  "meta": {
+    "date": "2026-10-23",
+    "city": "嘉兴市",
+    "anchor": "月河历史街区",
+    "generatedAt": "2026-10-23 13:45:19",
+    "stores": [
+      {
+        "code": "3330756",
+        "name": "麦当劳嘉兴南湖区华庭街餐厅",
+        "distance": 251,
+        "address": "华庭街购物中心N区营业用房N118、N233号商铺"
+      },
+      {
+        "code": "3330325",
+        "name": "麦当劳嘉兴戴梦得餐厅",
+        "distance": 1316,
+        "address": "禾兴南路520号"
+      },
+      {
+        "code": "3330749",
+        "name": "麦当劳嘉兴中山东路餐厅",
+        "distance": 2408,
+        "address": "中山东路"
+      },
+      {
+        "code": "3330225",
+        "name": "麦当劳嘉兴中山西路得来速餐厅",
+        "distance": 2959,
+        "address": "中山西路50号"
+      },
+      {
+        "code": "3330625",
+        "name": "麦当劳嘉兴南湖区合乐城餐厅",
+        "distance": 3476,
+        "address": "东栅街道合乐城B区内一层 B-129B号 "
+      }
+    ]
+  },
+  "stats": {
+    "raw_new": 17,
+    "dropped_nonfood": [
+      "“葱不求人“按摩捶痒痒挠",
+      "旋旋水手帽"
+    ],
+    "items": 14
+  },
+  "items": [
+    {
+      "name": "心形薯饼8块",
+      "price": 9.9,
+      "priceRange": [
+        9.9,
+        15.0
+      ],
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "限时特惠"
+      ],
+      "variants": [
+        {
+          "name": "心形薯饼8块",
+          "code": "9900016566",
+          "price": 9.9
+        },
+        {
+          "name": "心形薯饼5块",
+          "code": "9900016082",
+          "price": 15.0
+        }
+      ],
+      "stores": [
+        {
+          "code": "3330756",
+          "name": "麦当劳嘉兴南湖区华庭街餐厅",
+          "distance": 251,
+          "address": "华庭街购物中心N区营业用房N118、N233号商铺",
+          "productCode": "9900016566",
+          "price": 9.9
+        },
+        {
+          "code": "3330325",
+          "name": "麦当劳嘉兴戴梦得餐厅",
+          "distance": 1316,
+          "address": "禾兴南路520号",
+          "productCode": "9900016566",
+          "price": 9.9
+        },
+        {
+          "code": "3330749",
+          "name": "麦当劳嘉兴中山东路餐厅",
+          "distance": 2408,
+          "address": "中山东路",
+          "productCode": "9900016566",
+          "price": 9.9
+        },
+        {
+          "code": "3330225",
+          "name": "麦当劳嘉兴中山西路得来速餐厅",
+          "distance": 2959,
+          "address": "中山西路50号",
+          "productCode": "9900016566",
+          "price": 9.9
+        },
+        {
+          "code": "3330625",
+          "name": "麦当劳嘉兴南湖区合乐城餐厅",
+          "distance": 3476,
+          "address": "东栅街道合乐城B区内一层 B-129B号 ",
+          "productCode": "9900016566",
+          "price": 9.9
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "马苏里拉拉丝芝士条",
+      "price": 11.0,
+      "priceRange": null,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "趁热拉丝",
+        "奶香醇厚"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3330756",
+          "name": "麦当劳嘉兴南湖区华庭街餐厅",
+          "distance": 251,
+          "address": "华庭街购物中心N区营业用房N118、N233号商铺",
+          "productCode": "521986",
+          "price": 11.0
+        },
+        {
+          "code": "3330325",
+          "name": "麦当劳嘉兴戴梦得餐厅",
+          "distance": 1316,
+          "address": "禾兴南路520号",
+          "productCode": "521986",
+          "price": 11.0
+        },
+        {
+          "code": "3330749",
+          "name": "麦当劳嘉兴中山东路餐厅",
+          "distance": 2408,
+          "address": "中山东路",
+          "productCode": "521986",
+          "price": 11.0
+        },
+        {
+          "code": "3330225",
+          "name": "麦当劳嘉兴中山西路得来速餐厅",
+          "distance": 2959,
+          "address": "中山西路50号",
+          "productCode": "521986",
+          "price": 11.0
+        },
+        {
+          "code": "3330625",
+          "name": "麦当劳嘉兴南湖区合乐城餐厅",
+          "distance": 3476,
+          "address": "东栅街道合乐城B区内一层 B-129B号 ",
+          "productCode": "521986",
+          "price": 11.0
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "【美汁源】“多汁柠柠”",
+      "price": 12.0,
+      "priceRange": null,
+      "category": "饮品",
+      "tags": [
+        "上新",
+        "清爽上新"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3330756",
+          "name": "麦当劳嘉兴南湖区华庭街餐厅",
+          "distance": 251,
+          "address": "华庭街购物中心N区营业用房N118、N233号商铺",
+          "productCode": "521817",
+          "price": 12.0
+        },
+        {
+          "code": "3330325",
+          "name": "麦当劳嘉兴戴梦得餐厅",
+          "distance": 1316,
+          "address": "禾兴南路520号",
+          "productCode": "521817",
+          "price": 12.0
+        },
+        {
+          "code": "3330749",
+          "name": "麦当劳嘉兴中山东路餐厅",
+          "distance": 2408,
+          "address": "中山东路",
+          "productCode": "521817",
+          "price": 12.0
+        },
+        {
+          "code": "3330225",
+          "name": "麦当劳嘉兴中山西路得来速餐厅",
+          "distance": 2959,
+          "address": "中山西路50号",
+          "productCode": "521817",
+          "price": 12.0
+        },
+        {
+          "code": "3330625",
+          "name": "麦当劳嘉兴南湖区合乐城餐厅",
+          "distance": 3476,
+          "address": "东栅街道合乐城B区内一层 B-129B号 ",
+          "productCode": "521817",
+          "price": 12.0
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "龙焰鸡腿堡",
+      "price": 15.9,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3330756",
+          "name": "麦当劳嘉兴南湖区华庭街餐厅",
+          "distance": 251,
+          "address": "华庭街购物中心N区营业用房N118、N233号商铺",
+          "productCode": "521952",
+          "price": 15.9
+        },
+        {
+          "code": "3330325",
+          "name": "麦当劳嘉兴戴梦得餐厅",
+          "distance": 1316,
+          "address": "禾兴南路520号",
+          "productCode": "521952",
+          "price": 15.9
+        },
+        {
+          "code": "3330749",
+          "name": "麦当劳嘉兴中山东路餐厅",
+          "distance": 2408,
+          "address": "中山东路",
+          "productCode": "521952",
+          "price": 15.9
+        },
+        {
+          "code": "3330225",
+          "name": "麦当劳嘉兴中山西路得来速餐厅",
+          "distance": 2959,
+          "address": "中山西路50号",
+          "productCode": "521952",
+          "price": 15.9
+        },
+        {
+          "code": "3330625",
+          "name": "麦当劳嘉兴南湖区合乐城餐厅",
+          "distance": 3476,
+          "address": "东栅街道合乐城B区内一层 B-129B号 ",
+          "productCode": "521952",
+          "price": 15.9
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "“我就喜欢”鸡薯双全盒",
+      "price": 15.9,
+      "priceRange": null,
+      "category": "小食拼盘/多人餐",
+      "tags": [
+        "上新",
+        "心形薯饼同款比心"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3330756",
+          "name": "麦当劳嘉兴南湖区华庭街餐厅",
+          "distance": 251,
+          "address": "华庭街购物中心N区营业用房N118、N233号商铺",
+          "productCode": "9900016076",
+          "price": 15.9
+        },
+        {
+          "code": "3330325",
+          "name": "麦当劳嘉兴戴梦得餐厅",
+          "distance": 1316,
+          "address": "禾兴南路520号",
+          "productCode": "9900016076",
+          "price": 15.9
+        },
+        {
+          "code": "3330749",
+          "name": "麦当劳嘉兴中山东路餐厅",
+          "distance": 2408,
+          "address": "中山东路",
+          "productCode": "9900016076",
+          "price": 15.9
+        },
+        {
+          "code": "3330225",
+          "name": "麦当劳嘉兴中山西路得来速餐厅",
+          "distance": 2959,
+          "address": "中山西路50号",
+          "productCode": "9900016076",
+          "price": 15.9
+        },
+        {
+          "code": "3330625",
+          "name": "麦当劳嘉兴南湖区合乐城餐厅",
+          "distance": 3476,
+          "address": "东栅街道合乐城B区内一层 B-129B号 ",
+          "productCode": "9900016076",
+          "price": 15.9
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "蓝莓爆爆珠麦旋风",
+      "price": 16.0,
+      "priceRange": null,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "蓝莓"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3330756",
+          "name": "麦当劳嘉兴南湖区华庭街餐厅",
+          "distance": 251,
+          "address": "华庭街购物中心N区营业用房N118、N233号商铺",
+          "productCode": "521950",
+          "price": 16.0
+        },
+        {
+          "code": "3330325",
+          "name": "麦当劳嘉兴戴梦得餐厅",
+          "distance": 1316,
+          "address": "禾兴南路520号",
+          "productCode": "521950",
+          "price": 16.0
+        },
+        {
+          "code": "3330749",
+          "name": "麦当劳嘉兴中山东路餐厅",
+          "distance": 2408,
+          "address": "中山东路",
+          "productCode": "521950",
+          "price": 16.0
+        },
+        {
+          "code": "3330225",
+          "name": "麦当劳嘉兴中山西路得来速餐厅",
+          "distance": 2959,
+          "address": "中山西路50号",
+          "productCode": "521950",
+          "price": 16.0
+        },
+        {
+          "code": "3330625",
+          "name": "麦当劳嘉兴南湖区合乐城餐厅",
+          "distance": 3476,
+          "address": "东栅街道合乐城B区内一层 B-129B号 ",
+          "productCode": "521950",
+          "price": 16.0
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "龙焰鸡腿堡三件套",
+      "price": 26.9,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3330756",
+          "name": "麦当劳嘉兴南湖区华庭街餐厅",
+          "distance": 251,
+          "address": "华庭街购物中心N区营业用房N118、N233号商铺",
+          "productCode": "9900016073",
+          "price": 26.9
+        },
+        {
+          "code": "3330325",
+          "name": "麦当劳嘉兴戴梦得餐厅",
+          "distance": 1316,
+          "address": "禾兴南路520号",
+          "productCode": "9900016073",
+          "price": 26.9
+        },
+        {
+          "code": "3330749",
+          "name": "麦当劳嘉兴中山东路餐厅",
+          "distance": 2408,
+          "address": "中山东路",
+          "productCode": "9900016073",
+          "price": 26.9
+        },
+        {
+          "code": "3330225",
+          "name": "麦当劳嘉兴中山西路得来速餐厅",
+          "distance": 2959,
+          "address": "中山西路50号",
+          "productCode": "9900016073",
+          "price": 26.9
+        },
+        {
+          "code": "3330625",
+          "name": "麦当劳嘉兴南湖区合乐城餐厅",
+          "distance": 3476,
+          "address": "东栅街道合乐城B区内一层 B-129B号 ",
+          "productCode": "9900016073",
+          "price": 26.9
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "龙焰芝士棒鸡腿堡",
+      "price": 27.0,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "浓郁奶香拉丝芝士"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3330756",
+          "name": "麦当劳嘉兴南湖区华庭街餐厅",
+          "distance": 251,
+          "address": "华庭街购物中心N区营业用房N118、N233号商铺",
+          "productCode": "521953",
+          "price": 27.0
+        },
+        {
+          "code": "3330325",
+          "name": "麦当劳嘉兴戴梦得餐厅",
+          "distance": 1316,
+          "address": "禾兴南路520号",
+          "productCode": "521953",
+          "price": 27.0
+        },
+        {
+          "code": "3330749",
+          "name": "麦当劳嘉兴中山东路餐厅",
+          "distance": 2408,
+          "address": "中山东路",
+          "productCode": "521953",
+          "price": 27.0
+        },
+        {
+          "code": "3330225",
+          "name": "麦当劳嘉兴中山西路得来速餐厅",
+          "distance": 2959,
+          "address": "中山西路50号",
+          "productCode": "521953",
+          "price": 27.0
+        },
+        {
+          "code": "3330625",
+          "name": "麦当劳嘉兴南湖区合乐城餐厅",
+          "distance": 3476,
+          "address": "东栅街道合乐城B区内一层 B-129B号 ",
+          "productCode": "521953",
+          "price": 27.0
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "龙焰芝士棒鸡腿堡三件套",
+      "price": 29.9,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "浓郁奶香拉丝芝士"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3330756",
+          "name": "麦当劳嘉兴南湖区华庭街餐厅",
+          "distance": 251,
+          "address": "华庭街购物中心N区营业用房N118、N233号商铺",
+          "productCode": "9900016075",
+          "price": 29.9
+        },
+        {
+          "code": "3330325",
+          "name": "麦当劳嘉兴戴梦得餐厅",
+          "distance": 1316,
+          "address": "禾兴南路520号",
+          "productCode": "9900016075",
+          "price": 29.9
+        },
+        {
+          "code": "3330749",
+          "name": "麦当劳嘉兴中山东路餐厅",
+          "distance": 2408,
+          "address": "中山东路",
+          "productCode": "9900016075",
+          "price": 29.9
+        },
+        {
+          "code": "3330225",
+          "name": "麦当劳嘉兴中山西路得来速餐厅",
+          "distance": 2959,
+          "address": "中山西路50号",
+          "productCode": "9900016075",
+          "price": 29.9
+        },
+        {
+          "code": "3330625",
+          "name": "麦当劳嘉兴南湖区合乐城餐厅",
+          "distance": 3476,
+          "address": "东栅街道合乐城B区内一层 B-129B号 ",
+          "productCode": "9900016075",
+          "price": 29.9
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "板烧鸡腿堡三件套",
+      "price": 34.5,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "新升级",
+        "更多汁"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3330756",
+          "name": "麦当劳嘉兴南湖区华庭街餐厅",
+          "distance": 251,
+          "address": "华庭街购物中心N区营业用房N118、N233号商铺",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "3330325",
+          "name": "麦当劳嘉兴戴梦得餐厅",
+          "distance": 1316,
+          "address": "禾兴南路520号",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "3330749",
+          "name": "麦当劳嘉兴中山东路餐厅",
+          "distance": 2408,
+          "address": "中山东路",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "3330225",
+          "name": "麦当劳嘉兴中山西路得来速餐厅",
+          "distance": 2959,
+          "address": "中山西路50号",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "3330625",
+          "name": "麦当劳嘉兴南湖区合乐城餐厅",
+          "distance": 3476,
+          "address": "东栅街道合乐城B区内一层 B-129B号 ",
+          "productCode": "9900005462",
+          "price": 34.5
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "灰焰圆筒",
+      "price": 5.0,
+      "priceRange": null,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "灰焰"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3330756",
+          "name": "麦当劳嘉兴南湖区华庭街餐厅",
+          "distance": 251,
+          "address": "华庭街购物中心N区营业用房N118、N233号商铺",
+          "productCode": "521951",
+          "price": 5.0
+        },
+        {
+          "code": "3330749",
+          "name": "麦当劳嘉兴中山东路餐厅",
+          "distance": 2408,
+          "address": "中山东路",
+          "productCode": "521951",
+          "price": 5.0
+        },
+        {
+          "code": "3330225",
+          "name": "麦当劳嘉兴中山西路得来速餐厅",
+          "distance": 2959,
+          "address": "中山西路50号",
+          "productCode": "521951",
+          "price": 5.0
+        },
+        {
+          "code": "3330625",
+          "name": "麦当劳嘉兴南湖区合乐城餐厅",
+          "distance": 3476,
+          "address": "东栅街道合乐城B区内一层 B-129B号 ",
+          "productCode": "521951",
+          "price": 5.0
+        }
+      ],
+      "storeCount": 4
+    },
+    {
+      "name": "泷愿成真麦旋风——大米风味",
+      "price": 16.0,
+      "priceRange": null,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "快乐旋开吃"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3330756",
+          "name": "麦当劳嘉兴南湖区华庭街餐厅",
+          "distance": 251,
+          "address": "华庭街购物中心N区营业用房N118、N233号商铺",
+          "productCode": "521917",
+          "price": 16.0
+        },
+        {
+          "code": "3330325",
+          "name": "麦当劳嘉兴戴梦得餐厅",
+          "distance": 1316,
+          "address": "禾兴南路520号",
+          "productCode": "521917",
+          "price": 16.0
+        },
+        {
+          "code": "3330625",
+          "name": "麦当劳嘉兴南湖区合乐城餐厅",
+          "distance": 3476,
+          "address": "东栅街道合乐城B区内一层 B-129B号 ",
+          "productCode": "521917",
+          "price": 16.0
+        }
+      ],
+      "storeCount": 3
+    },
+    {
+      "name": "酥酥多笋卷",
+      "price": 20.5,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "单品",
+        "全新升级",
+        "川香风味"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3330756",
+          "name": "麦当劳嘉兴南湖区华庭街餐厅",
+          "distance": 251,
+          "address": "华庭街购物中心N区营业用房N118、N233号商铺",
+          "productCode": "521816",
+          "price": 20.5
+        }
+      ],
+      "storeCount": 1
+    },
+    {
+      "name": "酥酥多笋卷三件套",
+      "price": 31.5,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "全新升级",
+        "川香风味"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3330756",
+          "name": "麦当劳嘉兴南湖区华庭街餐厅",
+          "distance": 251,
+          "address": "华庭街购物中心N区营业用房N118、N233号商铺",
+          "productCode": "9900015008",
+          "price": 31.5
+        }
+      ],
+      "storeCount": 1
+    }
+  ]
+}

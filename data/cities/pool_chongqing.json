@@ -1,0 +1,184 @@
+{
+  "generated_at": "2026-10-23 13:54:41",
+  "date": "2026-10-23",
+  "anchor": {
+    "city": "重庆市",
+    "keyword": "解放碑"
+  },
+  "store": {
+    "storeCode": "3450149",
+    "storeName": "麦当劳重庆金鹰财富中心餐厅",
+    "address": "解放碑邹容路82号负一层",
+    "distance_m": 73,
+    "businessStartTime": "07:00",
+    "businessEndTime": "23:59"
+  },
+  "stats": {
+    "menu_total": 98,
+    "tagged_new": 15,
+    "non_food_dropped": 1,
+    "food_new": 14,
+    "after_fold": 14
+  },
+  "dropped_non_food": [
+    "旋旋星愿贴"
+  ],
+  "pool": [
+    {
+      "code": "9900016077",
+      "name": "蘸酱炸鸡",
+      "price_fen": 1900,
+      "price_yuan": 19.0,
+      "category": "人气热卖",
+      "tags": [
+        "韩式芝士风味酱上新"
+      ]
+    },
+    {
+      "code": "9900016073",
+      "name": "龙焰鸡腿堡三件套",
+      "price_fen": 5300,
+      "price_yuan": 53.0,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ]
+    },
+    {
+      "code": "521952",
+      "name": "龙焰鸡腿堡",
+      "price_fen": 2750,
+      "price_yuan": 27.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ]
+    },
+    {
+      "code": "9900015850",
+      "name": "咸蛋黄鸡腿蛋月堡三件套",
+      "price_fen": 5450,
+      "price_yuan": 54.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "酥脆鸡腿排",
+        "滑嫩蒸蛋"
+      ]
+    },
+    {
+      "code": "521900",
+      "name": "咸蛋黄鸡腿蛋月堡",
+      "price_fen": 2850,
+      "price_yuan": 28.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "酥脆鸡腿排",
+        "滑嫩蒸蛋"
+      ]
+    },
+    {
+      "code": "9900005462",
+      "name": "板烧鸡腿堡三件套",
+      "price_fen": 5250,
+      "price_yuan": 52.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "新升级",
+        "更多汁"
+      ]
+    },
+    {
+      "code": "9900015726",
+      "name": "韩式甜辣酱鸡块",
+      "price_fen": 3300,
+      "price_yuan": 33.0,
+      "category": "小食拼盘/多人餐",
+      "tags": [
+        "上新",
+        "韩式风味"
+      ]
+    },
+    {
+      "code": "9900016078",
+      "name": "蘸酱麦麦脆汁鸡",
+      "price_fen": 1900,
+      "price_yuan": 19.0,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "韩式芝士风味酱上新"
+      ]
+    },
+    {
+      "code": "9900016096",
+      "name": "蘸酱韩式甜辣酱鸡块",
+      "price_fen": 1950,
+      "price_yuan": 19.5,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "韩式芝士风味酱上新"
+      ]
+    },
+    {
+      "code": "9900015729",
+      "name": "蘸酱BFF四宫格小食盘",
+      "price_fen": 6250,
+      "price_yuan": 62.5,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
+      ]
+    },
+    {
+      "code": "521951",
+      "name": "灰焰圆筒",
+      "price_fen": 500,
+      "price_yuan": 5.0,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "灰焰"
+      ]
+    },
+    {
+      "code": "521906",
+      "name": "玫瑰红糖糍粑风味派",
+      "price_fen": 1100,
+      "price_yuan": 11.0,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "玫瑰花香"
+      ]
+    },
+    {
+      "code": "521922",
+      "name": "奶香大米派",
+      "price_fen": 1050,
+      "price_yuan": 10.5,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "生日米香派对"
+      ]
+    },
+    {
+      "code": "521817",
+      "name": "【美汁源】“多汁柠柠”",
+      "price_fen": 1350,
+      "price_yuan": 13.5,
+      "category": "饮品",
+      "tags": [
+        "上新",
+        "清爽上新"
+      ]
+    }
+  ]
+}

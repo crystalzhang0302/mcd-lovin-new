@@ -81,6 +81,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--pool", default=None, help="指定 pool json 路径")
     ap.add_argument("--matrix", default=None, help="指定 matrix json 路径")
+    ap.add_argument("--out", default=None, help="输出 js 路径（默认 data/items.js）")
     a = ap.parse_args()
 
     pool_path = a.pool or latest("pool_*.json")
@@ -172,10 +173,12 @@ def main():
     }
     os.makedirs(DATA, exist_ok=True)
     js = "window.NEW_DATA = " + json.dumps(out, ensure_ascii=False, indent=1) + ";\n"
-    with open(os.path.join(DATA, "items.js"), "w", encoding="utf-8") as f:
+    out_path = a.out or os.path.join(DATA, "items.js")
+    os.makedirs(os.path.dirname(out_path) or ".", exist_ok=True)
+    with open(out_path, "w", encoding="utf-8") as f:
         f.write(js)
 
-    print("写入 data/items.js")
+    print("写入", out_path)
     print("新品 %d 个（%s 池 + %s 门店快照）" % (
         len(items), out["meta"]["poolAt"], out["meta"]["matrixAt"] or "无"))
     if no_copy:

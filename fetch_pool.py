@@ -29,10 +29,11 @@ ORDER_TYPE_STORE = 1
 NEW_TAG_KEYWORDS = ("上新", "新升级", "新吃法")
 
 # 非食品（周边 / 玩具 / 联名物），必须在候选池里剔除
-NON_FOOD_KEYWORDS = ("丝巾", "棒球帽", "帽", "徽章", "痒痒挠", "捶", "玩具", "周边", "手提袋", "杯", "摆件")
+NON_FOOD_KEYWORDS = ("丝巾", "棒球帽", "帽", "徽章", "痒痒挠", "捶", "玩具", "周边", "手提袋", "杯", "摆件",
+                     "单肩包", "背包", "挎包", "手包", "包袋", "耳机包", "贴纸", "星愿贴", "挂件", "玩偶", "手办")
 
 # 规格后缀，用于把同一餐品的不同规格折叠成一个「品」
-SPEC_PATTERN = re.compile(r"(\d+\s*块|\d+\s*个|\d+\s*只|\d+\s*片|\d+\s*件|\d+\s*杯|大杯|中杯|小杯|大份|中份|小份)$")
+SPEC_PATTERN = re.compile(r"[（(]?(\d+\s*块|\d+\s*个|\d+\s*只|\d+\s*片|\d+\s*件|\d+\s*杯|大杯|中杯|小杯|大份|中份|小份)[)）]?$")
 
 
 def get_token():
@@ -109,7 +110,7 @@ def fold_specs(items):
     folded = []
     for base, members in groups.items():
         main = dict(members[0])
-        main["name"] = base if len(members) > 1 else members[0]["name"]
+        main["name"] = base  # 统一用基础名，保证跨城市显示一致且能匹配文案资产
         if len(members) > 1:
             main["variants"] = [m["name"] for m in members]
         folded.append(main)
@@ -141,8 +142,7 @@ def main():
     for c in cats:
         for m in (c.get("meals") or []):
             m = dict(m)
-            m["category"] = re.sub(r"/{2,}", "/", (c.get("name") or "").replace("
-", ""))
+            m["category"] = re.sub(r"/{2,}", "/", (c.get("name") or "").replace("\n", ""))
             all_meals.append(m)
     print(f"菜单：{len(cats)} 个分类 / {len(all_meals)} 个在售餐品")
 

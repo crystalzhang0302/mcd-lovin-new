@@ -1,0 +1,191 @@
+{
+  "generated_at": "2026-10-23 13:45:00",
+  "date": "2026-10-23",
+  "anchor": {
+    "city": "嘉兴市",
+    "keyword": "月河历史街区"
+  },
+  "store": {
+    "storeCode": "3330756",
+    "storeName": "麦当劳嘉兴南湖区华庭街餐厅",
+    "address": "华庭街购物中心N区营业用房N118、N233号商铺",
+    "distance_m": 251,
+    "businessStartTime": "07:00",
+    "businessEndTime": "22:00"
+  },
+  "stats": {
+    "menu_total": 110,
+    "tagged_new": 17,
+    "non_food_dropped": 2,
+    "food_new": 15,
+    "after_fold": 14
+  },
+  "dropped_non_food": [
+    "旋旋水手帽",
+    "“葱不求人“按摩捶痒痒挠"
+  ],
+  "pool": [
+    {
+      "code": "9900016075",
+      "name": "龙焰芝士棒鸡腿堡三件套",
+      "price_fen": 2990,
+      "price_yuan": 29.9,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "浓郁奶香拉丝芝士"
+      ]
+    },
+    {
+      "code": "9900016073",
+      "name": "龙焰鸡腿堡三件套",
+      "price_fen": 2690,
+      "price_yuan": 26.9,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ]
+    },
+    {
+      "code": "521953",
+      "name": "龙焰芝士棒鸡腿堡",
+      "price_fen": 2700,
+      "price_yuan": 27.0,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "浓郁奶香拉丝芝士"
+      ]
+    },
+    {
+      "code": "521952",
+      "name": "龙焰鸡腿堡",
+      "price_fen": 1590,
+      "price_yuan": 15.9,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ]
+    },
+    {
+      "code": "9900005462",
+      "name": "板烧鸡腿堡三件套",
+      "price_fen": 3450,
+      "price_yuan": 34.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "新升级",
+        "更多汁"
+      ]
+    },
+    {
+      "code": "9900015008",
+      "name": "酥酥多笋卷三件套",
+      "price_fen": 3150,
+      "price_yuan": 31.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "全新升级",
+        "川香风味"
+      ]
+    },
+    {
+      "code": "521816",
+      "name": "酥酥多笋卷",
+      "price_fen": 2050,
+      "price_yuan": 20.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "单品",
+        "全新升级",
+        "川香风味"
+      ]
+    },
+    {
+      "code": "9900016076",
+      "name": "“我就喜欢”鸡薯双全盒",
+      "price_fen": 1590,
+      "price_yuan": 15.9,
+      "category": "小食拼盘/多人餐",
+      "tags": [
+        "上新",
+        "心形薯饼同款比心"
+      ]
+    },
+    {
+      "code": "9900016566",
+      "name": "心形薯饼",
+      "price_fen": 990,
+      "price_yuan": 9.9,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "限时特惠"
+      ],
+      "variants": [
+        "心形薯饼8块",
+        "心形薯饼5块"
+      ]
+    },
+    {
+      "code": "521986",
+      "name": "马苏里拉拉丝芝士条",
+      "price_fen": 1100,
+      "price_yuan": 11.0,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "趁热拉丝",
+        "奶香醇厚"
+      ]
+    },
+    {
+      "code": "521950",
+      "name": "蓝莓爆爆珠麦旋风",
+      "price_fen": 1600,
+      "price_yuan": 16.0,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "蓝莓"
+      ]
+    },
+    {
+      "code": "521951",
+      "name": "灰焰圆筒",
+      "price_fen": 500,
+      "price_yuan": 5.0,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "灰焰"
+      ]
+    },
+    {
+      "code": "521917",
+      "name": "泷愿成真麦旋风——大米风味",
+      "price_fen": 1600,
+      "price_yuan": 16.0,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "快乐旋开吃"
+      ]
+    },
+    {
+      "code": "521817",
+      "name": "【美汁源】“多汁柠柠”",
+      "price_fen": 1200,
+      "price_yuan": 12.0,
+      "category": "饮品",
+      "tags": [
+        "上新",
+        "清爽上新"
+      ]
+    }
+  ]
+}

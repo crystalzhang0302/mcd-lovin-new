@@ -1,0 +1,16 @@
+{
+  "_说明": "城市配置包：增删城市或更换锚点地标，改这个文件即可，无需改代码。keyword 填城市中心好找的地标（商圈/车站/景区），MCP 用它搜周边门店。slug 用于数据文件名，只能用小写字母数字。",
+  "cities": [
+    {"slug": "shanghai",  "name": "上海", "city": "上海市", "keyword": "人民广场"},
+    {"slug": "beijing",   "name": "北京", "city": "北京市", "keyword": "国贸"},
+    {"slug": "guangzhou", "name": "广州", "city": "广州市", "keyword": "体育西路"},
+    {"slug": "shenzhen",  "name": "深圳", "city": "深圳市", "keyword": "华强北"},
+    {"slug": "chengdu",   "name": "成都", "city": "成都市", "keyword": "春熙路"},
+    {"slug": "hangzhou",  "name": "杭州", "city": "杭州市", "keyword": "武林广场"},
+    {"slug": "nanjing",   "name": "南京", "city": "南京市", "keyword": "新街口"},
+    {"slug": "wuhan",     "name": "武汉", "city": "武汉市", "keyword": "江汉路"},
+    {"slug": "chongqing", "name": "重庆", "city": "重庆市", "keyword": "解放碑"},
+    {"slug": "xian",      "name": "西安", "city": "西安市", "keyword": "钟楼"},
+    {"slug": "jiaxing",   "name": "嘉兴", "city": "嘉兴市", "keyword": "月河历史街区"}
+  ]
+}

@@ -442,6 +442,22 @@ h1{
 #boot.show{display:grid}
 #boot .bt{font-size:15px;font-weight:900;margin-bottom:8px}
 #boot .bx{font-size:12px;font-weight:700;line-height:1.7;color:var(--ink-l)}
+/* ---------- 城市切换 ---------- */
+.citybar{
+  display:flex; gap:8px; overflow-x:auto; padding:10px 20px 2px;
+  -webkit-overflow-scrolling:touch; scrollbar-width:none;
+}
+.citybar::-webkit-scrollbar{ display:none; }
+.citybar .cchip{
+  flex:0 0 auto; border:1.6px solid #E8D9BC; background:#FFFDF6; color:#6B5232;
+  font:inherit; font-size:13px; font-weight:600; padding:7px 14px; border-radius:999px;
+  cursor:pointer; transition:all .15s;
+}
+.citybar .cchip.on{
+  background:#DA291C; border-color:#DA291C; color:#fff;
+  box-shadow:0 3px 10px rgba(218,41,28,.28);
+}
+.citybar .cchip.loading{ opacity:.5; pointer-events:none; }
 </style>
 </head>
 <body>
@@ -455,6 +471,7 @@ h1{
     <span class="live"><i class="dot-live"></i><span id="dateTag">加载中</span></span>
     <span id="sumTag"></span>
   </p>
+  <nav class="citybar" id="cityBar" hidden aria-label="切换城市"></nav>
 </header>
 
 <section class="hero">
@@ -538,6 +555,7 @@ h1{
   </div>
 </div>
 
+<script src="data/cities/manifest.js"></script>
 <script src="data/items.js" onerror="document.getElementById('boot').classList.add('show')"></script>
 <script>
 (function(){
@@ -942,14 +960,92 @@ document.querySelectorAll(".chip").forEach(function(c){
 });
 
 /* ---------- 启动 ---------- */
-if(META.cross && META.cross.t){
-  $("crossT").textContent = META.cross.t;
-  $("crossX").textContent = META.cross.x;
-  $("crossBox").hidden = false;
+function applyCross(){
+  if(META.cross && META.cross.t){
+    $("crossT").textContent = META.cross.t;
+    $("crossX").textContent = META.cross.x;
+    $("crossBox").hidden = false;
+  }else{
+    $("crossBox").hidden = true;
+  }
 }
+applyCross();
+
+/* 城市切换入口：切换器脚本注入新数据脚本后调用此钩子整体重渲染 */
+window.__mcdApply = function(data){
+  if(!data || !data.items) return;
+  D = data;
+  META = D.meta || {};
+  ITEMS = D.items.slice();
+  applyCross();
+  renderGrid();
+  window.scrollTo({ top: 0 });
+};
 
 renderGrid();
 window.__mcdBoot = true;
+})();
+</script>
+<script>
+/* ---------- 城市切换器：读 data/cities/manifest.js，按需注入城市数据包 ---------- */
+(function(){
+"use strict";
+var M = window.CITY_MANIFEST;
+if(!M || !M.cities || M.cities.length < 2) return;   /* 单城/旧数据：不显示切换器 */
+
+var bar = document.getElementById("cityBar");
+var CKEY = "mcd_city_v1";
+var current = M.default;
+
+function saved(){
+  try{ return localStorage.getItem(CKEY); }catch(e){ return null; }
+}
+
+M.cities.forEach(function(c){
+  var b = document.createElement("button");
+  b.className = "cchip" + (c.slug === current ? " on" : "");
+  b.type = "button";
+  b.textContent = c.name;
+  b.dataset.slug = c.slug;
+  b.addEventListener("click", function(){ switchTo(c.slug, b); });
+  bar.appendChild(b);
+});
+bar.hidden = false;
+
+function mark(slug){
+  bar.querySelectorAll(".cchip").forEach(function(x){
+    x.classList.toggle("on", x.dataset.slug === slug);
+  });
+}
+
+function switchTo(slug, chip){
+  if(slug === current) return;
+  if(chip) chip.classList.add("loading");
+  var s = document.createElement("script");
+  s.src = "data/cities/" + slug + ".js";
+  s.onload = function(){
+    if(window.NEW_DATA && window.__mcdApply){
+      window.__mcdApply(window.NEW_DATA);
+      current = slug;
+      mark(slug);
+      try{ localStorage.setItem(CKEY, slug); }catch(e){}
+    }
+    if(chip) chip.classList.remove("loading");
+  };
+  s.onerror = function(){
+    if(chip) chip.classList.remove("loading");
+    /* 数据包缺失：不切换，恢复标记 */
+    mark(current);
+  };
+  document.body.appendChild(s);
+}
+
+/* 记住用户上次选的城市：启动完成后自动切过去 */
+var last = saved();
+if(last && last !== current){
+  var chip = bar.querySelector('[data-slug="' + last + '"]');
+  if(chip) switchTo(last, chip);
+}
 })();
 </script>
 <script>
