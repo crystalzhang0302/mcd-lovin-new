@@ -4,9 +4,9 @@
 >
 > **非麦当劳官方产品**，基于麦当劳开放 MCP 能力独立开发，为「1024 程序员节 · 麦当劳程序员创意开发大赛（M-CODE）」参赛作品。
 
-**🚀 在线体验：https://crystalzhang0302.github.io/mcd-lovin-new/**（手机可直接打开，11 个城市随点随切）
+**🚀 在线体验**：<https://crystalzhang0302.github.io/mcd-lovin-new/> （手机可直接打开，11 个城市随点随切）
 
-![screenshots](out/v4_home.png)
+![screenshots](out/v4_home_mobile.jpg)
 
 ## 这是什么
 
