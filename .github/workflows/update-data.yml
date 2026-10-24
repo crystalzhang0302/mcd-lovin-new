@@ -39,7 +39,7 @@ jobs:
         env:
           MCD_MCP_TOKEN: ${{ secrets.MCD_MCP_TOKEN }}
 
-      - name: 提交并推送（有变化才提交）
+      - name: 提交并推送（有变化才提交，先 rebase 防冲突）
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -48,5 +48,6 @@ jobs:
             echo "数据无变化，跳过提交"
           else
             git commit -m "每日数据更新 $(date -u +%F) $([ "$(date -u +%H)" = "23" ] && echo 早餐时段 || echo 正餐时段) (Actions)"
+            git pull --rebase origin main
             git push
           fi
