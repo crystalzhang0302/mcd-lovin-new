@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24 00:38:33",
+  "generated_at": "2026-10-24 04:23:13",
   "date": "2026-10-24",
   "anchor": {
     "city": "嘉兴市",
@@ -14,16 +14,120 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 79,
-    "tagged_new": 5,
-    "non_food_dropped": 1,
-    "food_new": 4,
-    "after_fold": 4
+    "menu_total": 108,
+    "tagged_new": 15,
+    "non_food_dropped": 2,
+    "food_new": 13,
+    "after_fold": 13
   },
   "dropped_non_food": [
-    "旋旋水手帽"
+    "旋旋水手帽",
+    "“葱不求人“按摩捶痒痒挠"
   ],
   "pool": [
+    {
+      "code": "9900016308",
+      "name": "蘸酱脆皮鸡块",
+      "price_fen": 1990,
+      "price_yuan": 19.9,
+      "category": "小食拼盘/多人餐",
+      "tags": [
+        "上新",
+        "蘸酱炸鸡新吃法"
+      ]
+    },
+    {
+      "code": "9900016075",
+      "name": "龙焰芝士棒鸡腿堡三件套",
+      "price_fen": 2990,
+      "price_yuan": 29.9,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "浓郁奶香拉丝芝士"
+      ]
+    },
+    {
+      "code": "9900016073",
+      "name": "龙焰鸡腿堡三件套",
+      "price_fen": 2690,
+      "price_yuan": 26.9,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ]
+    },
+    {
+      "code": "521953",
+      "name": "龙焰芝士棒鸡腿堡",
+      "price_fen": 2700,
+      "price_yuan": 27.0,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "浓郁奶香拉丝芝士"
+      ]
+    },
+    {
+      "code": "521952",
+      "name": "龙焰鸡腿堡",
+      "price_fen": 1590,
+      "price_yuan": 15.9,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ]
+    },
+    {
+      "code": "9900005462",
+      "name": "板烧鸡腿堡三件套",
+      "price_fen": 3450,
+      "price_yuan": 34.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "新升级",
+        "更多汁"
+      ]
+    },
+    {
+      "code": "9900015008",
+      "name": "酥酥多笋卷三件套",
+      "price_fen": 3150,
+      "price_yuan": 31.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "全新升级",
+        "川香风味"
+      ]
+    },
+    {
+      "code": "521816",
+      "name": "酥酥多笋卷",
+      "price_fen": 2050,
+      "price_yuan": 20.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "单品",
+        "全新升级",
+        "川香风味"
+      ]
+    },
+    {
+      "code": "521986",
+      "name": "马苏里拉拉丝芝士条",
+      "price_fen": 1100,
+      "price_yuan": 11.0,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "趁热拉丝",
+        "奶香醇厚"
+      ]
+    },
     {
       "code": "521950",
       "name": "蓝莓爆爆珠麦旋风",
