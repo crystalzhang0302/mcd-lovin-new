@@ -3,7 +3,7 @@
     "date": "2026-10-24",
     "city": "武汉市",
     "anchor": "江汉路",
-    "generatedAt": "2026-10-24 04:19:54",
+    "generatedAt": "2026-10-24 07:50:24",
     "stores": [
       {
         "code": "1960008",
@@ -38,7 +38,7 @@
     ]
   },
   "stats": {
-    "raw_new": 25,
+    "raw_new": 24,
     "dropped_nonfood": [
       "薯条脆卜卜绒绒耳机包",
       "薯条脆卜卜嘭嘭单肩包",
@@ -47,7 +47,7 @@
       "麦当劳联名徽章",
       "麦当劳限定丝巾"
     ],
-    "items": 18
+    "items": 17
   },
   "items": [
     {
@@ -583,66 +583,6 @@
       "storeCount": 4
     },
     {
-      "name": "心形薯饼8块",
-      "price": 9.9,
-      "priceRange": [
-        9.9,
-        15.5
-      ],
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "限时特惠"
-      ],
-      "variants": [
-        {
-          "name": "心形薯饼8块",
-          "code": "9900016566",
-          "price": 9.9
-        },
-        {
-          "name": "心形薯饼5块",
-          "code": "9900016082",
-          "price": 15.5
-        }
-      ],
-      "stores": [
-        {
-          "code": "1960008",
-          "name": "麦当劳武汉HAPPY站台餐厅(江汉路地铁H出口)",
-          "distance": 144,
-          "address": "中山大道888号新佳丽广场负一楼happy站台",
-          "productCode": "9900016566",
-          "price": 9.9
-        },
-        {
-          "code": "1960138",
-          "name": "麦当劳武汉江汉路大汉口餐厅",
-          "distance": 149,
-          "address": "水塔街中山大道539号",
-          "productCode": "9900016566",
-          "price": 9.9
-        },
-        {
-          "code": "1960073",
-          "name": "麦当劳武汉宝利金餐厅",
-          "distance": 169,
-          "address": "花楼街198号宝利金国际广场二期四座一层１－２号，二层１－４、30-34号商铺",
-          "productCode": "9900016566",
-          "price": 9.9
-        },
-        {
-          "code": "1960258",
-          "name": "麦当劳武汉民众乐园餐厅",
-          "distance": 610,
-          "address": "中山大道704号",
-          "productCode": "9900016566",
-          "price": 9.9
-        }
-      ],
-      "storeCount": 4
-    },
-    {
       "name": "马苏里拉拉丝芝士条",
       "price": 11.0,
       "priceRange": null,
@@ -828,6 +768,58 @@
       "storeCount": 4
     },
     {
+      "name": "心形薯饼8块",
+      "price": 9.9,
+      "priceRange": [
+        9.9,
+        15.5
+      ],
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "限时特惠"
+      ],
+      "variants": [
+        {
+          "name": "心形薯饼8块",
+          "code": "9900016566",
+          "price": 9.9
+        },
+        {
+          "name": "心形薯饼5块",
+          "code": "9900016082",
+          "price": 15.5
+        }
+      ],
+      "stores": [
+        {
+          "code": "1960008",
+          "name": "麦当劳武汉HAPPY站台餐厅(江汉路地铁H出口)",
+          "distance": 144,
+          "address": "中山大道888号新佳丽广场负一楼happy站台",
+          "productCode": "9900016566",
+          "price": 9.9
+        },
+        {
+          "code": "1960138",
+          "name": "麦当劳武汉江汉路大汉口餐厅",
+          "distance": 149,
+          "address": "水塔街中山大道539号",
+          "productCode": "9900016566",
+          "price": 9.9
+        },
+        {
+          "code": "1960073",
+          "name": "麦当劳武汉宝利金餐厅",
+          "distance": 169,
+          "address": "花楼街198号宝利金国际广场二期四座一层１－２号，二层１－４、30-34号商铺",
+          "productCode": "9900016566",
+          "price": 9.9
+        }
+      ],
+      "storeCount": 3
+    },
+    {
       "name": "“我就喜欢”鸡薯双全盒",
       "price": 15.9,
       "priceRange": null,
@@ -861,44 +853,6 @@
           "address": "花楼街198号宝利金国际广场二期四座一层１－２号，二层１－４、30-34号商铺",
           "productCode": "9900016076",
           "price": 15.9
-        }
-      ],
-      "storeCount": 3
-    },
-    {
-      "name": "蓝莓爆爆珠麦旋风",
-      "price": 16.5,
-      "priceRange": null,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "蓝莓"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1960008",
-          "name": "麦当劳武汉HAPPY站台餐厅(江汉路地铁H出口)",
-          "distance": 144,
-          "address": "中山大道888号新佳丽广场负一楼happy站台",
-          "productCode": "521950",
-          "price": 16.5
-        },
-        {
-          "code": "1960073",
-          "name": "麦当劳武汉宝利金餐厅",
-          "distance": 169,
-          "address": "花楼街198号宝利金国际广场二期四座一层１－２号，二层１－４、30-34号商铺",
-          "productCode": "521950",
-          "price": 16.5
-        },
-        {
-          "code": "1960258",
-          "name": "麦当劳武汉民众乐园餐厅",
-          "distance": 610,
-          "address": "中山大道704号",
-          "productCode": "521950",
-          "price": 16.5
         }
       ],
       "storeCount": 3

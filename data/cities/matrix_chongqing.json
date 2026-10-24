@@ -3,7 +3,7 @@
     "date": "2026-10-24",
     "city": "重庆市",
     "anchor": "解放碑",
-    "generatedAt": "2026-10-24 04:21:19",
+    "generatedAt": "2026-10-24 07:52:03",
     "stores": [
       {
         "code": "3450149",
@@ -38,13 +38,13 @@
     ]
   },
   "stats": {
-    "raw_new": 14,
+    "raw_new": 13,
     "dropped_nonfood": [
       "薯条脆卜卜嘭嘭单肩包",
       "旋旋水手帽",
       "旋旋星愿贴"
     ],
-    "items": 11
+    "items": 10
   },
   "items": [
     {
@@ -274,28 +274,6 @@
         }
       ],
       "storeCount": 2
-    },
-    {
-      "name": "奶香大米派",
-      "price": 10.5,
-      "priceRange": null,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "生日米香派对"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "3450149",
-          "name": "麦当劳重庆金鹰财富中心餐厅",
-          "distance": 73,
-          "address": "解放碑邹容路82号负一层",
-          "productCode": "521922",
-          "price": 10.5
-        }
-      ],
-      "storeCount": 1
     },
     {
       "name": "蘸酱韩式甜辣酱鸡块",

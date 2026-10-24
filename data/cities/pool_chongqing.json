@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24 04:20:12",
+  "generated_at": "2026-10-24 07:50:49",
   "date": "2026-10-24",
   "anchor": {
     "city": "重庆市",
@@ -14,11 +14,11 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 97,
-    "tagged_new": 12,
+    "menu_total": 90,
+    "tagged_new": 11,
     "non_food_dropped": 1,
-    "food_new": 11,
-    "after_fold": 11
+    "food_new": 10,
+    "after_fold": 10
   },
   "dropped_non_food": [
     "旋旋星愿贴"
@@ -134,17 +134,6 @@
       "tags": [
         "上新",
         "玫瑰花香"
-      ]
-    },
-    {
-      "code": "521922",
-      "name": "奶香大米派",
-      "price_fen": 1050,
-      "price_yuan": 10.5,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "生日米香派对"
       ]
     }
   ]

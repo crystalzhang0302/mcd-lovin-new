@@ -4,8 +4,8 @@ window.NEW_DATA = {
   "city": "嘉兴市",
   "anchor": "月河历史街区",
   "poolAt": "jiaxing",
-  "matrixAt": "2026-10-24 04:24:15",
-  "generatedAt": "2026-10-24 04:24:15",
+  "matrixAt": "2026-10-24 07:55:43",
+  "generatedAt": "2026-10-24 07:55:43",
   "stores": [
    {
     "code": "3330756",

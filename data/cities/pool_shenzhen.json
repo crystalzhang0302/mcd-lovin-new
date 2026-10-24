@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24 04:12:39",
+  "generated_at": "2026-10-24 07:41:02",
   "date": "2026-10-24",
   "anchor": {
     "city": "深圳市",
@@ -14,7 +14,7 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 138,
+    "menu_total": 140,
     "tagged_new": 25,
     "non_food_dropped": 5,
     "food_new": 20,

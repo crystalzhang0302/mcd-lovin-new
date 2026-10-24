@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24 04:18:45",
+  "generated_at": "2026-10-24 07:48:55",
   "date": "2026-10-24",
   "anchor": {
     "city": "武汉市",
@@ -15,10 +15,10 @@
   },
   "stats": {
     "menu_total": 139,
-    "tagged_new": 23,
+    "tagged_new": 22,
     "non_food_dropped": 3,
-    "food_new": 19,
-    "after_fold": 18
+    "food_new": 18,
+    "after_fold": 17
   },
   "dropped_non_food": [
     "麦当劳限定丝巾",
@@ -183,17 +183,6 @@
         "上新",
         "趁热拉丝",
         "奶香醇厚"
-      ]
-    },
-    {
-      "code": "521950",
-      "name": "蓝莓爆爆珠麦旋风",
-      "price_fen": 1650,
-      "price_yuan": 16.5,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "蓝莓"
       ]
     },
     {

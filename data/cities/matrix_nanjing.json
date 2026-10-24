@@ -3,7 +3,7 @@
     "date": "2026-10-24",
     "city": "南京市",
     "anchor": "新街口",
-    "generatedAt": "2026-10-24 04:18:14",
+    "generatedAt": "2026-10-24 07:48:14",
     "stores": [
       {
         "code": "1990346",
@@ -271,6 +271,60 @@
           "address": "白下区汉中路139-7号环亚广场一楼麦当劳",
           "productCode": "9900016096",
           "price": 11.9
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "【美汁源】“多汁柠柠”",
+      "price": 12.0,
+      "priceRange": null,
+      "category": "饮品",
+      "tags": [
+        "上新",
+        "清爽上新"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1990346",
+          "name": "麦当劳南京新百餐厅",
+          "distance": 182,
+          "address": "中山南路1号A座负一层G-A-025号商铺",
+          "productCode": "521817",
+          "price": 12.0
+        },
+        {
+          "code": "1990043",
+          "name": "麦当劳南京洪武餐厅",
+          "distance": 519,
+          "address": "洪武路119号",
+          "productCode": "521817",
+          "price": 12.0
+        },
+        {
+          "code": "1990675",
+          "name": "麦当劳南京新街口苏宁餐厅",
+          "distance": 645,
+          "address": "淮海路 88 号苏宁广场一层101B商铺",
+          "productCode": "521817",
+          "price": 12.0
+        },
+        {
+          "code": "1990762",
+          "name": "麦当劳南京青奥城市客厅餐厅",
+          "distance": 645,
+          "address": "中山东路145号1F-18、19商铺",
+          "productCode": "521817",
+          "price": 12.0
+        },
+        {
+          "code": "1990100",
+          "name": "麦当劳南京汉中路餐厅",
+          "distance": 740,
+          "address": "白下区汉中路139-7号环亚广场一楼麦当劳",
+          "productCode": "521817",
+          "price": 12.0
         }
       ],
       "storeCount": 5
@@ -697,52 +751,6 @@
           "address": "白下区汉中路139-7号环亚广场一楼麦当劳",
           "productCode": "521986",
           "price": 11.0
-        }
-      ],
-      "storeCount": 4
-    },
-    {
-      "name": "【美汁源】“多汁柠柠”",
-      "price": 12.0,
-      "priceRange": null,
-      "category": "饮品",
-      "tags": [
-        "上新",
-        "清爽上新"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1990346",
-          "name": "麦当劳南京新百餐厅",
-          "distance": 182,
-          "address": "中山南路1号A座负一层G-A-025号商铺",
-          "productCode": "521817",
-          "price": 12.0
-        },
-        {
-          "code": "1990043",
-          "name": "麦当劳南京洪武餐厅",
-          "distance": 519,
-          "address": "洪武路119号",
-          "productCode": "521817",
-          "price": 12.0
-        },
-        {
-          "code": "1990762",
-          "name": "麦当劳南京青奥城市客厅餐厅",
-          "distance": 645,
-          "address": "中山东路145号1F-18、19商铺",
-          "productCode": "521817",
-          "price": 12.0
-        },
-        {
-          "code": "1990100",
-          "name": "麦当劳南京汉中路餐厅",
-          "distance": 740,
-          "address": "白下区汉中路139-7号环亚广场一楼麦当劳",
-          "productCode": "521817",
-          "price": 12.0
         }
       ],
       "storeCount": 4

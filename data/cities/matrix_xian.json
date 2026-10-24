@@ -3,7 +3,7 @@
     "date": "2026-10-24",
     "city": "西安市",
     "anchor": "钟楼",
-    "generatedAt": "2026-10-24 04:22:47",
+    "generatedAt": "2026-10-24 07:53:56",
     "stores": [
       {
         "code": "1960622",
@@ -38,11 +38,11 @@
     ]
   },
   "stats": {
-    "raw_new": 18,
+    "raw_new": 15,
     "dropped_nonfood": [
       "“葱不求人“按摩捶痒痒挠"
     ],
-    "items": 16
+    "items": 13
   },
   "items": [
     {
@@ -586,53 +586,6 @@
       "storeCount": 5
     },
     {
-      "name": "马苏里拉拉丝芝士条",
-      "price": 11.0,
-      "priceRange": null,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "趁热拉丝",
-        "奶香醇厚"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1960622",
-          "name": "麦当劳西安开元餐厅",
-          "distance": 152,
-          "address": "东大街解放市场6号首层",
-          "productCode": "521986",
-          "price": 11.0
-        },
-        {
-          "code": "1960668",
-          "name": "麦当劳西安北大街餐厅",
-          "distance": 255,
-          "address": "北大街28号",
-          "productCode": "521986",
-          "price": 11.0
-        },
-        {
-          "code": "1960701",
-          "name": "麦当劳西安北大街地铁站下沉广场餐厅",
-          "distance": 1114,
-          "address": "北大街地铁站下沉广场",
-          "productCode": "521986",
-          "price": 11.0
-        },
-        {
-          "code": "1960737",
-          "name": "麦当劳西安合生汇餐厅",
-          "distance": 1177,
-          "address": "南大街合生汇",
-          "productCode": "521986",
-          "price": 11.0
-        }
-      ],
-      "storeCount": 4
-    },
-    {
       "name": "咸蛋黄鸡腿蛋月堡",
       "price": 25.0,
       "priceRange": null,
@@ -722,98 +675,6 @@
           "address": "南大街合生汇",
           "productCode": "9900015850",
           "price": 26.9
-        }
-      ],
-      "storeCount": 4
-    },
-    {
-      "name": "龙焰芝士棒鸡腿堡",
-      "price": 27.0,
-      "priceRange": null,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "浓郁奶香拉丝芝士"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1960622",
-          "name": "麦当劳西安开元餐厅",
-          "distance": 152,
-          "address": "东大街解放市场6号首层",
-          "productCode": "521953",
-          "price": 27.0
-        },
-        {
-          "code": "1960668",
-          "name": "麦当劳西安北大街餐厅",
-          "distance": 255,
-          "address": "北大街28号",
-          "productCode": "521953",
-          "price": 27.0
-        },
-        {
-          "code": "1960701",
-          "name": "麦当劳西安北大街地铁站下沉广场餐厅",
-          "distance": 1114,
-          "address": "北大街地铁站下沉广场",
-          "productCode": "521953",
-          "price": 27.0
-        },
-        {
-          "code": "1960737",
-          "name": "麦当劳西安合生汇餐厅",
-          "distance": 1177,
-          "address": "南大街合生汇",
-          "productCode": "521953",
-          "price": 27.0
-        }
-      ],
-      "storeCount": 4
-    },
-    {
-      "name": "龙焰芝士棒鸡腿堡三件套",
-      "price": 29.9,
-      "priceRange": null,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "浓郁奶香拉丝芝士"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1960622",
-          "name": "麦当劳西安开元餐厅",
-          "distance": 152,
-          "address": "东大街解放市场6号首层",
-          "productCode": "9900016075",
-          "price": 29.9
-        },
-        {
-          "code": "1960668",
-          "name": "麦当劳西安北大街餐厅",
-          "distance": 255,
-          "address": "北大街28号",
-          "productCode": "9900016075",
-          "price": 29.9
-        },
-        {
-          "code": "1960701",
-          "name": "麦当劳西安北大街地铁站下沉广场餐厅",
-          "distance": 1114,
-          "address": "北大街地铁站下沉广场",
-          "productCode": "9900016075",
-          "price": 29.9
-        },
-        {
-          "code": "1960737",
-          "name": "麦当劳西安合生汇餐厅",
-          "distance": 1177,
-          "address": "南大街合生汇",
-          "productCode": "9900016075",
-          "price": 29.9
         }
       ],
       "storeCount": 4

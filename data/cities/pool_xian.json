@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24 04:21:43",
+  "generated_at": "2026-10-24 07:52:32",
   "date": "2026-10-24",
   "anchor": {
     "city": "西安市",
@@ -14,11 +14,11 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 124,
-    "tagged_new": 17,
+    "menu_total": 120,
+    "tagged_new": 14,
     "non_food_dropped": 0,
-    "food_new": 17,
-    "after_fold": 16
+    "food_new": 14,
+    "after_fold": 13
   },
   "dropped_non_food": [],
   "pool": [
@@ -48,17 +48,6 @@
       ]
     },
     {
-      "code": "9900016075",
-      "name": "龙焰芝士棒鸡腿堡三件套",
-      "price_fen": 2990,
-      "price_yuan": 29.9,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "浓郁奶香拉丝芝士"
-      ]
-    },
-    {
       "code": "9900016073",
       "name": "龙焰鸡腿堡三件套",
       "price_fen": 2690,
@@ -67,17 +56,6 @@
       "tags": [
         "上新",
         "韩式辣椒黄油风味"
-      ]
-    },
-    {
-      "code": "521953",
-      "name": "龙焰芝士棒鸡腿堡",
-      "price_fen": 2700,
-      "price_yuan": 27.0,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "浓郁奶香拉丝芝士"
       ]
     },
     {
@@ -169,18 +147,6 @@
       "tags": [
         "上新",
         "限时特惠"
-      ]
-    },
-    {
-      "code": "521986",
-      "name": "马苏里拉拉丝芝士条",
-      "price_fen": 1100,
-      "price_yuan": 11.0,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "趁热拉丝",
-        "奶香醇厚"
       ]
     },
     {

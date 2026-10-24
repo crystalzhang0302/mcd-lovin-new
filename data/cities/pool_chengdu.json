@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24 04:14:11",
+  "generated_at": "2026-10-24 07:43:00",
   "date": "2026-10-24",
   "anchor": {
     "city": "成都市",
@@ -14,11 +14,11 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 122,
-    "tagged_new": 19,
+    "menu_total": 136,
+    "tagged_new": 20,
     "non_food_dropped": 2,
-    "food_new": 17,
-    "after_fold": 17
+    "food_new": 18,
+    "after_fold": 18
   },
   "dropped_non_food": [
     "麦当劳限定丝巾",
@@ -157,6 +157,17 @@
         "上新",
         "精选三文鱼",
         "整颗虾仁"
+      ]
+    },
+    {
+      "code": "9900015704",
+      "name": "厚薯泥培根肉酱双牛堡买一送一",
+      "price_fen": 2890,
+      "price_yuan": 28.9,
+      "category": "巨无霸牛鱼肉堡",
+      "tags": [
+        "上新",
+        "我就喜欢代言人同款"
       ]
     },
     {
