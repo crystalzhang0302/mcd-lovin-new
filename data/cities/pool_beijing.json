@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-10-24 08:18:37",
+  "generated_at": "2026-10-24 00:33:25",
   "date": "2026-10-24",
   "anchor": {
     "city": "北京市",
     "keyword": "国贸"
   },
   "store": {
-    "storeCode": "1950581",
-    "storeName": "麦当劳北京光华东里餐厅",
-    "address": "光华东里8号院1号楼B1层B1-03商铺 ",
-    "distance_m": 394,
+    "storeCode": "1950564",
+    "storeName": "麦当劳北京建外SOHO(A座)餐厅",
+    "address": "东三环中路39号院建外SOHO-A座",
+    "distance_m": 269,
     "businessStartTime": "07:00",
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 101,
+    "menu_total": 97,
     "tagged_new": 5,
     "non_food_dropped": 1,
     "food_new": 4,

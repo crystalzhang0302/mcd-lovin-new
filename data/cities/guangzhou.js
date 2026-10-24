@@ -4,8 +4,8 @@ window.NEW_DATA = {
   "city": "广州市",
   "anchor": "体育西路",
   "poolAt": "guangzhou",
-  "matrixAt": "2026-10-24 08:18:55",
-  "generatedAt": "2026-10-24 08:21:00",
+  "matrixAt": "2026-10-24 00:34:12",
+  "generatedAt": "2026-10-24 00:38:53",
   "stores": [
    {
     "code": "1400011",

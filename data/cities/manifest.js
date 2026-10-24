@@ -1,5 +1,5 @@
 window.CITY_MANIFEST = {
- "generatedAt": "2026-10-24 08:21:02",
+ "generatedAt": "2026-10-24 00:38:53",
  "default": "shanghai",
  "cities": [
   {
