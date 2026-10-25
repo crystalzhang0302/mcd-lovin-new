@@ -3,7 +3,7 @@
     "date": "2026-10-25",
     "city": "北京市",
     "anchor": "国贸",
-    "generatedAt": "2026-10-25 00:41:39",
+    "generatedAt": "2026-10-25 07:51:46",
     "stores": [
       {
         "code": "1950564",
@@ -38,11 +38,13 @@
     ]
   },
   "stats": {
-    "raw_new": 5,
+    "raw_new": 11,
     "dropped_nonfood": [
-      "薯条脆卜卜嘭嘭单肩包"
+      "薯条脆卜卜嘭嘭单肩包",
+      "“葱不求人“按摩捶痒痒挠",
+      "麦当劳限定丝巾"
     ],
-    "items": 4
+    "items": 8
   },
   "items": [
     {
@@ -95,6 +97,169 @@
           "address": "东三环中路25号住总大厦",
           "productCode": "521817",
           "price": 12.0
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "龙焰鸡腿堡",
+      "price": 15.9,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1950564",
+          "name": "麦当劳北京建外SOHO(A座)餐厅",
+          "distance": 269,
+          "address": "东三环中路39号院建外SOHO-A座",
+          "productCode": "521952",
+          "price": 15.9
+        },
+        {
+          "code": "1950581",
+          "name": "麦当劳北京光华东里餐厅",
+          "distance": 394,
+          "address": "光华东里8号院1号楼B1层B1-03商铺 ",
+          "productCode": "521952",
+          "price": 15.9
+        },
+        {
+          "code": "1950754",
+          "name": "麦当劳北京景辉街餐厅",
+          "distance": 538,
+          "address": "阳光保险金融中心地下一层麦当劳",
+          "productCode": "521952",
+          "price": 15.9
+        },
+        {
+          "code": "1950925",
+          "name": "麦当劳北京光华路世纪财富中心餐厅",
+          "distance": 649,
+          "address": "光华路5号院世纪财富中心B1-107",
+          "productCode": "521952",
+          "price": 15.9
+        },
+        {
+          "code": "1950553",
+          "name": "麦当劳北京景华南街餐厅",
+          "distance": 729,
+          "address": "东三环中路25号住总大厦",
+          "productCode": "521952",
+          "price": 15.9
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "龙焰鸡腿堡三件套",
+      "price": 26.9,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1950564",
+          "name": "麦当劳北京建外SOHO(A座)餐厅",
+          "distance": 269,
+          "address": "东三环中路39号院建外SOHO-A座",
+          "productCode": "9900016073",
+          "price": 26.9
+        },
+        {
+          "code": "1950581",
+          "name": "麦当劳北京光华东里餐厅",
+          "distance": 394,
+          "address": "光华东里8号院1号楼B1层B1-03商铺 ",
+          "productCode": "9900016073",
+          "price": 26.9
+        },
+        {
+          "code": "1950754",
+          "name": "麦当劳北京景辉街餐厅",
+          "distance": 538,
+          "address": "阳光保险金融中心地下一层麦当劳",
+          "productCode": "9900016073",
+          "price": 26.9
+        },
+        {
+          "code": "1950925",
+          "name": "麦当劳北京光华路世纪财富中心餐厅",
+          "distance": 649,
+          "address": "光华路5号院世纪财富中心B1-107",
+          "productCode": "9900016073",
+          "price": 26.9
+        },
+        {
+          "code": "1950553",
+          "name": "麦当劳北京景华南街餐厅",
+          "distance": 729,
+          "address": "东三环中路25号住总大厦",
+          "productCode": "9900016073",
+          "price": 26.9
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "板烧鸡腿堡三件套",
+      "price": 34.5,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "新升级",
+        "更多汁"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1950564",
+          "name": "麦当劳北京建外SOHO(A座)餐厅",
+          "distance": 269,
+          "address": "东三环中路39号院建外SOHO-A座",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "1950581",
+          "name": "麦当劳北京光华东里餐厅",
+          "distance": 394,
+          "address": "光华东里8号院1号楼B1层B1-03商铺 ",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "1950754",
+          "name": "麦当劳北京景辉街餐厅",
+          "distance": 538,
+          "address": "阳光保险金融中心地下一层麦当劳",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "1950925",
+          "name": "麦当劳北京光华路世纪财富中心餐厅",
+          "distance": 649,
+          "address": "光华路5号院世纪财富中心B1-107",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "1950553",
+          "name": "麦当劳北京景华南街餐厅",
+          "distance": 729,
+          "address": "东三环中路25号住总大厦",
+          "productCode": "9900005462",
+          "price": 34.5
         }
       ],
       "storeCount": 5
@@ -187,6 +352,52 @@
           "address": "东三环中路25号住总大厦",
           "productCode": "521950",
           "price": 16.5
+        }
+      ],
+      "storeCount": 4
+    },
+    {
+      "name": "蘸酱BFF四宫格小食盘",
+      "price": 41.8,
+      "priceRange": null,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1950564",
+          "name": "麦当劳北京建外SOHO(A座)餐厅",
+          "distance": 269,
+          "address": "东三环中路39号院建外SOHO-A座",
+          "productCode": "9900015729",
+          "price": 41.8
+        },
+        {
+          "code": "1950581",
+          "name": "麦当劳北京光华东里餐厅",
+          "distance": 394,
+          "address": "光华东里8号院1号楼B1层B1-03商铺 ",
+          "productCode": "9900015729",
+          "price": 41.8
+        },
+        {
+          "code": "1950754",
+          "name": "麦当劳北京景辉街餐厅",
+          "distance": 538,
+          "address": "阳光保险金融中心地下一层麦当劳",
+          "productCode": "9900015729",
+          "price": 41.8
+        },
+        {
+          "code": "1950553",
+          "name": "麦当劳北京景华南街餐厅",
+          "distance": 729,
+          "address": "东三环中路25号住总大厦",
+          "productCode": "9900015729",
+          "price": 41.8
         }
       ],
       "storeCount": 4

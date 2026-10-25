@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25 00:41:22",
+  "generated_at": "2026-10-25 07:49:44",
   "date": "2026-10-25",
   "anchor": {
     "city": "北京市",
@@ -14,16 +14,63 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 99,
-    "tagged_new": 5,
-    "non_food_dropped": 1,
-    "food_new": 4,
-    "after_fold": 4
+    "menu_total": 119,
+    "tagged_new": 11,
+    "non_food_dropped": 3,
+    "food_new": 8,
+    "after_fold": 8
   },
   "dropped_non_food": [
+    "麦当劳限定丝巾",
+    "“葱不求人“按摩捶痒痒挠",
     "薯条脆卜卜嘭嘭单肩包"
   ],
   "pool": [
+    {
+      "code": "9900016073",
+      "name": "龙焰鸡腿堡三件套",
+      "price_fen": 2690,
+      "price_yuan": 26.9,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ]
+    },
+    {
+      "code": "521952",
+      "name": "龙焰鸡腿堡",
+      "price_fen": 1590,
+      "price_yuan": 15.9,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ]
+    },
+    {
+      "code": "9900005462",
+      "name": "板烧鸡腿堡三件套",
+      "price_fen": 3450,
+      "price_yuan": 34.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "新升级",
+        "更多汁"
+      ]
+    },
+    {
+      "code": "9900015729",
+      "name": "蘸酱BFF四宫格小食盘",
+      "price_fen": 4180,
+      "price_yuan": 41.8,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
+      ]
+    },
     {
       "code": "521950",
       "name": "蓝莓爆爆珠麦旋风",
