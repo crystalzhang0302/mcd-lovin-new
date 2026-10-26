@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25 08:06:11",
-  "date": "2026-10-25",
+  "generated_at": "2026-10-26 00:56:08",
+  "date": "2026-10-26",
   "anchor": {
     "city": "西安市",
     "keyword": "钟楼"
@@ -14,130 +14,14 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 117,
-    "tagged_new": 13,
+    "menu_total": 92,
+    "tagged_new": 2,
     "non_food_dropped": 0,
-    "food_new": 13,
-    "after_fold": 12
+    "food_new": 2,
+    "after_fold": 2
   },
   "dropped_non_food": [],
   "pool": [
-    {
-      "code": "9900016077",
-      "name": "蘸酱炸鸡",
-      "price_fen": 1190,
-      "price_yuan": 11.9,
-      "category": "人气热卖",
-      "tags": [
-        "韩式芝士风味酱上新"
-      ]
-    },
-    {
-      "code": "9900016308",
-      "name": "蘸酱脆皮鸡块",
-      "price_fen": 1990,
-      "price_yuan": 19.9,
-      "category": "小食拼盘/多人餐",
-      "tags": [
-        "上新",
-        "蘸酱炸鸡新吃法"
-      ],
-      "variants": [
-        "蘸酱脆皮鸡块8块",
-        "蘸酱脆皮鸡块"
-      ]
-    },
-    {
-      "code": "9900016073",
-      "name": "龙焰鸡腿堡三件套",
-      "price_fen": 2690,
-      "price_yuan": 26.9,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "韩式辣椒黄油风味"
-      ]
-    },
-    {
-      "code": "521952",
-      "name": "龙焰鸡腿堡",
-      "price_fen": 1590,
-      "price_yuan": 15.9,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "韩式辣椒黄油风味"
-      ]
-    },
-    {
-      "code": "9900015850",
-      "name": "咸蛋黄鸡腿蛋月堡三件套",
-      "price_fen": 2690,
-      "price_yuan": 26.9,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "酥脆鸡腿排",
-        "滑嫩蒸蛋"
-      ]
-    },
-    {
-      "code": "521900",
-      "name": "咸蛋黄鸡腿蛋月堡",
-      "price_fen": 2500,
-      "price_yuan": 25.0,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "酥脆鸡腿排",
-        "滑嫩蒸蛋"
-      ]
-    },
-    {
-      "code": "9900005462",
-      "name": "板烧鸡腿堡三件套",
-      "price_fen": 3450,
-      "price_yuan": 34.5,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "套餐",
-        "新升级",
-        "更多汁"
-      ]
-    },
-    {
-      "code": "9900016078",
-      "name": "蘸酱麦麦脆汁鸡",
-      "price_fen": 1190,
-      "price_yuan": 11.9,
-      "category": "蘸酱炸鸡",
-      "tags": [
-        "蘸酱炸鸡",
-        "韩式芝士风味酱上新"
-      ]
-    },
-    {
-      "code": "9900015729",
-      "name": "蘸酱BFF四宫格小食盘",
-      "price_fen": 4330,
-      "price_yuan": 43.3,
-      "category": "蘸酱炸鸡",
-      "tags": [
-        "蘸酱炸鸡",
-        "蘸酱炸鸡新吃法"
-      ]
-    },
-    {
-      "code": "521881",
-      "name": "马来咖喱风味薄皮肉骨鸡",
-      "price_fen": 1500,
-      "price_yuan": 15.0,
-      "category": "炸鸡",
-      "tags": [
-        "上新",
-        "浓郁咖喱飘香"
-      ]
-    },
     {
       "code": "521917",
       "name": "泷愿成真麦旋风——大米风味",
