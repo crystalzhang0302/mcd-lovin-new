@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27 01:45:55",
+  "generated_at": "2026-10-27 08:28:11",
   "date": "2026-10-27",
   "anchor": {
     "city": "杭州市",
@@ -14,14 +14,122 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 104,
-    "tagged_new": 4,
-    "non_food_dropped": 0,
-    "food_new": 4,
-    "after_fold": 4
+    "menu_total": 123,
+    "tagged_new": 16,
+    "non_food_dropped": 2,
+    "food_new": 14,
+    "after_fold": 13
   },
-  "dropped_non_food": [],
+  "dropped_non_food": [
+    "麦当劳限定丝巾",
+    "“葱不求人“按摩捶痒痒挠"
+  ],
   "pool": [
+    {
+      "code": "9900016077",
+      "name": "蘸酱炸鸡",
+      "price_fen": 1190,
+      "price_yuan": 11.9,
+      "category": "人气热卖",
+      "tags": [
+        "韩式芝士风味酱上新"
+      ]
+    },
+    {
+      "code": "9900016073",
+      "name": "龙焰鸡腿堡三件套",
+      "price_fen": 2690,
+      "price_yuan": 26.9,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ]
+    },
+    {
+      "code": "521952",
+      "name": "龙焰鸡腿堡",
+      "price_fen": 1590,
+      "price_yuan": 15.9,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ]
+    },
+    {
+      "code": "9900005462",
+      "name": "板烧鸡腿堡三件套",
+      "price_fen": 3450,
+      "price_yuan": 34.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "新升级",
+        "更多汁"
+      ]
+    },
+    {
+      "code": "9900016308",
+      "name": "蘸酱脆皮鸡块",
+      "price_fen": 1990,
+      "price_yuan": 19.9,
+      "category": "小食拼盘/多人餐",
+      "tags": [
+        "上新",
+        "蘸酱炸鸡新吃法"
+      ],
+      "variants": [
+        "蘸酱脆皮鸡块8块",
+        "蘸酱脆皮鸡块"
+      ]
+    },
+    {
+      "code": "9900016078",
+      "name": "蘸酱麦麦脆汁鸡",
+      "price_fen": 1190,
+      "price_yuan": 11.9,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "韩式芝士风味酱上新"
+      ]
+    },
+    {
+      "code": "9900015729",
+      "name": "蘸酱BFF四宫格小食盘",
+      "price_fen": 4330,
+      "price_yuan": 43.3,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
+      ]
+    },
+    {
+      "code": "9900015851",
+      "name": "三文鱼双虾至尊月堡三件套",
+      "price_fen": 3690,
+      "price_yuan": 36.9,
+      "category": "巨无霸牛鱼肉堡",
+      "tags": [
+        "上新",
+        "精选三文鱼",
+        "整颗虾仁"
+      ]
+    },
+    {
+      "code": "521903",
+      "name": "三文鱼双虾至尊月堡",
+      "price_fen": 3100,
+      "price_yuan": 31.0,
+      "category": "巨无霸牛鱼肉堡",
+      "tags": [
+        "上新",
+        "精选三文鱼",
+        "整颗虾仁"
+      ]
+    },
     {
       "code": "521950",
       "name": "蓝莓爆爆珠麦旋风",

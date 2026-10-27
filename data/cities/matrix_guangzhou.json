@@ -3,7 +3,7 @@
     "date": "2026-10-27",
     "city": "广州市",
     "anchor": "体育西路",
-    "generatedAt": "2026-10-27 01:44:28",
+    "generatedAt": "2026-10-27 08:24:22",
     "stores": [
       {
         "code": "1400011",
@@ -16,6 +16,12 @@
         "name": "麦当劳广州维多利广场餐厅",
         "distance": 418,
         "address": "体育西路101号维多利广场首层及二层部分"
+      },
+      {
+        "code": "1400194",
+        "name": "麦当劳广州正佳五楼餐厅",
+        "distance": 547,
+        "address": "天河路228号正佳广场五楼561铺"
       },
       {
         "code": "1400489",
@@ -32,60 +38,17 @@
     ]
   },
   "stats": {
-    "raw_new": 5,
+    "raw_new": 19,
     "dropped_nonfood": [
       "薯条脆卜卜嘭嘭单肩包",
-      "旋旋水手帽"
+      "“葱不求人“按摩捶痒痒挠",
+      "旋旋水手帽",
+      "麦当劳联名复古棒球帽",
+      "麦当劳限定丝巾"
     ],
-    "items": 3
+    "items": 14
   },
   "items": [
-    {
-      "name": "【美汁源】“多汁柠柠”",
-      "price": 12.0,
-      "priceRange": null,
-      "category": "饮品",
-      "tags": [
-        "上新",
-        "清爽上新"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1400011",
-          "name": "麦当劳广州今日广场餐厅",
-          "distance": 82,
-          "address": "体育西路77号首层及二层",
-          "productCode": "521817",
-          "price": 12.0
-        },
-        {
-          "code": "1400401",
-          "name": "麦当劳广州维多利广场餐厅",
-          "distance": 418,
-          "address": "体育西路101号维多利广场首层及二层部分",
-          "productCode": "521817",
-          "price": 12.0
-        },
-        {
-          "code": "1400489",
-          "name": "麦当劳广州富力盈通餐厅",
-          "distance": 563,
-          "address": "珠江新城华夏路30号富力盈通大厦首层108号商铺",
-          "productCode": "521817",
-          "price": 12.0
-        },
-        {
-          "code": "1400246",
-          "name": "麦当劳广州花城大道第二餐厅(花城汇北区)",
-          "distance": 586,
-          "address": "花城大道89号花城汇北区负一层1065-2、1065-3号",
-          "productCode": "521817",
-          "price": 12.0
-        }
-      ],
-      "storeCount": 4
-    },
     {
       "name": "灰焰圆筒",
       "price": 5.0,
@@ -114,6 +77,22 @@
           "price": 5.0
         },
         {
+          "code": "1400194",
+          "name": "麦当劳广州正佳五楼餐厅",
+          "distance": 547,
+          "address": "天河路228号正佳广场五楼561铺",
+          "productCode": "521951",
+          "price": 5.0
+        },
+        {
+          "code": "1400489",
+          "name": "麦当劳广州富力盈通餐厅",
+          "distance": 563,
+          "address": "珠江新城华夏路30号富力盈通大厦首层108号商铺",
+          "productCode": "521951",
+          "price": 5.0
+        },
+        {
           "code": "1400246",
           "name": "麦当劳广州花城大道第二餐厅(花城汇北区)",
           "distance": 586,
@@ -122,7 +101,276 @@
           "price": 5.0
         }
       ],
-      "storeCount": 3
+      "storeCount": 5
+    },
+    {
+      "name": "蘸酱炸鸡",
+      "price": 11.9,
+      "priceRange": null,
+      "category": "人气热卖",
+      "tags": [
+        "韩式芝士风味酱上新"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1400011",
+          "name": "麦当劳广州今日广场餐厅",
+          "distance": 82,
+          "address": "体育西路77号首层及二层",
+          "productCode": "9900016077",
+          "price": 11.9
+        },
+        {
+          "code": "1400401",
+          "name": "麦当劳广州维多利广场餐厅",
+          "distance": 418,
+          "address": "体育西路101号维多利广场首层及二层部分",
+          "productCode": "9900016077",
+          "price": 11.9
+        },
+        {
+          "code": "1400194",
+          "name": "麦当劳广州正佳五楼餐厅",
+          "distance": 547,
+          "address": "天河路228号正佳广场五楼561铺",
+          "productCode": "9900016077",
+          "price": 11.9
+        },
+        {
+          "code": "1400489",
+          "name": "麦当劳广州富力盈通餐厅",
+          "distance": 563,
+          "address": "珠江新城华夏路30号富力盈通大厦首层108号商铺",
+          "productCode": "9900016077",
+          "price": 11.9
+        },
+        {
+          "code": "1400246",
+          "name": "麦当劳广州花城大道第二餐厅(花城汇北区)",
+          "distance": 586,
+          "address": "花城大道89号花城汇北区负一层1065-2、1065-3号",
+          "productCode": "9900016077",
+          "price": 11.9
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "蘸酱麦麦脆汁鸡",
+      "price": 11.9,
+      "priceRange": null,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "韩式芝士风味酱上新"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1400011",
+          "name": "麦当劳广州今日广场餐厅",
+          "distance": 82,
+          "address": "体育西路77号首层及二层",
+          "productCode": "9900016078",
+          "price": 11.9
+        },
+        {
+          "code": "1400401",
+          "name": "麦当劳广州维多利广场餐厅",
+          "distance": 418,
+          "address": "体育西路101号维多利广场首层及二层部分",
+          "productCode": "9900016078",
+          "price": 11.9
+        },
+        {
+          "code": "1400194",
+          "name": "麦当劳广州正佳五楼餐厅",
+          "distance": 547,
+          "address": "天河路228号正佳广场五楼561铺",
+          "productCode": "9900016078",
+          "price": 11.9
+        },
+        {
+          "code": "1400489",
+          "name": "麦当劳广州富力盈通餐厅",
+          "distance": 563,
+          "address": "珠江新城华夏路30号富力盈通大厦首层108号商铺",
+          "productCode": "9900016078",
+          "price": 11.9
+        },
+        {
+          "code": "1400246",
+          "name": "麦当劳广州花城大道第二餐厅(花城汇北区)",
+          "distance": 586,
+          "address": "花城大道89号花城汇北区负一层1065-2、1065-3号",
+          "productCode": "9900016078",
+          "price": 11.9
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "【美汁源】“多汁柠柠”",
+      "price": 12.0,
+      "priceRange": null,
+      "category": "饮品",
+      "tags": [
+        "上新",
+        "清爽上新"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1400011",
+          "name": "麦当劳广州今日广场餐厅",
+          "distance": 82,
+          "address": "体育西路77号首层及二层",
+          "productCode": "521817",
+          "price": 12.0
+        },
+        {
+          "code": "1400401",
+          "name": "麦当劳广州维多利广场餐厅",
+          "distance": 418,
+          "address": "体育西路101号维多利广场首层及二层部分",
+          "productCode": "521817",
+          "price": 12.0
+        },
+        {
+          "code": "1400194",
+          "name": "麦当劳广州正佳五楼餐厅",
+          "distance": 547,
+          "address": "天河路228号正佳广场五楼561铺",
+          "productCode": "521817",
+          "price": 12.0
+        },
+        {
+          "code": "1400489",
+          "name": "麦当劳广州富力盈通餐厅",
+          "distance": 563,
+          "address": "珠江新城华夏路30号富力盈通大厦首层108号商铺",
+          "productCode": "521817",
+          "price": 12.0
+        },
+        {
+          "code": "1400246",
+          "name": "麦当劳广州花城大道第二餐厅(花城汇北区)",
+          "distance": 586,
+          "address": "花城大道89号花城汇北区负一层1065-2、1065-3号",
+          "productCode": "521817",
+          "price": 12.0
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "马来咖喱风味薄皮肉骨鸡3块",
+      "price": 15.0,
+      "priceRange": null,
+      "category": "炸鸡",
+      "tags": [
+        "上新",
+        "浓郁咖喱飘香"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1400011",
+          "name": "麦当劳广州今日广场餐厅",
+          "distance": 82,
+          "address": "体育西路77号首层及二层",
+          "productCode": "521881",
+          "price": 15.0
+        },
+        {
+          "code": "1400401",
+          "name": "麦当劳广州维多利广场餐厅",
+          "distance": 418,
+          "address": "体育西路101号维多利广场首层及二层部分",
+          "productCode": "521881",
+          "price": 15.0
+        },
+        {
+          "code": "1400194",
+          "name": "麦当劳广州正佳五楼餐厅",
+          "distance": 547,
+          "address": "天河路228号正佳广场五楼561铺",
+          "productCode": "521881",
+          "price": 15.0
+        },
+        {
+          "code": "1400489",
+          "name": "麦当劳广州富力盈通餐厅",
+          "distance": 563,
+          "address": "珠江新城华夏路30号富力盈通大厦首层108号商铺",
+          "productCode": "521881",
+          "price": 15.0
+        },
+        {
+          "code": "1400246",
+          "name": "麦当劳广州花城大道第二餐厅(花城汇北区)",
+          "distance": 586,
+          "address": "花城大道89号花城汇北区负一层1065-2、1065-3号",
+          "productCode": "521881",
+          "price": 15.0
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "龙焰鸡腿堡",
+      "price": 15.9,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1400011",
+          "name": "麦当劳广州今日广场餐厅",
+          "distance": 82,
+          "address": "体育西路77号首层及二层",
+          "productCode": "521952",
+          "price": 15.9
+        },
+        {
+          "code": "1400401",
+          "name": "麦当劳广州维多利广场餐厅",
+          "distance": 418,
+          "address": "体育西路101号维多利广场首层及二层部分",
+          "productCode": "521952",
+          "price": 15.9
+        },
+        {
+          "code": "1400194",
+          "name": "麦当劳广州正佳五楼餐厅",
+          "distance": 547,
+          "address": "天河路228号正佳广场五楼561铺",
+          "productCode": "521952",
+          "price": 15.9
+        },
+        {
+          "code": "1400489",
+          "name": "麦当劳广州富力盈通餐厅",
+          "distance": 563,
+          "address": "珠江新城华夏路30号富力盈通大厦首层108号商铺",
+          "productCode": "521952",
+          "price": 15.9
+        },
+        {
+          "code": "1400246",
+          "name": "麦当劳广州花城大道第二餐厅(花城汇北区)",
+          "distance": 586,
+          "address": "花城大道89号花城汇北区负一层1065-2、1065-3号",
+          "productCode": "521952",
+          "price": 15.9
+        }
+      ],
+      "storeCount": 5
     },
     {
       "name": "泷愿成真麦旋风——大米风味",
@@ -152,11 +400,366 @@
           "price": 16.5
         },
         {
+          "code": "1400194",
+          "name": "麦当劳广州正佳五楼餐厅",
+          "distance": 547,
+          "address": "天河路228号正佳广场五楼561铺",
+          "productCode": "521917",
+          "price": 16.5
+        },
+        {
+          "code": "1400489",
+          "name": "麦当劳广州富力盈通餐厅",
+          "distance": 563,
+          "address": "珠江新城华夏路30号富力盈通大厦首层108号商铺",
+          "productCode": "521917",
+          "price": 16.5
+        },
+        {
           "code": "1400246",
           "name": "麦当劳广州花城大道第二餐厅(花城汇北区)",
           "distance": 586,
           "address": "花城大道89号花城汇北区负一层1065-2、1065-3号",
           "productCode": "521917",
+          "price": 16.5
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "龙焰鸡腿堡三件套",
+      "price": 26.9,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1400011",
+          "name": "麦当劳广州今日广场餐厅",
+          "distance": 82,
+          "address": "体育西路77号首层及二层",
+          "productCode": "9900016073",
+          "price": 26.9
+        },
+        {
+          "code": "1400401",
+          "name": "麦当劳广州维多利广场餐厅",
+          "distance": 418,
+          "address": "体育西路101号维多利广场首层及二层部分",
+          "productCode": "9900016073",
+          "price": 26.9
+        },
+        {
+          "code": "1400194",
+          "name": "麦当劳广州正佳五楼餐厅",
+          "distance": 547,
+          "address": "天河路228号正佳广场五楼561铺",
+          "productCode": "9900016073",
+          "price": 26.9
+        },
+        {
+          "code": "1400489",
+          "name": "麦当劳广州富力盈通餐厅",
+          "distance": 563,
+          "address": "珠江新城华夏路30号富力盈通大厦首层108号商铺",
+          "productCode": "9900016073",
+          "price": 26.9
+        },
+        {
+          "code": "1400246",
+          "name": "麦当劳广州花城大道第二餐厅(花城汇北区)",
+          "distance": 586,
+          "address": "花城大道89号花城汇北区负一层1065-2、1065-3号",
+          "productCode": "9900016073",
+          "price": 26.9
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "板烧鸡腿堡三件套",
+      "price": 34.5,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "新升级",
+        "更多汁"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1400011",
+          "name": "麦当劳广州今日广场餐厅",
+          "distance": 82,
+          "address": "体育西路77号首层及二层",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "1400401",
+          "name": "麦当劳广州维多利广场餐厅",
+          "distance": 418,
+          "address": "体育西路101号维多利广场首层及二层部分",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "1400194",
+          "name": "麦当劳广州正佳五楼餐厅",
+          "distance": 547,
+          "address": "天河路228号正佳广场五楼561铺",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "1400489",
+          "name": "麦当劳广州富力盈通餐厅",
+          "distance": 563,
+          "address": "珠江新城华夏路30号富力盈通大厦首层108号商铺",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "1400246",
+          "name": "麦当劳广州花城大道第二餐厅(花城汇北区)",
+          "distance": 586,
+          "address": "花城大道89号花城汇北区负一层1065-2、1065-3号",
+          "productCode": "9900005462",
+          "price": 34.5
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "蘸酱BFF四宫格小食盘",
+      "price": 43.3,
+      "priceRange": null,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1400011",
+          "name": "麦当劳广州今日广场餐厅",
+          "distance": 82,
+          "address": "体育西路77号首层及二层",
+          "productCode": "9900015729",
+          "price": 43.3
+        },
+        {
+          "code": "1400401",
+          "name": "麦当劳广州维多利广场餐厅",
+          "distance": 418,
+          "address": "体育西路101号维多利广场首层及二层部分",
+          "productCode": "9900015729",
+          "price": 43.3
+        },
+        {
+          "code": "1400194",
+          "name": "麦当劳广州正佳五楼餐厅",
+          "distance": 547,
+          "address": "天河路228号正佳广场五楼561铺",
+          "productCode": "9900015729",
+          "price": 43.3
+        },
+        {
+          "code": "1400489",
+          "name": "麦当劳广州富力盈通餐厅",
+          "distance": 563,
+          "address": "珠江新城华夏路30号富力盈通大厦首层108号商铺",
+          "productCode": "9900015729",
+          "price": 43.3
+        },
+        {
+          "code": "1400246",
+          "name": "麦当劳广州花城大道第二餐厅(花城汇北区)",
+          "distance": 586,
+          "address": "花城大道89号花城汇北区负一层1065-2、1065-3号",
+          "productCode": "9900015729",
+          "price": 43.3
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "蘸酱韩式甜辣酱鸡块",
+      "price": 11.9,
+      "priceRange": null,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "韩式芝士风味酱上新"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1400011",
+          "name": "麦当劳广州今日广场餐厅",
+          "distance": 82,
+          "address": "体育西路77号首层及二层",
+          "productCode": "9900016096",
+          "price": 11.9
+        },
+        {
+          "code": "1400194",
+          "name": "麦当劳广州正佳五楼餐厅",
+          "distance": 547,
+          "address": "天河路228号正佳广场五楼561铺",
+          "productCode": "9900016096",
+          "price": 11.9
+        },
+        {
+          "code": "1400489",
+          "name": "麦当劳广州富力盈通餐厅",
+          "distance": 563,
+          "address": "珠江新城华夏路30号富力盈通大厦首层108号商铺",
+          "productCode": "9900016096",
+          "price": 11.9
+        },
+        {
+          "code": "1400246",
+          "name": "麦当劳广州花城大道第二餐厅(花城汇北区)",
+          "distance": 586,
+          "address": "花城大道89号花城汇北区负一层1065-2、1065-3号",
+          "productCode": "9900016096",
+          "price": 11.9
+        }
+      ],
+      "storeCount": 4
+    },
+    {
+      "name": "柠檬脆脆麦旋风",
+      "price": 16.5,
+      "priceRange": null,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "一口柠香"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1400011",
+          "name": "麦当劳广州今日广场餐厅",
+          "distance": 82,
+          "address": "体育西路77号首层及二层",
+          "productCode": "521836",
+          "price": 16.5
+        },
+        {
+          "code": "1400401",
+          "name": "麦当劳广州维多利广场餐厅",
+          "distance": 418,
+          "address": "体育西路101号维多利广场首层及二层部分",
+          "productCode": "521836",
+          "price": 16.5
+        },
+        {
+          "code": "1400194",
+          "name": "麦当劳广州正佳五楼餐厅",
+          "distance": 547,
+          "address": "天河路228号正佳广场五楼561铺",
+          "productCode": "521836",
+          "price": 16.5
+        },
+        {
+          "code": "1400246",
+          "name": "麦当劳广州花城大道第二餐厅(花城汇北区)",
+          "distance": 586,
+          "address": "花城大道89号花城汇北区负一层1065-2、1065-3号",
+          "productCode": "521836",
+          "price": 16.5
+        }
+      ],
+      "storeCount": 4
+    },
+    {
+      "name": "韩式甜辣酱鸡块8块",
+      "price": 19.9,
+      "priceRange": null,
+      "category": "小食拼盘/多人餐",
+      "tags": [
+        "上新",
+        "韩式风味"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1400011",
+          "name": "麦当劳广州今日广场餐厅",
+          "distance": 82,
+          "address": "体育西路77号首层及二层",
+          "productCode": "9900015726",
+          "price": 19.9
+        },
+        {
+          "code": "1400194",
+          "name": "麦当劳广州正佳五楼餐厅",
+          "distance": 547,
+          "address": "天河路228号正佳广场五楼561铺",
+          "productCode": "9900015726",
+          "price": 19.9
+        },
+        {
+          "code": "1400489",
+          "name": "麦当劳广州富力盈通餐厅",
+          "distance": 563,
+          "address": "珠江新城华夏路30号富力盈通大厦首层108号商铺",
+          "productCode": "9900015726",
+          "price": 19.9
+        },
+        {
+          "code": "1400246",
+          "name": "麦当劳广州花城大道第二餐厅(花城汇北区)",
+          "distance": 586,
+          "address": "花城大道89号花城汇北区负一层1065-2、1065-3号",
+          "productCode": "9900015726",
+          "price": 19.9
+        }
+      ],
+      "storeCount": 4
+    },
+    {
+      "name": "蓝莓爆爆珠麦旋风",
+      "price": 16.5,
+      "priceRange": null,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "蓝莓"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1400011",
+          "name": "麦当劳广州今日广场餐厅",
+          "distance": 82,
+          "address": "体育西路77号首层及二层",
+          "productCode": "521950",
+          "price": 16.5
+        },
+        {
+          "code": "1400194",
+          "name": "麦当劳广州正佳五楼餐厅",
+          "distance": 547,
+          "address": "天河路228号正佳广场五楼561铺",
+          "productCode": "521950",
+          "price": 16.5
+        },
+        {
+          "code": "1400246",
+          "name": "麦当劳广州花城大道第二餐厅(花城汇北区)",
+          "distance": 586,
+          "address": "花城大道89号花城汇北区负一层1065-2、1065-3号",
+          "productCode": "521950",
           "price": 16.5
         }
       ],
