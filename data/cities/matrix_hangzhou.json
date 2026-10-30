@@ -3,7 +3,7 @@
     "date": "2026-10-30",
     "city": "杭州市",
     "anchor": "武林广场",
-    "generatedAt": "2026-10-30 02:19:29",
+    "generatedAt": "2026-10-30 09:04:29",
     "stores": [
       {
         "code": "3330387",
@@ -38,11 +38,68 @@
     ]
   },
   "stats": {
-    "raw_new": 4,
-    "dropped_nonfood": [],
-    "items": 4
+    "raw_new": 11,
+    "dropped_nonfood": [
+      "“葱不求人“按摩捶痒痒挠",
+      "麦当劳限定丝巾"
+    ],
+    "items": 9
   },
   "items": [
+    {
+      "name": "龙焰鸡腿堡",
+      "price": 15.9,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3330387",
+          "name": "麦当劳杭州国大城市广场餐厅",
+          "distance": 162,
+          "address": "延安路609号B2层B234麦当劳铺位",
+          "productCode": "521952",
+          "price": 15.9
+        },
+        {
+          "code": "3330388",
+          "name": "麦当劳杭州西湖文化广场餐厅",
+          "distance": 699,
+          "address": "西湖文化广场9-4号",
+          "productCode": "521952",
+          "price": 15.9
+        },
+        {
+          "code": "3330605",
+          "name": "麦当劳杭州深蓝广场餐厅",
+          "distance": 877,
+          "address": "朝晖路203号绿城深蓝广场1楼",
+          "productCode": "521952",
+          "price": 15.9
+        },
+        {
+          "code": "3330629",
+          "name": "麦当劳杭州拱墅区集合大厦餐厅",
+          "distance": 1273,
+          "address": "文晖路与莫干山路交叉口集合大厦",
+          "productCode": "521952",
+          "price": 15.9
+        },
+        {
+          "code": "3330489",
+          "name": "麦当劳杭州拱墅区茶叶大厦餐厅",
+          "distance": 1368,
+          "address": "延安路310号茶叶大厦",
+          "productCode": "521952",
+          "price": 15.9
+        }
+      ],
+      "storeCount": 5
+    },
     {
       "name": "泷愿成真麦旋风——大米风味",
       "price": 16.5,
@@ -93,6 +150,115 @@
           "address": "延安路310号茶叶大厦",
           "productCode": "521917",
           "price": 16.5
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "龙焰鸡腿堡三件套",
+      "price": 26.9,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3330387",
+          "name": "麦当劳杭州国大城市广场餐厅",
+          "distance": 162,
+          "address": "延安路609号B2层B234麦当劳铺位",
+          "productCode": "9900016073",
+          "price": 26.9
+        },
+        {
+          "code": "3330388",
+          "name": "麦当劳杭州西湖文化广场餐厅",
+          "distance": 699,
+          "address": "西湖文化广场9-4号",
+          "productCode": "9900016073",
+          "price": 26.9
+        },
+        {
+          "code": "3330605",
+          "name": "麦当劳杭州深蓝广场餐厅",
+          "distance": 877,
+          "address": "朝晖路203号绿城深蓝广场1楼",
+          "productCode": "9900016073",
+          "price": 26.9
+        },
+        {
+          "code": "3330629",
+          "name": "麦当劳杭州拱墅区集合大厦餐厅",
+          "distance": 1273,
+          "address": "文晖路与莫干山路交叉口集合大厦",
+          "productCode": "9900016073",
+          "price": 26.9
+        },
+        {
+          "code": "3330489",
+          "name": "麦当劳杭州拱墅区茶叶大厦餐厅",
+          "distance": 1368,
+          "address": "延安路310号茶叶大厦",
+          "productCode": "9900016073",
+          "price": 26.9
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "板烧鸡腿堡三件套",
+      "price": 34.5,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "新升级",
+        "更多汁"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3330387",
+          "name": "麦当劳杭州国大城市广场餐厅",
+          "distance": 162,
+          "address": "延安路609号B2层B234麦当劳铺位",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "3330388",
+          "name": "麦当劳杭州西湖文化广场餐厅",
+          "distance": 699,
+          "address": "西湖文化广场9-4号",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "3330605",
+          "name": "麦当劳杭州深蓝广场餐厅",
+          "distance": 877,
+          "address": "朝晖路203号绿城深蓝广场1楼",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "3330629",
+          "name": "麦当劳杭州拱墅区集合大厦餐厅",
+          "distance": 1273,
+          "address": "文晖路与莫干山路交叉口集合大厦",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "3330489",
+          "name": "麦当劳杭州拱墅区茶叶大厦餐厅",
+          "distance": 1368,
+          "address": "延安路310号茶叶大厦",
+          "productCode": "9900005462",
+          "price": 34.5
         }
       ],
       "storeCount": 5
@@ -226,6 +392,52 @@
         }
       ],
       "storeCount": 3
+    },
+    {
+      "name": "三文鱼双虾至尊月堡",
+      "price": 31.0,
+      "priceRange": null,
+      "category": "巨无霸牛鱼肉堡",
+      "tags": [
+        "上新",
+        "精选三文鱼",
+        "整颗虾仁"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3330387",
+          "name": "麦当劳杭州国大城市广场餐厅",
+          "distance": 162,
+          "address": "延安路609号B2层B234麦当劳铺位",
+          "productCode": "521903",
+          "price": 31.0
+        }
+      ],
+      "storeCount": 1
+    },
+    {
+      "name": "三文鱼双虾至尊月堡三件套",
+      "price": 36.9,
+      "priceRange": null,
+      "category": "巨无霸牛鱼肉堡",
+      "tags": [
+        "上新",
+        "精选三文鱼",
+        "整颗虾仁"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3330387",
+          "name": "麦当劳杭州国大城市广场餐厅",
+          "distance": 162,
+          "address": "延安路609号B2层B234麦当劳铺位",
+          "productCode": "9900015851",
+          "price": 36.9
+        }
+      ],
+      "storeCount": 1
     }
   ]
 }
