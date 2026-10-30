@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29 09:01:43",
-  "date": "2026-10-29",
+  "generated_at": "2026-10-30 02:19:09",
+  "date": "2026-10-30",
   "anchor": {
     "city": "杭州市",
     "keyword": "武林广场"
@@ -14,74 +14,14 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 110,
-    "tagged_new": 10,
-    "non_food_dropped": 1,
-    "food_new": 9,
-    "after_fold": 9
+    "menu_total": 104,
+    "tagged_new": 4,
+    "non_food_dropped": 0,
+    "food_new": 4,
+    "after_fold": 4
   },
-  "dropped_non_food": [
-    "麦当劳限定丝巾"
-  ],
+  "dropped_non_food": [],
   "pool": [
-    {
-      "code": "9900016073",
-      "name": "龙焰鸡腿堡三件套",
-      "price_fen": 2690,
-      "price_yuan": 26.9,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "韩式辣椒黄油风味"
-      ]
-    },
-    {
-      "code": "521952",
-      "name": "龙焰鸡腿堡",
-      "price_fen": 1590,
-      "price_yuan": 15.9,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "韩式辣椒黄油风味"
-      ]
-    },
-    {
-      "code": "9900005462",
-      "name": "板烧鸡腿堡三件套",
-      "price_fen": 3450,
-      "price_yuan": 34.5,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "套餐",
-        "新升级",
-        "更多汁"
-      ]
-    },
-    {
-      "code": "9900015851",
-      "name": "三文鱼双虾至尊月堡三件套",
-      "price_fen": 3690,
-      "price_yuan": 36.9,
-      "category": "巨无霸牛鱼肉堡",
-      "tags": [
-        "上新",
-        "精选三文鱼",
-        "整颗虾仁"
-      ]
-    },
-    {
-      "code": "521903",
-      "name": "三文鱼双虾至尊月堡",
-      "price_fen": 3100,
-      "price_yuan": 31.0,
-      "category": "巨无霸牛鱼肉堡",
-      "tags": [
-        "上新",
-        "精选三文鱼",
-        "整颗虾仁"
-      ]
-    },
     {
       "code": "521950",
       "name": "蓝莓爆爆珠麦旋风",

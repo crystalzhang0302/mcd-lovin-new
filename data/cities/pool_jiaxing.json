@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29 09:10:24",
-  "date": "2026-10-29",
+  "generated_at": "2026-10-30 02:21:36",
+  "date": "2026-10-30",
   "anchor": {
     "city": "嘉兴市",
     "keyword": "月河历史街区"
@@ -14,86 +14,16 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 102,
-    "tagged_new": 13,
-    "non_food_dropped": 2,
-    "food_new": 11,
-    "after_fold": 11
+    "menu_total": 79,
+    "tagged_new": 5,
+    "non_food_dropped": 1,
+    "food_new": 4,
+    "after_fold": 4
   },
   "dropped_non_food": [
-    "旋旋水手帽",
-    "“葱不求人“按摩捶痒痒挠"
+    "旋旋水手帽"
   ],
   "pool": [
-    {
-      "code": "9900016073",
-      "name": "龙焰鸡腿堡三件套",
-      "price_fen": 2690,
-      "price_yuan": 26.9,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "韩式辣椒黄油风味"
-      ]
-    },
-    {
-      "code": "521952",
-      "name": "龙焰鸡腿堡",
-      "price_fen": 1590,
-      "price_yuan": 15.9,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "韩式辣椒黄油风味"
-      ]
-    },
-    {
-      "code": "9900005462",
-      "name": "板烧鸡腿堡三件套",
-      "price_fen": 3450,
-      "price_yuan": 34.5,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "套餐",
-        "新升级",
-        "更多汁"
-      ]
-    },
-    {
-      "code": "9900015008",
-      "name": "酥酥多笋卷三件套",
-      "price_fen": 3150,
-      "price_yuan": 31.5,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "套餐",
-        "全新升级",
-        "川香风味"
-      ]
-    },
-    {
-      "code": "521816",
-      "name": "酥酥多笋卷",
-      "price_fen": 2050,
-      "price_yuan": 20.5,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "单品",
-        "全新升级",
-        "川香风味"
-      ]
-    },
-    {
-      "code": "9900016308",
-      "name": "蘸酱脆皮鸡块",
-      "price_fen": 1990,
-      "price_yuan": 19.9,
-      "category": "小食拼盘/多人餐",
-      "tags": [
-        "上新",
-        "蘸酱炸鸡新吃法"
-      ]
-    },
     {
       "code": "521950",
       "name": "蓝莓爆爆珠麦旋风",
@@ -114,18 +44,6 @@
       "tags": [
         "上新",
         "灰焰"
-      ]
-    },
-    {
-      "code": "521901",
-      "name": "月下相思扭扭薯",
-      "price_fen": 1550,
-      "price_yuan": 15.5,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "口口酥脆",
-        "薯香十足"
       ]
     },
     {
