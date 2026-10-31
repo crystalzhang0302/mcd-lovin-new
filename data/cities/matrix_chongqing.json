@@ -3,7 +3,7 @@
     "date": "2026-10-31",
     "city": "重庆市",
     "anchor": "解放碑",
-    "generatedAt": "2026-10-31 02:00:46",
+    "generatedAt": "2026-10-31 09:02:30",
     "stores": [
       {
         "code": "3450149",
@@ -38,13 +38,13 @@
     ]
   },
   "stats": {
-    "raw_new": 4,
+    "raw_new": 15,
     "dropped_nonfood": [
       "薯条脆卜卜嘭嘭单肩包",
       "旋旋水手帽",
       "旋旋星愿贴"
     ],
-    "items": 1
+    "items": 12
   },
   "items": [
     {
@@ -92,6 +92,306 @@
         }
       ],
       "storeCount": 4
+    },
+    {
+      "name": "板烧鸡腿堡三件套",
+      "price": 52.5,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "新升级",
+        "更多汁"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3450149",
+          "name": "麦当劳重庆金鹰财富中心餐厅",
+          "distance": 73,
+          "address": "解放碑邹容路82号负一层",
+          "productCode": "9900005462",
+          "price": 52.5
+        },
+        {
+          "code": "3450146",
+          "name": "麦当劳重庆1089艺术美丽中心餐厅",
+          "distance": 236,
+          "address": "八一路53号负一层B01号、第一层103号",
+          "productCode": "9900005462",
+          "price": 52.5
+        },
+        {
+          "code": "3450136",
+          "name": "麦当劳重庆中信银行餐厅",
+          "distance": 1705,
+          "address": "江北城西大街5号负5楼",
+          "productCode": "9900005462",
+          "price": 52.5
+        },
+        {
+          "code": "3450303",
+          "name": "麦当劳重庆东原1891餐厅",
+          "distance": 1717,
+          "address": "南滨路80号附2号麦当劳餐厅",
+          "productCode": "9900005462",
+          "price": 52.5
+        }
+      ],
+      "storeCount": 4
+    },
+    {
+      "name": "玫瑰红糖糍粑风味派",
+      "price": 11.0,
+      "priceRange": null,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "玫瑰花香"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3450149",
+          "name": "麦当劳重庆金鹰财富中心餐厅",
+          "distance": 73,
+          "address": "解放碑邹容路82号负一层",
+          "productCode": "521906",
+          "price": 11.0
+        },
+        {
+          "code": "3450136",
+          "name": "麦当劳重庆中信银行餐厅",
+          "distance": 1705,
+          "address": "江北城西大街5号负5楼",
+          "productCode": "521906",
+          "price": 11.0
+        }
+      ],
+      "storeCount": 2
+    },
+    {
+      "name": "蘸酱炸鸡",
+      "price": 19.0,
+      "priceRange": null,
+      "category": "人气热卖",
+      "tags": [
+        "韩式芝士风味酱上新"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3450149",
+          "name": "麦当劳重庆金鹰财富中心餐厅",
+          "distance": 73,
+          "address": "解放碑邹容路82号负一层",
+          "productCode": "9900016077",
+          "price": 19.0
+        },
+        {
+          "code": "3450303",
+          "name": "麦当劳重庆东原1891餐厅",
+          "distance": 1717,
+          "address": "南滨路80号附2号麦当劳餐厅",
+          "productCode": "9900016077",
+          "price": 19.0
+        }
+      ],
+      "storeCount": 2
+    },
+    {
+      "name": "蘸酱麦麦脆汁鸡",
+      "price": 19.0,
+      "priceRange": null,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "韩式芝士风味酱上新"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3450149",
+          "name": "麦当劳重庆金鹰财富中心餐厅",
+          "distance": 73,
+          "address": "解放碑邹容路82号负一层",
+          "productCode": "9900016078",
+          "price": 19.0
+        },
+        {
+          "code": "3450303",
+          "name": "麦当劳重庆东原1891餐厅",
+          "distance": 1717,
+          "address": "南滨路80号附2号麦当劳餐厅",
+          "productCode": "9900016078",
+          "price": 19.0
+        }
+      ],
+      "storeCount": 2
+    },
+    {
+      "name": "蘸酱BFF四宫格小食盘",
+      "price": 62.5,
+      "priceRange": null,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3450149",
+          "name": "麦当劳重庆金鹰财富中心餐厅",
+          "distance": 73,
+          "address": "解放碑邹容路82号负一层",
+          "productCode": "9900015729",
+          "price": 62.5
+        },
+        {
+          "code": "3450303",
+          "name": "麦当劳重庆东原1891餐厅",
+          "distance": 1717,
+          "address": "南滨路80号附2号麦当劳餐厅",
+          "productCode": "9900015729",
+          "price": 62.5
+        }
+      ],
+      "storeCount": 2
+    },
+    {
+      "name": "蘸酱韩式甜辣酱鸡块",
+      "price": 19.5,
+      "priceRange": null,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "韩式芝士风味酱上新"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3450149",
+          "name": "麦当劳重庆金鹰财富中心餐厅",
+          "distance": 73,
+          "address": "解放碑邹容路82号负一层",
+          "productCode": "9900016096",
+          "price": 19.5
+        }
+      ],
+      "storeCount": 1
+    },
+    {
+      "name": "龙焰鸡腿堡",
+      "price": 27.5,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3450149",
+          "name": "麦当劳重庆金鹰财富中心餐厅",
+          "distance": 73,
+          "address": "解放碑邹容路82号负一层",
+          "productCode": "521952",
+          "price": 27.5
+        }
+      ],
+      "storeCount": 1
+    },
+    {
+      "name": "咸蛋黄鸡腿蛋月堡",
+      "price": 28.5,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "酥脆鸡腿排",
+        "滑嫩蒸蛋"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3450149",
+          "name": "麦当劳重庆金鹰财富中心餐厅",
+          "distance": 73,
+          "address": "解放碑邹容路82号负一层",
+          "productCode": "521900",
+          "price": 28.5
+        }
+      ],
+      "storeCount": 1
+    },
+    {
+      "name": "韩式甜辣酱鸡块8块",
+      "price": 33.0,
+      "priceRange": null,
+      "category": "小食拼盘/多人餐",
+      "tags": [
+        "上新",
+        "韩式风味"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3450149",
+          "name": "麦当劳重庆金鹰财富中心餐厅",
+          "distance": 73,
+          "address": "解放碑邹容路82号负一层",
+          "productCode": "9900015726",
+          "price": 33.0
+        }
+      ],
+      "storeCount": 1
+    },
+    {
+      "name": "龙焰鸡腿堡三件套",
+      "price": 53.0,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3450149",
+          "name": "麦当劳重庆金鹰财富中心餐厅",
+          "distance": 73,
+          "address": "解放碑邹容路82号负一层",
+          "productCode": "9900016073",
+          "price": 53.0
+        }
+      ],
+      "storeCount": 1
+    },
+    {
+      "name": "咸蛋黄鸡腿蛋月堡三件套",
+      "price": 54.5,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "酥脆鸡腿排",
+        "滑嫩蒸蛋"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3450149",
+          "name": "麦当劳重庆金鹰财富中心餐厅",
+          "distance": 73,
+          "address": "解放碑邹容路82号负一层",
+          "productCode": "9900015850",
+          "price": 54.5
+        }
+      ],
+      "storeCount": 1
     }
   ]
 }

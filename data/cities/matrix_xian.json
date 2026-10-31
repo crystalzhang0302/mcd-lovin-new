@@ -3,7 +3,7 @@
     "date": "2026-10-31",
     "city": "西安市",
     "anchor": "钟楼",
-    "generatedAt": "2026-10-31 02:01:22",
+    "generatedAt": "2026-10-31 09:04:03",
     "stores": [
       {
         "code": "1960622",
@@ -38,11 +38,120 @@
     ]
   },
   "stats": {
-    "raw_new": 2,
-    "dropped_nonfood": [],
-    "items": 2
+    "raw_new": 14,
+    "dropped_nonfood": [
+      "“葱不求人“按摩捶痒痒挠"
+    ],
+    "items": 12
   },
   "items": [
+    {
+      "name": "蘸酱炸鸡",
+      "price": 11.9,
+      "priceRange": null,
+      "category": "人气热卖",
+      "tags": [
+        "韩式芝士风味酱上新"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1960622",
+          "name": "麦当劳西安开元餐厅",
+          "distance": 152,
+          "address": "东大街解放市场6号首层",
+          "productCode": "9900016077",
+          "price": 11.9
+        },
+        {
+          "code": "1960668",
+          "name": "麦当劳西安北大街餐厅",
+          "distance": 255,
+          "address": "北大街28号",
+          "productCode": "9900016077",
+          "price": 11.9
+        },
+        {
+          "code": "1960602",
+          "name": "麦当劳西安钟鼓楼餐厅",
+          "distance": 296,
+          "address": "西大街1号钟鼓楼广场",
+          "productCode": "9900016077",
+          "price": 11.9
+        },
+        {
+          "code": "1960701",
+          "name": "麦当劳西安北大街地铁站下沉广场餐厅",
+          "distance": 1114,
+          "address": "北大街地铁站下沉广场",
+          "productCode": "9900016077",
+          "price": 11.9
+        },
+        {
+          "code": "1960737",
+          "name": "麦当劳西安合生汇餐厅",
+          "distance": 1177,
+          "address": "南大街合生汇",
+          "productCode": "9900016077",
+          "price": 11.9
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "蘸酱麦麦脆汁鸡",
+      "price": 11.9,
+      "priceRange": null,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "韩式芝士风味酱上新"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1960622",
+          "name": "麦当劳西安开元餐厅",
+          "distance": 152,
+          "address": "东大街解放市场6号首层",
+          "productCode": "9900016078",
+          "price": 11.9
+        },
+        {
+          "code": "1960668",
+          "name": "麦当劳西安北大街餐厅",
+          "distance": 255,
+          "address": "北大街28号",
+          "productCode": "9900016078",
+          "price": 11.9
+        },
+        {
+          "code": "1960602",
+          "name": "麦当劳西安钟鼓楼餐厅",
+          "distance": 296,
+          "address": "西大街1号钟鼓楼广场",
+          "productCode": "9900016078",
+          "price": 11.9
+        },
+        {
+          "code": "1960701",
+          "name": "麦当劳西安北大街地铁站下沉广场餐厅",
+          "distance": 1114,
+          "address": "北大街地铁站下沉广场",
+          "productCode": "9900016078",
+          "price": 11.9
+        },
+        {
+          "code": "1960737",
+          "name": "麦当劳西安合生汇餐厅",
+          "distance": 1177,
+          "address": "南大街合生汇",
+          "productCode": "9900016078",
+          "price": 11.9
+        }
+      ],
+      "storeCount": 5
+    },
     {
       "name": "【美汁源】“多汁柠柠”",
       "price": 12.0,
@@ -93,6 +202,114 @@
           "address": "南大街合生汇",
           "productCode": "521817",
           "price": 12.0
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "马来咖喱风味薄皮肉骨鸡3块",
+      "price": 15.0,
+      "priceRange": null,
+      "category": "炸鸡",
+      "tags": [
+        "上新",
+        "浓郁咖喱飘香"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1960622",
+          "name": "麦当劳西安开元餐厅",
+          "distance": 152,
+          "address": "东大街解放市场6号首层",
+          "productCode": "521881",
+          "price": 15.0
+        },
+        {
+          "code": "1960668",
+          "name": "麦当劳西安北大街餐厅",
+          "distance": 255,
+          "address": "北大街28号",
+          "productCode": "521881",
+          "price": 15.0
+        },
+        {
+          "code": "1960602",
+          "name": "麦当劳西安钟鼓楼餐厅",
+          "distance": 296,
+          "address": "西大街1号钟鼓楼广场",
+          "productCode": "521881",
+          "price": 15.0
+        },
+        {
+          "code": "1960701",
+          "name": "麦当劳西安北大街地铁站下沉广场餐厅",
+          "distance": 1114,
+          "address": "北大街地铁站下沉广场",
+          "productCode": "521881",
+          "price": 15.0
+        },
+        {
+          "code": "1960737",
+          "name": "麦当劳西安合生汇餐厅",
+          "distance": 1177,
+          "address": "南大街合生汇",
+          "productCode": "521881",
+          "price": 15.0
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "龙焰鸡腿堡",
+      "price": 15.9,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1960622",
+          "name": "麦当劳西安开元餐厅",
+          "distance": 152,
+          "address": "东大街解放市场6号首层",
+          "productCode": "521952",
+          "price": 15.9
+        },
+        {
+          "code": "1960668",
+          "name": "麦当劳西安北大街餐厅",
+          "distance": 255,
+          "address": "北大街28号",
+          "productCode": "521952",
+          "price": 15.9
+        },
+        {
+          "code": "1960602",
+          "name": "麦当劳西安钟鼓楼餐厅",
+          "distance": 296,
+          "address": "西大街1号钟鼓楼广场",
+          "productCode": "521952",
+          "price": 15.9
+        },
+        {
+          "code": "1960701",
+          "name": "麦当劳西安北大街地铁站下沉广场餐厅",
+          "distance": 1114,
+          "address": "北大街地铁站下沉广场",
+          "productCode": "521952",
+          "price": 15.9
+        },
+        {
+          "code": "1960737",
+          "name": "麦当劳西安合生汇餐厅",
+          "distance": 1177,
+          "address": "南大街合生汇",
+          "productCode": "521952",
+          "price": 15.9
         }
       ],
       "storeCount": 5
@@ -150,6 +367,291 @@
         }
       ],
       "storeCount": 5
+    },
+    {
+      "name": "龙焰鸡腿堡三件套",
+      "price": 26.9,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1960622",
+          "name": "麦当劳西安开元餐厅",
+          "distance": 152,
+          "address": "东大街解放市场6号首层",
+          "productCode": "9900016073",
+          "price": 26.9
+        },
+        {
+          "code": "1960668",
+          "name": "麦当劳西安北大街餐厅",
+          "distance": 255,
+          "address": "北大街28号",
+          "productCode": "9900016073",
+          "price": 26.9
+        },
+        {
+          "code": "1960602",
+          "name": "麦当劳西安钟鼓楼餐厅",
+          "distance": 296,
+          "address": "西大街1号钟鼓楼广场",
+          "productCode": "9900016073",
+          "price": 26.9
+        },
+        {
+          "code": "1960701",
+          "name": "麦当劳西安北大街地铁站下沉广场餐厅",
+          "distance": 1114,
+          "address": "北大街地铁站下沉广场",
+          "productCode": "9900016073",
+          "price": 26.9
+        },
+        {
+          "code": "1960737",
+          "name": "麦当劳西安合生汇餐厅",
+          "distance": 1177,
+          "address": "南大街合生汇",
+          "productCode": "9900016073",
+          "price": 26.9
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "板烧鸡腿堡三件套",
+      "price": 34.5,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "新升级",
+        "更多汁"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1960622",
+          "name": "麦当劳西安开元餐厅",
+          "distance": 152,
+          "address": "东大街解放市场6号首层",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "1960668",
+          "name": "麦当劳西安北大街餐厅",
+          "distance": 255,
+          "address": "北大街28号",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "1960602",
+          "name": "麦当劳西安钟鼓楼餐厅",
+          "distance": 296,
+          "address": "西大街1号钟鼓楼广场",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "1960701",
+          "name": "麦当劳西安北大街地铁站下沉广场餐厅",
+          "distance": 1114,
+          "address": "北大街地铁站下沉广场",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "1960737",
+          "name": "麦当劳西安合生汇餐厅",
+          "distance": 1177,
+          "address": "南大街合生汇",
+          "productCode": "9900005462",
+          "price": 34.5
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "蘸酱BFF四宫格小食盘",
+      "price": 43.3,
+      "priceRange": null,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1960622",
+          "name": "麦当劳西安开元餐厅",
+          "distance": 152,
+          "address": "东大街解放市场6号首层",
+          "productCode": "9900015729",
+          "price": 43.3
+        },
+        {
+          "code": "1960668",
+          "name": "麦当劳西安北大街餐厅",
+          "distance": 255,
+          "address": "北大街28号",
+          "productCode": "9900015729",
+          "price": 43.3
+        },
+        {
+          "code": "1960602",
+          "name": "麦当劳西安钟鼓楼餐厅",
+          "distance": 296,
+          "address": "西大街1号钟鼓楼广场",
+          "productCode": "9900015729",
+          "price": 43.3
+        },
+        {
+          "code": "1960701",
+          "name": "麦当劳西安北大街地铁站下沉广场餐厅",
+          "distance": 1114,
+          "address": "北大街地铁站下沉广场",
+          "productCode": "9900015729",
+          "price": 43.3
+        },
+        {
+          "code": "1960737",
+          "name": "麦当劳西安合生汇餐厅",
+          "distance": 1177,
+          "address": "南大街合生汇",
+          "productCode": "9900015729",
+          "price": 43.3
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "咸蛋黄鸡腿蛋月堡",
+      "price": 25.0,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "酥脆鸡腿排",
+        "滑嫩蒸蛋"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1960622",
+          "name": "麦当劳西安开元餐厅",
+          "distance": 152,
+          "address": "东大街解放市场6号首层",
+          "productCode": "521900",
+          "price": 25.0
+        },
+        {
+          "code": "1960602",
+          "name": "麦当劳西安钟鼓楼餐厅",
+          "distance": 296,
+          "address": "西大街1号钟鼓楼广场",
+          "productCode": "521900",
+          "price": 25.0
+        },
+        {
+          "code": "1960737",
+          "name": "麦当劳西安合生汇餐厅",
+          "distance": 1177,
+          "address": "南大街合生汇",
+          "productCode": "521900",
+          "price": 25.0
+        }
+      ],
+      "storeCount": 3
+    },
+    {
+      "name": "咸蛋黄鸡腿蛋月堡三件套",
+      "price": 26.9,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "酥脆鸡腿排",
+        "滑嫩蒸蛋"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1960622",
+          "name": "麦当劳西安开元餐厅",
+          "distance": 152,
+          "address": "东大街解放市场6号首层",
+          "productCode": "9900015850",
+          "price": 26.9
+        },
+        {
+          "code": "1960602",
+          "name": "麦当劳西安钟鼓楼餐厅",
+          "distance": 296,
+          "address": "西大街1号钟鼓楼广场",
+          "productCode": "9900015850",
+          "price": 26.9
+        },
+        {
+          "code": "1960737",
+          "name": "麦当劳西安合生汇餐厅",
+          "distance": 1177,
+          "address": "南大街合生汇",
+          "productCode": "9900015850",
+          "price": 26.9
+        }
+      ],
+      "storeCount": 3
+    },
+    {
+      "name": "蘸酱脆皮鸡块",
+      "price": 11.9,
+      "priceRange": [
+        11.9,
+        19.9
+      ],
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "韩式芝士风味酱上新"
+      ],
+      "variants": [
+        {
+          "name": "蘸酱脆皮鸡块",
+          "code": "9900016099",
+          "price": 11.9
+        },
+        {
+          "name": "蘸酱脆皮鸡块8块",
+          "code": "9900016308",
+          "price": 19.9
+        }
+      ],
+      "stores": [
+        {
+          "code": "1960622",
+          "name": "麦当劳西安开元餐厅",
+          "distance": 152,
+          "address": "东大街解放市场6号首层",
+          "productCode": "9900016099",
+          "price": 11.9
+        },
+        {
+          "code": "1960701",
+          "name": "麦当劳西安北大街地铁站下沉广场餐厅",
+          "distance": 1114,
+          "address": "北大街地铁站下沉广场",
+          "productCode": "9900016099",
+          "price": 11.9
+        }
+      ],
+      "storeCount": 2
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31 01:59:09",
+  "generated_at": "2026-10-31 08:58:45",
   "date": "2026-10-31",
   "anchor": {
     "city": "南京市",
@@ -14,14 +14,116 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 89,
-    "tagged_new": 3,
-    "non_food_dropped": 0,
-    "food_new": 3,
-    "after_fold": 3
+    "menu_total": 127,
+    "tagged_new": 14,
+    "non_food_dropped": 2,
+    "food_new": 12,
+    "after_fold": 12
   },
-  "dropped_non_food": [],
+  "dropped_non_food": [
+    "麦当劳限定丝巾",
+    "“葱不求人“按摩捶痒痒挠"
+  ],
   "pool": [
+    {
+      "code": "9900016077",
+      "name": "蘸酱炸鸡",
+      "price_fen": 1190,
+      "price_yuan": 11.9,
+      "category": "人气热卖",
+      "tags": [
+        "韩式芝士风味酱上新"
+      ]
+    },
+    {
+      "code": "9900015726",
+      "name": "韩式甜辣酱鸡块",
+      "price_fen": 1990,
+      "price_yuan": 19.9,
+      "category": "小食拼盘/多人餐",
+      "tags": [
+        "上新",
+        "韩式风味"
+      ]
+    },
+    {
+      "code": "9900016073",
+      "name": "龙焰鸡腿堡三件套",
+      "price_fen": 2690,
+      "price_yuan": 26.9,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ]
+    },
+    {
+      "code": "521952",
+      "name": "龙焰鸡腿堡",
+      "price_fen": 1590,
+      "price_yuan": 15.9,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ]
+    },
+    {
+      "code": "9900005462",
+      "name": "板烧鸡腿堡三件套",
+      "price_fen": 3450,
+      "price_yuan": 34.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "新升级",
+        "更多汁"
+      ]
+    },
+    {
+      "code": "9900016078",
+      "name": "蘸酱麦麦脆汁鸡",
+      "price_fen": 1190,
+      "price_yuan": 11.9,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "韩式芝士风味酱上新"
+      ]
+    },
+    {
+      "code": "9900016096",
+      "name": "蘸酱韩式甜辣酱鸡块",
+      "price_fen": 1190,
+      "price_yuan": 11.9,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "韩式芝士风味酱上新"
+      ]
+    },
+    {
+      "code": "9900015729",
+      "name": "蘸酱BFF四宫格小食盘",
+      "price_fen": 4330,
+      "price_yuan": 43.3,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
+      ]
+    },
+    {
+      "code": "9900016566",
+      "name": "心形薯饼",
+      "price_fen": 990,
+      "price_yuan": 9.9,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "限时特惠"
+      ]
+    },
     {
       "code": "521917",
       "name": "泷愿成真麦旋风——大米风味",
@@ -34,17 +136,6 @@
       ]
     },
     {
-      "code": "521817",
-      "name": "【美汁源】“多汁柠柠”",
-      "price_fen": 1200,
-      "price_yuan": 12.0,
-      "category": "饮品",
-      "tags": [
-        "上新",
-        "清爽上新"
-      ]
-    },
-    {
       "code": "9900014092",
       "name": "麦当劳奶昔",
       "price_fen": 1500,
@@ -53,6 +144,17 @@
       "tags": [
         "上新",
         "奶昔回归"
+      ]
+    },
+    {
+      "code": "521817",
+      "name": "【美汁源】“多汁柠柠”",
+      "price_fen": 1200,
+      "price_yuan": 12.0,
+      "category": "饮品",
+      "tags": [
+        "上新",
+        "清爽上新"
       ]
     }
   ]
