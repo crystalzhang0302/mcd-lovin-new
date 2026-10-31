@@ -1,11 +1,11 @@
 window.NEW_DATA = {
  "meta": {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "city": "嘉兴市",
   "anchor": "月河历史街区",
   "poolAt": "jiaxing",
-  "matrixAt": "2026-10-30 02:21:51",
-  "generatedAt": "2026-10-30 09:10:49",
+  "matrixAt": "2026-10-31 02:01:57",
+  "generatedAt": "2026-10-31 02:01:57",
   "stores": [
    {
     "code": "3330756",

@@ -1,56 +1,56 @@
 window.CITY_MANIFEST = {
- "generatedAt": "2026-10-30 09:10:49",
+ "generatedAt": "2026-10-31 02:01:57",
  "default": "shanghai",
  "cities": [
   {
    "slug": "shanghai",
    "name": "上海",
-   "size_kb": 15
+   "size_kb": 5
   },
   {
    "slug": "beijing",
    "name": "北京",
-   "size_kb": 22
+   "size_kb": 3
   },
   {
    "slug": "guangzhou",
    "name": "广州",
-   "size_kb": 21
+   "size_kb": 5
   },
   {
    "slug": "shenzhen",
    "name": "深圳",
-   "size_kb": 23
+   "size_kb": 3
   },
   {
    "slug": "chengdu",
    "name": "成都",
-   "size_kb": 17
+   "size_kb": 3
   },
   {
    "slug": "hangzhou",
    "name": "杭州",
-   "size_kb": 11
+   "size_kb": 5
   },
   {
    "slug": "nanjing",
    "name": "南京",
-   "size_kb": 16
+   "size_kb": 4
   },
   {
    "slug": "wuhan",
    "name": "武汉",
-   "size_kb": 19
+   "size_kb": 3
   },
   {
    "slug": "chongqing",
    "name": "重庆",
-   "size_kb": 9
+   "size_kb": 2
   },
   {
    "slug": "xian",
    "name": "西安",
-   "size_kb": 15
+   "size_kb": 3
   },
   {
    "slug": "jiaxing",

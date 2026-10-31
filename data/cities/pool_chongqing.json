@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30 09:07:39",
-  "date": "2026-10-30",
+  "generated_at": "2026-10-31 02:00:21",
+  "date": "2026-10-31",
   "anchor": {
     "city": "重庆市",
     "keyword": "解放碑"
@@ -14,106 +14,16 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 105,
-    "tagged_new": 10,
+    "menu_total": 63,
+    "tagged_new": 2,
     "non_food_dropped": 1,
-    "food_new": 9,
-    "after_fold": 9
+    "food_new": 1,
+    "after_fold": 1
   },
   "dropped_non_food": [
     "旋旋星愿贴"
   ],
   "pool": [
-    {
-      "code": "9900016077",
-      "name": "蘸酱炸鸡",
-      "price_fen": 1900,
-      "price_yuan": 19.0,
-      "category": "人气热卖",
-      "tags": [
-        "韩式芝士风味酱上新"
-      ]
-    },
-    {
-      "code": "9900016073",
-      "name": "龙焰鸡腿堡三件套",
-      "price_fen": 5300,
-      "price_yuan": 53.0,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "韩式辣椒黄油风味"
-      ]
-    },
-    {
-      "code": "521952",
-      "name": "龙焰鸡腿堡",
-      "price_fen": 2750,
-      "price_yuan": 27.5,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "韩式辣椒黄油风味"
-      ]
-    },
-    {
-      "code": "9900015850",
-      "name": "咸蛋黄鸡腿蛋月堡三件套",
-      "price_fen": 5450,
-      "price_yuan": 54.5,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "酥脆鸡腿排",
-        "滑嫩蒸蛋"
-      ]
-    },
-    {
-      "code": "521900",
-      "name": "咸蛋黄鸡腿蛋月堡",
-      "price_fen": 2850,
-      "price_yuan": 28.5,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "酥脆鸡腿排",
-        "滑嫩蒸蛋"
-      ]
-    },
-    {
-      "code": "9900005462",
-      "name": "板烧鸡腿堡三件套",
-      "price_fen": 5250,
-      "price_yuan": 52.5,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "套餐",
-        "新升级",
-        "更多汁"
-      ]
-    },
-    {
-      "code": "9900016078",
-      "name": "蘸酱麦麦脆汁鸡",
-      "price_fen": 1900,
-      "price_yuan": 19.0,
-      "category": "蘸酱炸鸡",
-      "tags": [
-        "蘸酱炸鸡",
-        "韩式芝士风味酱上新"
-      ]
-    },
-    {
-      "code": "9900015729",
-      "name": "蘸酱BFF四宫格小食盘",
-      "price_fen": 6250,
-      "price_yuan": 62.5,
-      "category": "蘸酱炸鸡",
-      "tags": [
-        "蘸酱炸鸡",
-        "蘸酱炸鸡新吃法"
-      ]
-    },
     {
       "code": "521817",
       "name": "【美汁源】“多汁柠柠”",
