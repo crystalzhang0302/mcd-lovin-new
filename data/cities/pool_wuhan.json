@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01 09:49:53",
-  "date": "2026-11-01",
+  "generated_at": "2026-11-02 02:02:38",
+  "date": "2026-11-02",
   "anchor": {
     "city": "武汉市",
     "keyword": "江汉路"
@@ -14,96 +14,16 @@
     "businessEndTime": "00:15"
   },
   "stats": {
-    "menu_total": 121,
-    "tagged_new": 14,
-    "non_food_dropped": 3,
-    "food_new": 10,
-    "after_fold": 10
+    "menu_total": 106,
+    "tagged_new": 4,
+    "non_food_dropped": 1,
+    "food_new": 2,
+    "after_fold": 2
   },
   "dropped_non_food": [
-    "麦当劳限定丝巾",
-    "麦当劳联名徽章",
-    "麦当劳联名复古棒球帽"
+    "麦当劳限定丝巾"
   ],
   "pool": [
-    {
-      "code": "9900016077",
-      "name": "蘸酱炸鸡",
-      "price_fen": 1190,
-      "price_yuan": 11.9,
-      "category": "人气热卖",
-      "tags": [
-        "韩式芝士风味酱上新"
-      ]
-    },
-    {
-      "code": "9900015726",
-      "name": "韩式甜辣酱鸡块",
-      "price_fen": 1990,
-      "price_yuan": 19.9,
-      "category": "小食拼盘/多人餐",
-      "tags": [
-        "上新",
-        "韩式风味"
-      ]
-    },
-    {
-      "code": "9900005462",
-      "name": "板烧鸡腿堡三件套",
-      "price_fen": 3450,
-      "price_yuan": 34.5,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "套餐",
-        "新升级",
-        "更多汁"
-      ]
-    },
-    {
-      "code": "9900016078",
-      "name": "蘸酱麦麦脆汁鸡",
-      "price_fen": 1190,
-      "price_yuan": 11.9,
-      "category": "蘸酱炸鸡",
-      "tags": [
-        "蘸酱炸鸡",
-        "韩式芝士风味酱上新"
-      ]
-    },
-    {
-      "code": "9900016096",
-      "name": "蘸酱韩式甜辣酱鸡块",
-      "price_fen": 1190,
-      "price_yuan": 11.9,
-      "category": "蘸酱炸鸡",
-      "tags": [
-        "蘸酱炸鸡",
-        "韩式芝士风味酱上新"
-      ]
-    },
-    {
-      "code": "9900015729",
-      "name": "蘸酱BFF四宫格小食盘",
-      "price_fen": 4330,
-      "price_yuan": 43.3,
-      "category": "蘸酱炸鸡",
-      "tags": [
-        "蘸酱炸鸡",
-        "蘸酱炸鸡新吃法"
-      ]
-    },
-    {
-      "code": "521986",
-      "name": "马苏里拉拉丝芝士条",
-      "price_fen": 1100,
-      "price_yuan": 11.0,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "趁热拉丝",
-        "奶香醇厚"
-      ]
-    },
     {
       "code": "521951",
       "name": "灰焰圆筒",
@@ -113,17 +33,6 @@
       "tags": [
         "上新",
         "灰焰"
-      ]
-    },
-    {
-      "code": "521836",
-      "name": "柠檬脆脆麦旋风",
-      "price_fen": 1650,
-      "price_yuan": 16.5,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "一口柠香"
       ]
     },
     {

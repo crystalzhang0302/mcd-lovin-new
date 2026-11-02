@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01 09:46:48",
-  "date": "2026-11-01",
+  "generated_at": "2026-11-02 02:01:23",
+  "date": "2026-11-02",
   "anchor": {
     "city": "杭州市",
     "keyword": "武林广场"
@@ -14,36 +14,14 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 106,
-    "tagged_new": 6,
+    "menu_total": 104,
+    "tagged_new": 4,
     "non_food_dropped": 0,
-    "food_new": 6,
-    "after_fold": 6
+    "food_new": 4,
+    "after_fold": 4
   },
   "dropped_non_food": [],
   "pool": [
-    {
-      "code": "9900016073",
-      "name": "龙焰鸡腿堡三件套",
-      "price_fen": 2690,
-      "price_yuan": 26.9,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "韩式辣椒黄油风味"
-      ]
-    },
-    {
-      "code": "521952",
-      "name": "龙焰鸡腿堡",
-      "price_fen": 1590,
-      "price_yuan": 15.9,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "韩式辣椒黄油风味"
-      ]
-    },
     {
       "code": "521950",
       "name": "蓝莓爆爆珠麦旋风",
