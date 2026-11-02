@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02 01:59:35",
+  "generated_at": "2026-11-02 09:56:06",
   "date": "2026-11-02",
   "anchor": {
     "city": "广州市",
@@ -14,16 +14,89 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 101,
-    "tagged_new": 5,
-    "non_food_dropped": 1,
-    "food_new": 3,
-    "after_fold": 3
+    "menu_total": 122,
+    "tagged_new": 15,
+    "non_food_dropped": 5,
+    "food_new": 10,
+    "after_fold": 10
   },
   "dropped_non_food": [
-    "旋旋水手帽"
+    "麦当劳限定丝巾",
+    "麦当劳联名徽章",
+    "麦当劳联名复古棒球帽",
+    "旋旋水手帽",
+    "“葱不求人“按摩捶痒痒挠"
   ],
   "pool": [
+    {
+      "code": "9900016078",
+      "name": "蘸酱麦麦脆汁鸡",
+      "price_fen": 1800,
+      "price_yuan": 18.0,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
+      ]
+    },
+    {
+      "code": "9900015729",
+      "name": "蘸酱BFF四宫格小食盘",
+      "price_fen": 4330,
+      "price_yuan": 43.3,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
+      ]
+    },
+    {
+      "code": "522016",
+      "name": "海陆双全堡",
+      "price_fen": 2550,
+      "price_yuan": 25.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "全新海陆双全来袭"
+      ]
+    },
+    {
+      "code": "9900005462",
+      "name": "板烧鸡腿堡三件套",
+      "price_fen": 3450,
+      "price_yuan": 34.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "新升级",
+        "更多汁"
+      ]
+    },
+    {
+      "code": "9900015008",
+      "name": "酥酥多笋卷三件套",
+      "price_fen": 3200,
+      "price_yuan": 32.0,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "全新升级",
+        "川香风味"
+      ]
+    },
+    {
+      "code": "522032",
+      "name": "酥酥多笋卷",
+      "price_fen": 2100,
+      "price_yuan": 21.0,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "单品",
+        "全新升级",
+        "川香风味"
+      ]
+    },
     {
       "code": "521951",
       "name": "灰焰圆筒",
@@ -47,14 +120,24 @@
       ]
     },
     {
+      "code": "521836",
+      "name": "柠檬脆脆麦旋风",
+      "price_fen": 1650,
+      "price_yuan": 16.5,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "一口柠香"
+      ]
+    },
+    {
       "code": "521817",
       "name": "【美汁源】“多汁柠柠”",
       "price_fen": 1200,
       "price_yuan": 12.0,
       "category": "饮品",
       "tags": [
-        "上新",
-        "清爽上新"
+        "上新"
       ]
     }
   ]

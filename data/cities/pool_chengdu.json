@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02 02:00:43",
+  "generated_at": "2026-11-02 09:58:25",
   "date": "2026-11-02",
   "anchor": {
     "city": "成都市",
@@ -14,16 +14,97 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 95,
-    "tagged_new": 3,
-    "non_food_dropped": 1,
-    "food_new": 2,
-    "after_fold": 2
+    "menu_total": 119,
+    "tagged_new": 12,
+    "non_food_dropped": 2,
+    "food_new": 10,
+    "after_fold": 10
   },
   "dropped_non_food": [
-    "麦当劳限定丝巾"
+    "麦当劳限定丝巾",
+    "“葱不求人“按摩捶痒痒挠"
   ],
   "pool": [
+    {
+      "code": "9900016078",
+      "name": "蘸酱麦麦脆汁鸡",
+      "price_fen": 1800,
+      "price_yuan": 18.0,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
+      ]
+    },
+    {
+      "code": "9900015729",
+      "name": "蘸酱BFF四宫格小食盘",
+      "price_fen": 4280,
+      "price_yuan": 42.8,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
+      ]
+    },
+    {
+      "code": "522016",
+      "name": "海陆双全堡",
+      "price_fen": 2500,
+      "price_yuan": 25.0,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "全新海陆双全来袭"
+      ]
+    },
+    {
+      "code": "9900005462",
+      "name": "板烧鸡腿堡三件套",
+      "price_fen": 3450,
+      "price_yuan": 34.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "新升级",
+        "更多汁"
+      ]
+    },
+    {
+      "code": "9900015008",
+      "name": "酥酥多笋卷三件套",
+      "price_fen": 3200,
+      "price_yuan": 32.0,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "全新升级",
+        "川香风味"
+      ]
+    },
+    {
+      "code": "522032",
+      "name": "酥酥多笋卷",
+      "price_fen": 2100,
+      "price_yuan": 21.0,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "单品",
+        "全新升级",
+        "川香风味"
+      ]
+    },
+    {
+      "code": "9900015704",
+      "name": "厚薯泥培根肉酱双牛堡买一送一",
+      "price_fen": 2890,
+      "price_yuan": 28.9,
+      "category": "巨无霸牛鱼肉堡",
+      "tags": [
+        "上新",
+        "我就喜欢代言人同款"
+      ]
+    },
     {
       "code": "521950",
       "name": "蓝莓爆爆珠麦旋风",
@@ -44,6 +125,17 @@
       "tags": [
         "上新",
         "灰焰"
+      ]
+    },
+    {
+      "code": "521836",
+      "name": "柠檬脆脆麦旋风",
+      "price_fen": 1650,
+      "price_yuan": 16.5,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "一口柠香"
       ]
     }
   ]

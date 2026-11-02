@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02 02:04:28",
+  "generated_at": "2026-11-02 10:05:33",
   "date": "2026-11-02",
   "anchor": {
     "city": "嘉兴市",
@@ -14,16 +14,64 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 72,
-    "tagged_new": 4,
-    "non_food_dropped": 1,
-    "food_new": 3,
-    "after_fold": 3
+    "menu_total": 104,
+    "tagged_new": 10,
+    "non_food_dropped": 2,
+    "food_new": 8,
+    "after_fold": 8
   },
   "dropped_non_food": [
-    "旋旋水手帽"
+    "旋旋水手帽",
+    "“葱不求人“按摩捶痒痒挠"
   ],
   "pool": [
+    {
+      "code": "522016",
+      "name": "海陆双全堡",
+      "price_fen": 2550,
+      "price_yuan": 25.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "全新海陆双全来袭"
+      ]
+    },
+    {
+      "code": "9900005462",
+      "name": "板烧鸡腿堡三件套",
+      "price_fen": 3450,
+      "price_yuan": 34.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "新升级",
+        "更多汁"
+      ]
+    },
+    {
+      "code": "9900015008",
+      "name": "酥酥多笋卷三件套",
+      "price_fen": 3150,
+      "price_yuan": 31.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "全新升级",
+        "川香风味"
+      ]
+    },
+    {
+      "code": "522032",
+      "name": "酥酥多笋卷",
+      "price_fen": 2050,
+      "price_yuan": 20.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "单品",
+        "全新升级",
+        "川香风味"
+      ]
+    },
     {
       "code": "521951",
       "name": "灰焰圆筒",
@@ -33,6 +81,18 @@
       "tags": [
         "上新",
         "灰焰"
+      ]
+    },
+    {
+      "code": "521901",
+      "name": "月下相思扭扭薯",
+      "price_fen": 1550,
+      "price_yuan": 15.5,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "口口酥脆",
+        "薯香十足"
       ]
     },
     {
@@ -53,8 +113,7 @@
       "price_yuan": 12.0,
       "category": "饮品",
       "tags": [
-        "上新",
-        "清爽上新"
+        "上新"
       ]
     }
   ]
