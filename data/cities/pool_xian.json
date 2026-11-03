@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03 03:57:23",
+  "generated_at": "2026-11-03 10:09:26",
   "date": "2026-11-03",
   "anchor": {
     "city": "西安市",
@@ -14,7 +14,7 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 105,
+    "menu_total": 104,
     "tagged_new": 9,
     "non_food_dropped": 0,
     "food_new": 9,

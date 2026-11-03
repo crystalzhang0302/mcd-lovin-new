@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03 03:51:38",
+  "generated_at": "2026-11-03 10:03:22",
   "date": "2026-11-03",
   "anchor": {
     "city": "成都市",
@@ -14,21 +14,30 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 115,
+    "menu_total": 116,
     "tagged_new": 10,
-    "non_food_dropped": 1,
-    "food_new": 9,
-    "after_fold": 9
+    "non_food_dropped": 0,
+    "food_new": 10,
+    "after_fold": 10
   },
-  "dropped_non_food": [
-    "“葱不求人“按摩捶痒痒挠"
-  ],
+  "dropped_non_food": [],
   "pool": [
+    {
+      "code": "9900016078",
+      "name": "蘸酱麦麦脆汁鸡",
+      "price_fen": 1800,
+      "price_yuan": 18.0,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
+      ]
+    },
     {
       "code": "9900015729",
       "name": "蘸酱BFF四宫格小食盘",
-      "price_fen": 4180,
-      "price_yuan": 41.8,
+      "price_fen": 4280,
+      "price_yuan": 42.8,
       "category": "蘸酱炸鸡",
       "tags": [
         "蘸酱炸鸡",

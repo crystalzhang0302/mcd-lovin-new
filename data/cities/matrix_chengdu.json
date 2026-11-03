@@ -3,7 +3,7 @@
     "date": "2026-11-03",
     "city": "成都市",
     "anchor": "春熙路",
-    "generatedAt": "2026-11-03 03:52:32",
+    "generatedAt": "2026-11-03 10:04:21",
     "stores": [
       {
         "code": "3450410",
@@ -38,17 +38,61 @@
     ]
   },
   "stats": {
-    "raw_new": 14,
+    "raw_new": 13,
     "dropped_nonfood": [
       "薯条脆卜卜嘭嘭单肩包",
-      "“葱不求人“按摩捶痒痒挠",
       "旋旋水手帽",
-      "旋旋星愿贴",
-      "麦当劳限定丝巾"
+      "旋旋星愿贴"
     ],
-    "items": 9
+    "items": 10
   },
   "items": [
+    {
+      "name": "蘸酱麦麦脆汁鸡",
+      "price": 18.0,
+      "priceRange": null,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3450410",
+          "name": "麦当劳成都锦江区联升巷(京都大厦)餐厅",
+          "distance": 173,
+          "address": "大科甲巷43号1栋1楼1号（自编号L10号）及2楼1号（自编号L210号）",
+          "productCode": "9900016078",
+          "price": 18.0
+        },
+        {
+          "code": "3450339",
+          "name": "麦当劳成都锦江总府路茂业百货餐厅",
+          "distance": 288,
+          "address": "总府路1号茂业百货二层1号内部铺位号9F02001X商铺",
+          "productCode": "9900016078",
+          "price": 18.0
+        },
+        {
+          "code": "3450069",
+          "name": "麦当劳成都第一城餐厅",
+          "distance": 299,
+          "address": "小科甲巷１号二层30、31号商铺（IFS）对面",
+          "productCode": "9900016078",
+          "price": 18.0
+        },
+        {
+          "code": "3450043",
+          "name": "麦当劳成都壹购广场餐厅",
+          "distance": 344,
+          "address": "东大街上东大街段１３３号壹购潮流广场",
+          "productCode": "9900016078",
+          "price": 18.0
+        }
+      ],
+      "storeCount": 4
+    },
     {
       "name": "酥酥多笋卷",
       "price": 21.0,
@@ -238,7 +282,7 @@
     },
     {
       "name": "蘸酱BFF四宫格小食盘",
-      "price": 41.8,
+      "price": 42.8,
       "priceRange": null,
       "category": "蘸酱炸鸡",
       "tags": [
@@ -253,7 +297,7 @@
           "distance": 173,
           "address": "大科甲巷43号1栋1楼1号（自编号L10号）及2楼1号（自编号L210号）",
           "productCode": "9900015729",
-          "price": 41.8
+          "price": 42.8
         },
         {
           "code": "3450339",
@@ -261,7 +305,7 @@
           "distance": 288,
           "address": "总府路1号茂业百货二层1号内部铺位号9F02001X商铺",
           "productCode": "9900015729",
-          "price": 41.8
+          "price": 42.8
         },
         {
           "code": "3450069",
@@ -269,7 +313,7 @@
           "distance": 299,
           "address": "小科甲巷１号二层30、31号商铺（IFS）对面",
           "productCode": "9900015729",
-          "price": 41.8
+          "price": 42.8
         },
         {
           "code": "3450043",
@@ -277,7 +321,7 @@
           "distance": 344,
           "address": "东大街上东大街段１３３号壹购潮流广场",
           "productCode": "9900015729",
-          "price": 41.8
+          "price": 42.8
         }
       ],
       "storeCount": 4

@@ -1,5 +1,5 @@
 window.CITY_MANIFEST = {
- "generatedAt": "2026-11-03 03:59:07",
+ "generatedAt": "2026-11-03 10:11:14",
  "default": "shanghai",
  "cities": [
   {
@@ -25,7 +25,7 @@ window.CITY_MANIFEST = {
   {
    "slug": "chengdu",
    "name": "成都",
-   "size_kb": 11
+   "size_kb": 12
   },
   {
    "slug": "hangzhou",
@@ -50,7 +50,7 @@ window.CITY_MANIFEST = {
   {
    "slug": "xian",
    "name": "西安",
-   "size_kb": 12
+   "size_kb": 11
   },
   {
    "slug": "jiaxing",

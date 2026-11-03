@@ -3,7 +3,7 @@
     "date": "2026-11-03",
     "city": "嘉兴市",
     "anchor": "月河历史街区",
-    "generatedAt": "2026-11-03 03:59:06",
+    "generatedAt": "2026-11-03 10:11:14",
     "stores": [
       {
         "code": "3330756",
@@ -38,12 +38,12 @@
     ]
   },
   "stats": {
-    "raw_new": 10,
+    "raw_new": 9,
     "dropped_nonfood": [
       "“葱不求人“按摩捶痒痒挠",
       "旋旋水手帽"
     ],
-    "items": 8
+    "items": 7
   },
   "items": [
     {
@@ -409,29 +409,6 @@
         }
       ],
       "storeCount": 3
-    },
-    {
-      "name": "月下相思扭扭薯",
-      "price": 15.5,
-      "priceRange": null,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "口口酥脆",
-        "薯香十足"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "3330756",
-          "name": "麦当劳嘉兴南湖区华庭街餐厅",
-          "distance": 251,
-          "address": "华庭街购物中心N区营业用房N118、N233号商铺",
-          "productCode": "521901",
-          "price": 15.5
-        }
-      ],
-      "storeCount": 1
     }
   ]
 }

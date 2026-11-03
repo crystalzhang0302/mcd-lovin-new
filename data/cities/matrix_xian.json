@@ -3,7 +3,7 @@
     "date": "2026-11-03",
     "city": "西安市",
     "anchor": "钟楼",
-    "generatedAt": "2026-11-03 03:58:08",
+    "generatedAt": "2026-11-03 10:10:18",
     "stores": [
       {
         "code": "1960622",
@@ -94,60 +94,6 @@
           "address": "南大街合生汇",
           "productCode": "521817",
           "price": 12.0
-        }
-      ],
-      "storeCount": 5
-    },
-    {
-      "name": "泷愿成真麦旋风——大米风味",
-      "price": 16.5,
-      "priceRange": null,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "快乐旋开吃"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1960622",
-          "name": "麦当劳西安开元餐厅",
-          "distance": 152,
-          "address": "东大街解放市场6号首层",
-          "productCode": "521917",
-          "price": 16.5
-        },
-        {
-          "code": "1960668",
-          "name": "麦当劳西安北大街餐厅",
-          "distance": 255,
-          "address": "北大街28号",
-          "productCode": "521917",
-          "price": 16.5
-        },
-        {
-          "code": "1960602",
-          "name": "麦当劳西安钟鼓楼餐厅",
-          "distance": 296,
-          "address": "西大街1号钟鼓楼广场",
-          "productCode": "521917",
-          "price": 16.5
-        },
-        {
-          "code": "1960701",
-          "name": "麦当劳西安北大街地铁站下沉广场餐厅",
-          "distance": 1114,
-          "address": "北大街地铁站下沉广场",
-          "productCode": "521917",
-          "price": 16.5
-        },
-        {
-          "code": "1960737",
-          "name": "麦当劳西安合生汇餐厅",
-          "distance": 1177,
-          "address": "南大街合生汇",
-          "productCode": "521917",
-          "price": 16.5
         }
       ],
       "storeCount": 5
@@ -478,6 +424,52 @@
         }
       ],
       "storeCount": 5
+    },
+    {
+      "name": "泷愿成真麦旋风——大米风味",
+      "price": 16.5,
+      "priceRange": null,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "快乐旋开吃"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1960622",
+          "name": "麦当劳西安开元餐厅",
+          "distance": 152,
+          "address": "东大街解放市场6号首层",
+          "productCode": "521917",
+          "price": 16.5
+        },
+        {
+          "code": "1960668",
+          "name": "麦当劳西安北大街餐厅",
+          "distance": 255,
+          "address": "北大街28号",
+          "productCode": "521917",
+          "price": 16.5
+        },
+        {
+          "code": "1960701",
+          "name": "麦当劳西安北大街地铁站下沉广场餐厅",
+          "distance": 1114,
+          "address": "北大街地铁站下沉广场",
+          "productCode": "521917",
+          "price": 16.5
+        },
+        {
+          "code": "1960737",
+          "name": "麦当劳西安合生汇餐厅",
+          "distance": 1177,
+          "address": "南大街合生汇",
+          "productCode": "521917",
+          "price": 16.5
+        }
+      ],
+      "storeCount": 4
     },
     {
       "name": "咸蛋黄鸡腿蛋月堡",

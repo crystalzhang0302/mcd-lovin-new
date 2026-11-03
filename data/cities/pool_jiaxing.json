@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03 03:58:27",
+  "generated_at": "2026-11-03 10:10:40",
   "date": "2026-11-03",
   "anchor": {
     "city": "嘉兴市",
@@ -14,11 +14,11 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 105,
-    "tagged_new": 10,
+    "menu_total": 104,
+    "tagged_new": 9,
     "non_food_dropped": 2,
-    "food_new": 8,
-    "after_fold": 8
+    "food_new": 7,
+    "after_fold": 7
   },
   "dropped_non_food": [
     "旋旋水手帽",
@@ -81,18 +81,6 @@
       "tags": [
         "上新",
         "灰焰"
-      ]
-    },
-    {
-      "code": "521901",
-      "name": "月下相思扭扭薯",
-      "price_fen": 1550,
-      "price_yuan": 15.5,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "口口酥脆",
-        "薯香十足"
       ]
     },
     {

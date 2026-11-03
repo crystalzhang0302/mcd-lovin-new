@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03 03:55:05",
+  "generated_at": "2026-11-03 10:07:02",
   "date": "2026-11-03",
   "anchor": {
     "city": "武汉市",
@@ -14,7 +14,7 @@
     "businessEndTime": "00:15"
   },
   "stats": {
-    "menu_total": 120,
+    "menu_total": 119,
     "tagged_new": 12,
     "non_food_dropped": 3,
     "food_new": 8,
