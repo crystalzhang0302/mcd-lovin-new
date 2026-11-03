@@ -1,9 +1,9 @@
 {
   "meta": {
-    "date": "2026-11-02",
+    "date": "2026-11-03",
     "city": "北京市",
     "anchor": "国贸",
-    "generatedAt": "2026-11-02 09:55:43",
+    "generatedAt": "2026-11-03 03:48:57",
     "stores": [
       {
         "code": "1950564",
@@ -420,6 +420,44 @@
       "storeCount": 4
     },
     {
+      "name": "蘸酱麦麦脆汁鸡",
+      "price": 18.0,
+      "priceRange": null,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1950564",
+          "name": "麦当劳北京建外SOHO(A座)餐厅",
+          "distance": 269,
+          "address": "东三环中路39号院建外SOHO-A座",
+          "productCode": "9900016078",
+          "price": 18.0
+        },
+        {
+          "code": "1950581",
+          "name": "麦当劳北京光华东里餐厅",
+          "distance": 394,
+          "address": "光华东里8号院1号楼B1层B1-03商铺 ",
+          "productCode": "9900016078",
+          "price": 18.0
+        },
+        {
+          "code": "1950754",
+          "name": "麦当劳北京景辉街餐厅",
+          "distance": 538,
+          "address": "阳光保险金融中心地下一层麦当劳",
+          "productCode": "9900016078",
+          "price": 18.0
+        }
+      ],
+      "storeCount": 3
+    },
+    {
       "name": "蘸酱BFF四宫格小食盘",
       "price": 42.8,
       "priceRange": null,
@@ -456,36 +494,6 @@
         }
       ],
       "storeCount": 3
-    },
-    {
-      "name": "蘸酱麦麦脆汁鸡",
-      "price": 18.0,
-      "priceRange": null,
-      "category": "蘸酱炸鸡",
-      "tags": [
-        "蘸酱炸鸡",
-        "蘸酱炸鸡新吃法"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1950564",
-          "name": "麦当劳北京建外SOHO(A座)餐厅",
-          "distance": 269,
-          "address": "东三环中路39号院建外SOHO-A座",
-          "productCode": "9900016078",
-          "price": 18.0
-        },
-        {
-          "code": "1950754",
-          "name": "麦当劳北京景辉街餐厅",
-          "distance": 538,
-          "address": "阳光保险金融中心地下一层麦当劳",
-          "productCode": "9900016078",
-          "price": 18.0
-        }
-      ],
-      "storeCount": 2
     }
   ]
 }

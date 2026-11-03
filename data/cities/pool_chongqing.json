@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02 10:03:08",
-  "date": "2026-11-02",
+  "generated_at": "2026-11-03 03:56:22",
+  "date": "2026-11-03",
   "anchor": {
     "city": "重庆市",
     "keyword": "解放碑"
@@ -14,14 +14,15 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 95,
+    "menu_total": 103,
     "tagged_new": 6,
-    "non_food_dropped": 1,
-    "food_new": 5,
-    "after_fold": 5
+    "non_food_dropped": 2,
+    "food_new": 4,
+    "after_fold": 4
   },
   "dropped_non_food": [
-    "旋旋星愿贴"
+    "旋旋星愿贴",
+    "“葱不求人“按摩捶痒痒挠"
   ],
   "pool": [
     {
@@ -57,17 +58,6 @@
         "套餐",
         "新升级",
         "更多汁"
-      ]
-    },
-    {
-      "code": "521906",
-      "name": "玫瑰红糖糍粑风味派",
-      "price_fen": 1100,
-      "price_yuan": 11.0,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "玫瑰花香"
       ]
     },
     {

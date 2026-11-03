@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02 09:58:25",
-  "date": "2026-11-02",
+  "generated_at": "2026-11-03 03:51:38",
+  "date": "2026-11-03",
   "anchor": {
     "city": "成都市",
     "keyword": "春熙路"
@@ -14,33 +14,21 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 119,
-    "tagged_new": 12,
-    "non_food_dropped": 2,
-    "food_new": 10,
-    "after_fold": 10
+    "menu_total": 115,
+    "tagged_new": 10,
+    "non_food_dropped": 1,
+    "food_new": 9,
+    "after_fold": 9
   },
   "dropped_non_food": [
-    "麦当劳限定丝巾",
     "“葱不求人“按摩捶痒痒挠"
   ],
   "pool": [
     {
-      "code": "9900016078",
-      "name": "蘸酱麦麦脆汁鸡",
-      "price_fen": 1800,
-      "price_yuan": 18.0,
-      "category": "蘸酱炸鸡",
-      "tags": [
-        "蘸酱炸鸡",
-        "蘸酱炸鸡新吃法"
-      ]
-    },
-    {
       "code": "9900015729",
       "name": "蘸酱BFF四宫格小食盘",
-      "price_fen": 4280,
-      "price_yuan": 42.8,
+      "price_fen": 4180,
+      "price_yuan": 41.8,
       "category": "蘸酱炸鸡",
       "tags": [
         "蘸酱炸鸡",
