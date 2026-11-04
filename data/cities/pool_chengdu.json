@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03 10:03:22",
-  "date": "2026-11-03",
+  "generated_at": "2026-11-04 02:54:53",
+  "date": "2026-11-04",
   "anchor": {
     "city": "成都市",
     "keyword": "春熙路"
@@ -14,11 +14,11 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 116,
-    "tagged_new": 10,
+    "menu_total": 112,
+    "tagged_new": 9,
     "non_food_dropped": 0,
-    "food_new": 10,
-    "after_fold": 10
+    "food_new": 9,
+    "after_fold": 9
   },
   "dropped_non_food": [],
   "pool": [
@@ -89,17 +89,6 @@
         "单品",
         "全新升级",
         "川香风味"
-      ]
-    },
-    {
-      "code": "9900015704",
-      "name": "厚薯泥培根肉酱双牛堡买一送一",
-      "price_fen": 2890,
-      "price_yuan": 28.9,
-      "category": "巨无霸牛鱼肉堡",
-      "tags": [
-        "上新",
-        "我就喜欢代言人同款"
       ]
     },
     {

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "date": "2026-11-03",
+    "date": "2026-11-04",
     "city": "成都市",
     "anchor": "春熙路",
-    "generatedAt": "2026-11-03 10:04:21",
+    "generatedAt": "2026-11-04 02:55:43",
     "stores": [
       {
         "code": "3450410",
@@ -38,13 +38,13 @@
     ]
   },
   "stats": {
-    "raw_new": 13,
+    "raw_new": 12,
     "dropped_nonfood": [
       "薯条脆卜卜嘭嘭单肩包",
       "旋旋水手帽",
       "旋旋星愿贴"
     ],
-    "items": 10
+    "items": 9
   },
   "items": [
     {
@@ -431,28 +431,6 @@
         }
       ],
       "storeCount": 2
-    },
-    {
-      "name": "厚薯泥培根肉酱双牛堡买一送一",
-      "price": 28.9,
-      "priceRange": null,
-      "category": "巨无霸牛鱼肉堡",
-      "tags": [
-        "上新",
-        "我就喜欢代言人同款"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "3450410",
-          "name": "麦当劳成都锦江区联升巷(京都大厦)餐厅",
-          "distance": 173,
-          "address": "大科甲巷43号1栋1楼1号（自编号L10号）及2楼1号（自编号L210号）",
-          "productCode": "9900015704",
-          "price": 28.9
-        }
-      ],
-      "storeCount": 1
     }
   ]
 }

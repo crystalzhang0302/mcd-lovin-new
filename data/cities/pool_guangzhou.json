@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03 10:00:39",
-  "date": "2026-11-03",
+  "generated_at": "2026-11-04 02:52:35",
+  "date": "2026-11-04",
   "anchor": {
     "city": "广州市",
     "keyword": "体育西路"
@@ -14,11 +14,11 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 118,
-    "tagged_new": 13,
+    "menu_total": 124,
+    "tagged_new": 14,
     "non_food_dropped": 4,
-    "food_new": 8,
-    "after_fold": 8
+    "food_new": 10,
+    "after_fold": 10
   },
   "dropped_non_food": [
     "麦当劳限定丝巾",
@@ -70,6 +70,30 @@
         "套餐",
         "新升级",
         "更多汁"
+      ]
+    },
+    {
+      "code": "9900015008",
+      "name": "酥酥多笋卷三件套",
+      "price_fen": 3200,
+      "price_yuan": 32.0,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "全新升级",
+        "川香风味"
+      ]
+    },
+    {
+      "code": "522032",
+      "name": "酥酥多笋卷",
+      "price_fen": 2100,
+      "price_yuan": 21.0,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "单品",
+        "全新升级",
+        "川香风味"
       ]
     },
     {

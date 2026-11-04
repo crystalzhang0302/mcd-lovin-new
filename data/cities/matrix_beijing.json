@@ -1,9 +1,9 @@
 {
   "meta": {
-    "date": "2026-11-03",
+    "date": "2026-11-04",
     "city": "北京市",
     "anchor": "国贸",
-    "generatedAt": "2026-11-03 10:00:14",
+    "generatedAt": "2026-11-04 02:52:11",
     "stores": [
       {
         "code": "1950564",
@@ -374,52 +374,6 @@
       "storeCount": 5
     },
     {
-      "name": "泷愿成真麦旋风——大米风味",
-      "price": 16.5,
-      "priceRange": null,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "快乐旋开吃"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1950564",
-          "name": "麦当劳北京建外SOHO(A座)餐厅",
-          "distance": 269,
-          "address": "东三环中路39号院建外SOHO-A座",
-          "productCode": "521917",
-          "price": 16.5
-        },
-        {
-          "code": "1950581",
-          "name": "麦当劳北京光华东里餐厅",
-          "distance": 394,
-          "address": "光华东里8号院1号楼B1层B1-03商铺 ",
-          "productCode": "521917",
-          "price": 16.5
-        },
-        {
-          "code": "1950754",
-          "name": "麦当劳北京景辉街餐厅",
-          "distance": 538,
-          "address": "阳光保险金融中心地下一层麦当劳",
-          "productCode": "521917",
-          "price": 16.5
-        },
-        {
-          "code": "1950553",
-          "name": "麦当劳北京景华南街餐厅",
-          "distance": 729,
-          "address": "东三环中路25号住总大厦",
-          "productCode": "521917",
-          "price": 16.5
-        }
-      ],
-      "storeCount": 4
-    },
-    {
       "name": "蘸酱麦麦脆汁鸡",
       "price": 18.0,
       "priceRange": null,
@@ -453,9 +407,17 @@
           "address": "阳光保险金融中心地下一层麦当劳",
           "productCode": "9900016078",
           "price": 18.0
+        },
+        {
+          "code": "1950925",
+          "name": "麦当劳北京光华路世纪财富中心餐厅",
+          "distance": 649,
+          "address": "光华路5号院世纪财富中心B1-107",
+          "productCode": "9900016078",
+          "price": 18.0
         }
       ],
-      "storeCount": 3
+      "storeCount": 4
     },
     {
       "name": "蘸酱BFF四宫格小食盘",
@@ -491,6 +453,52 @@
           "address": "阳光保险金融中心地下一层麦当劳",
           "productCode": "9900015729",
           "price": 42.8
+        },
+        {
+          "code": "1950925",
+          "name": "麦当劳北京光华路世纪财富中心餐厅",
+          "distance": 649,
+          "address": "光华路5号院世纪财富中心B1-107",
+          "productCode": "9900015729",
+          "price": 42.8
+        }
+      ],
+      "storeCount": 4
+    },
+    {
+      "name": "泷愿成真麦旋风——大米风味",
+      "price": 16.5,
+      "priceRange": null,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "快乐旋开吃"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1950564",
+          "name": "麦当劳北京建外SOHO(A座)餐厅",
+          "distance": 269,
+          "address": "东三环中路39号院建外SOHO-A座",
+          "productCode": "521917",
+          "price": 16.5
+        },
+        {
+          "code": "1950754",
+          "name": "麦当劳北京景辉街餐厅",
+          "distance": 538,
+          "address": "阳光保险金融中心地下一层麦当劳",
+          "productCode": "521917",
+          "price": 16.5
+        },
+        {
+          "code": "1950553",
+          "name": "麦当劳北京景华南街餐厅",
+          "distance": 729,
+          "address": "东三环中路25号住总大厦",
+          "productCode": "521917",
+          "price": 16.5
         }
       ],
       "storeCount": 3
