@@ -3,7 +3,7 @@
     "date": "2026-11-04",
     "city": "上海市",
     "anchor": "人民广场",
-    "generatedAt": "2026-11-04 02:50:45",
+    "generatedAt": "2026-11-04 09:47:08",
     "stores": [
       {
         "code": "1450713",
@@ -101,61 +101,6 @@
       "storeCount": 5
     },
     {
-      "name": "酥酥多笋卷",
-      "price": 20.5,
-      "priceRange": null,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "单品",
-        "全新升级",
-        "川香风味"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1450713",
-          "name": "麦当劳上海黄浦华旭国际大厦餐厅",
-          "distance": 144,
-          "address": "南京东路街道西藏中路336号",
-          "productCode": "522032",
-          "price": 20.5
-        },
-        {
-          "code": "1450441",
-          "name": "麦当劳上海福州路餐厅",
-          "distance": 235,
-          "address": "福州路666号",
-          "productCode": "522032",
-          "price": 20.5
-        },
-        {
-          "code": "1450056",
-          "name": "麦当劳上海食品一店餐厅",
-          "distance": 355,
-          "address": "南京东路720号",
-          "productCode": "522032",
-          "price": 20.5
-        },
-        {
-          "code": "1450195",
-          "name": "麦当劳上海雅居乐餐厅",
-          "distance": 382,
-          "address": "西藏中路525号",
-          "productCode": "522032",
-          "price": 20.5
-        },
-        {
-          "code": "1450124",
-          "name": "麦当劳上海南京西路NX258餐厅",
-          "distance": 412,
-          "address": "南京西路258号1幢一层",
-          "productCode": "522032",
-          "price": 20.5
-        }
-      ],
-      "storeCount": 5
-    },
-    {
       "name": "海陆双全堡",
       "price": 24.5,
       "priceRange": null,
@@ -205,61 +150,6 @@
           "address": "南京西路258号1幢一层",
           "productCode": "522016",
           "price": 24.5
-        }
-      ],
-      "storeCount": 5
-    },
-    {
-      "name": "酥酥多笋卷三件套",
-      "price": 31.5,
-      "priceRange": null,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "套餐",
-        "全新升级",
-        "川香风味"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1450713",
-          "name": "麦当劳上海黄浦华旭国际大厦餐厅",
-          "distance": 144,
-          "address": "南京东路街道西藏中路336号",
-          "productCode": "9900015008",
-          "price": 31.5
-        },
-        {
-          "code": "1450441",
-          "name": "麦当劳上海福州路餐厅",
-          "distance": 235,
-          "address": "福州路666号",
-          "productCode": "9900015008",
-          "price": 31.5
-        },
-        {
-          "code": "1450056",
-          "name": "麦当劳上海食品一店餐厅",
-          "distance": 355,
-          "address": "南京东路720号",
-          "productCode": "9900015008",
-          "price": 31.5
-        },
-        {
-          "code": "1450195",
-          "name": "麦当劳上海雅居乐餐厅",
-          "distance": 382,
-          "address": "西藏中路525号",
-          "productCode": "9900015008",
-          "price": 31.5
-        },
-        {
-          "code": "1450124",
-          "name": "麦当劳上海南京西路NX258餐厅",
-          "distance": 412,
-          "address": "南京西路258号1幢一层",
-          "productCode": "9900015008",
-          "price": 31.5
         }
       ],
       "storeCount": 5
@@ -453,6 +343,100 @@
           "address": "南京西路258号1幢一层",
           "productCode": "521950",
           "price": 16.5
+        }
+      ],
+      "storeCount": 4
+    },
+    {
+      "name": "酥酥多笋卷",
+      "price": 20.5,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "单品",
+        "全新升级",
+        "川香风味"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1450713",
+          "name": "麦当劳上海黄浦华旭国际大厦餐厅",
+          "distance": 144,
+          "address": "南京东路街道西藏中路336号",
+          "productCode": "522032",
+          "price": 20.5
+        },
+        {
+          "code": "1450441",
+          "name": "麦当劳上海福州路餐厅",
+          "distance": 235,
+          "address": "福州路666号",
+          "productCode": "522032",
+          "price": 20.5
+        },
+        {
+          "code": "1450056",
+          "name": "麦当劳上海食品一店餐厅",
+          "distance": 355,
+          "address": "南京东路720号",
+          "productCode": "522032",
+          "price": 20.5
+        },
+        {
+          "code": "1450124",
+          "name": "麦当劳上海南京西路NX258餐厅",
+          "distance": 412,
+          "address": "南京西路258号1幢一层",
+          "productCode": "522032",
+          "price": 20.5
+        }
+      ],
+      "storeCount": 4
+    },
+    {
+      "name": "酥酥多笋卷三件套",
+      "price": 31.5,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "全新升级",
+        "川香风味"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1450713",
+          "name": "麦当劳上海黄浦华旭国际大厦餐厅",
+          "distance": 144,
+          "address": "南京东路街道西藏中路336号",
+          "productCode": "9900015008",
+          "price": 31.5
+        },
+        {
+          "code": "1450441",
+          "name": "麦当劳上海福州路餐厅",
+          "distance": 235,
+          "address": "福州路666号",
+          "productCode": "9900015008",
+          "price": 31.5
+        },
+        {
+          "code": "1450056",
+          "name": "麦当劳上海食品一店餐厅",
+          "distance": 355,
+          "address": "南京东路720号",
+          "productCode": "9900015008",
+          "price": 31.5
+        },
+        {
+          "code": "1450124",
+          "name": "麦当劳上海南京西路NX258餐厅",
+          "distance": 412,
+          "address": "南京西路258号1幢一层",
+          "productCode": "9900015008",
+          "price": 31.5
         }
       ],
       "storeCount": 4

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04 02:51:15",
+  "generated_at": "2026-11-04 09:47:37",
   "date": "2026-11-04",
   "anchor": {
     "city": "北京市",
@@ -14,15 +14,14 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 119,
-    "tagged_new": 12,
-    "non_food_dropped": 3,
-    "food_new": 9,
-    "after_fold": 9
+    "menu_total": 115,
+    "tagged_new": 10,
+    "non_food_dropped": 2,
+    "food_new": 8,
+    "after_fold": 8
   },
   "dropped_non_food": [
     "麦当劳限定丝巾",
-    "“葱不求人“按摩捶痒痒挠",
     "薯条脆卜卜嘭嘭单肩包"
   ],
   "pool": [
@@ -93,17 +92,6 @@
         "单品",
         "全新升级",
         "川香风味"
-      ]
-    },
-    {
-      "code": "9900016566",
-      "name": "心形薯饼",
-      "price_fen": 990,
-      "price_yuan": 9.9,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "限时特惠"
       ]
     },
     {

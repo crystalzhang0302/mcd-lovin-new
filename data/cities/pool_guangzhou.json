@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04 02:52:35",
+  "generated_at": "2026-11-04 09:48:53",
   "date": "2026-11-04",
   "anchor": {
     "city": "广州市",
@@ -14,7 +14,7 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 124,
+    "menu_total": 122,
     "tagged_new": 14,
     "non_food_dropped": 4,
     "food_new": 10,
@@ -22,9 +22,9 @@
   },
   "dropped_non_food": [
     "麦当劳限定丝巾",
+    "麦当劳联名徽章",
     "麦当劳联名复古棒球帽",
-    "旋旋水手帽",
-    "“葱不求人“按摩捶痒痒挠"
+    "旋旋水手帽"
   ],
   "pool": [
     {

@@ -3,7 +3,7 @@
     "date": "2026-11-04",
     "city": "北京市",
     "anchor": "国贸",
-    "generatedAt": "2026-11-04 02:52:11",
+    "generatedAt": "2026-11-04 09:48:31",
     "stores": [
       {
         "code": "1950564",
@@ -38,69 +38,15 @@
     ]
   },
   "stats": {
-    "raw_new": 12,
+    "raw_new": 11,
     "dropped_nonfood": [
       "薯条脆卜卜嘭嘭单肩包",
       "“葱不求人“按摩捶痒痒挠",
       "麦当劳限定丝巾"
     ],
-    "items": 9
+    "items": 8
   },
   "items": [
-    {
-      "name": "心形薯饼8块",
-      "price": 9.9,
-      "priceRange": null,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "限时特惠"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1950564",
-          "name": "麦当劳北京建外SOHO(A座)餐厅",
-          "distance": 269,
-          "address": "东三环中路39号院建外SOHO-A座",
-          "productCode": "9900016566",
-          "price": 9.9
-        },
-        {
-          "code": "1950581",
-          "name": "麦当劳北京光华东里餐厅",
-          "distance": 394,
-          "address": "光华东里8号院1号楼B1层B1-03商铺 ",
-          "productCode": "9900016566",
-          "price": 9.9
-        },
-        {
-          "code": "1950754",
-          "name": "麦当劳北京景辉街餐厅",
-          "distance": 538,
-          "address": "阳光保险金融中心地下一层麦当劳",
-          "productCode": "9900016566",
-          "price": 9.9
-        },
-        {
-          "code": "1950925",
-          "name": "麦当劳北京光华路世纪财富中心餐厅",
-          "distance": 649,
-          "address": "光华路5号院世纪财富中心B1-107",
-          "productCode": "9900016566",
-          "price": 9.9
-        },
-        {
-          "code": "1950553",
-          "name": "麦当劳北京景华南街餐厅",
-          "distance": 729,
-          "address": "东三环中路25号住总大厦",
-          "productCode": "9900016566",
-          "price": 9.9
-        }
-      ],
-      "storeCount": 5
-    },
     {
       "name": "【美汁源】“多汁柠柠”",
       "price": 12.0,
