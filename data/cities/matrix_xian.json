@@ -1,9 +1,9 @@
 {
   "meta": {
-    "date": "2026-11-04",
+    "date": "2026-11-05",
     "city": "西安市",
     "anchor": "钟楼",
-    "generatedAt": "2026-11-04 09:58:03",
+    "generatedAt": "2026-11-05 03:09:25",
     "stores": [
       {
         "code": "1960622",
@@ -38,11 +38,11 @@
     ]
   },
   "stats": {
-    "raw_new": 10,
+    "raw_new": 12,
     "dropped_nonfood": [
       "“葱不求人“按摩捶痒痒挠"
     ],
-    "items": 9
+    "items": 10
   },
   "items": [
     {
@@ -426,6 +426,50 @@
       "storeCount": 5
     },
     {
+      "name": "蘸酱脆皮鸡块4块",
+      "price": 11.9,
+      "priceRange": [
+        11.9,
+        19.9
+      ],
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
+      ],
+      "variants": [
+        {
+          "name": "蘸酱脆皮鸡块4块",
+          "code": "9900016099",
+          "price": 11.9
+        },
+        {
+          "name": "蘸酱脆皮鸡块8块",
+          "code": "9900016308",
+          "price": 19.9
+        }
+      ],
+      "stores": [
+        {
+          "code": "1960622",
+          "name": "麦当劳西安开元餐厅",
+          "distance": 152,
+          "address": "东大街解放市场6号首层",
+          "productCode": "9900016099",
+          "price": 11.9
+        },
+        {
+          "code": "1960701",
+          "name": "麦当劳西安北大街地铁站下沉广场餐厅",
+          "distance": 1114,
+          "address": "北大街地铁站下沉广场",
+          "productCode": "9900016099",
+          "price": 11.9
+        }
+      ],
+      "storeCount": 2
+    },
+    {
       "name": "泷愿成真麦旋风——大米风味",
       "price": 16.5,
       "priceRange": null,
@@ -445,14 +489,6 @@
           "price": 16.5
         },
         {
-          "code": "1960701",
-          "name": "麦当劳西安北大街地铁站下沉广场餐厅",
-          "distance": 1114,
-          "address": "北大街地铁站下沉广场",
-          "productCode": "521917",
-          "price": 16.5
-        },
-        {
           "code": "1960737",
           "name": "麦当劳西安合生汇餐厅",
           "distance": 1177,
@@ -461,7 +497,7 @@
           "price": 16.5
         }
       ],
-      "storeCount": 3
+      "storeCount": 2
     },
     {
       "name": "咸蛋黄鸡腿蛋月堡",

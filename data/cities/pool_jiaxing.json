@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04 09:58:21",
-  "date": "2026-11-04",
+  "generated_at": "2026-11-05 03:09:38",
+  "date": "2026-11-05",
   "anchor": {
     "city": "嘉兴市",
     "keyword": "月河历史街区"
@@ -14,7 +14,7 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 107,
+    "menu_total": 106,
     "tagged_new": 9,
     "non_food_dropped": 2,
     "food_new": 7,
@@ -25,6 +25,17 @@
     "“葱不求人“按摩捶痒痒挠"
   ],
   "pool": [
+    {
+      "code": "9900016308",
+      "name": "蘸酱脆皮鸡块",
+      "price_fen": 1990,
+      "price_yuan": 19.9,
+      "category": "小食拼盘/多人餐",
+      "tags": [
+        "上新",
+        "蘸酱炸鸡新吃法"
+      ]
+    },
     {
       "code": "522016",
       "name": "海陆双全堡",
@@ -81,17 +92,6 @@
       "tags": [
         "上新",
         "灰焰"
-      ]
-    },
-    {
-      "code": "521917",
-      "name": "泷愿成真麦旋风——大米风味",
-      "price_fen": 1600,
-      "price_yuan": 16.0,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "快乐旋开吃"
       ]
     },
     {

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04 09:46:27",
-  "date": "2026-11-04",
+  "generated_at": "2026-11-05 02:57:56",
+  "date": "2026-11-05",
   "anchor": {
     "city": "上海市",
     "keyword": "人民广场"
@@ -14,14 +14,13 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 123,
-    "tagged_new": 14,
-    "non_food_dropped": 3,
-    "food_new": 11,
-    "after_fold": 11
+    "menu_total": 129,
+    "tagged_new": 15,
+    "non_food_dropped": 2,
+    "food_new": 13,
+    "after_fold": 13
   },
   "dropped_non_food": [
-    "麦当劳限定丝巾",
     "旋旋水手帽",
     "“葱不求人“按摩捶痒痒挠"
   ],
@@ -57,6 +56,28 @@
       "tags": [
         "上新",
         "全新海陆双全来袭"
+      ]
+    },
+    {
+      "code": "9900016073",
+      "name": "龙焰鸡腿堡三件套",
+      "price_fen": 2690,
+      "price_yuan": 26.9,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ]
+    },
+    {
+      "code": "521952",
+      "name": "龙焰鸡腿堡",
+      "price_fen": 1590,
+      "price_yuan": 15.9,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
       ]
     },
     {

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04 09:56:02",
-  "date": "2026-11-04",
+  "generated_at": "2026-11-05 03:07:21",
+  "date": "2026-11-05",
   "anchor": {
     "city": "重庆市",
     "keyword": "解放碑"
@@ -14,17 +14,28 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 100,
-    "tagged_new": 5,
+    "menu_total": 104,
+    "tagged_new": 8,
     "non_food_dropped": 2,
-    "food_new": 3,
-    "after_fold": 3
+    "food_new": 6,
+    "after_fold": 6
   },
   "dropped_non_food": [
     "旋旋星愿贴",
     "“葱不求人“按摩捶痒痒挠"
   ],
   "pool": [
+    {
+      "code": "9900015726",
+      "name": "韩式甜辣酱鸡块",
+      "price_fen": 3300,
+      "price_yuan": 33.0,
+      "category": "小食拼盘/多人餐",
+      "tags": [
+        "上新",
+        "韩式风味"
+      ]
+    },
     {
       "code": "522016",
       "name": "海陆双全堡",
@@ -34,6 +45,28 @@
       "tags": [
         "上新",
         "全新海陆双全来袭"
+      ]
+    },
+    {
+      "code": "9900016073",
+      "name": "龙焰鸡腿堡三件套",
+      "price_fen": 5300,
+      "price_yuan": 53.0,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ]
+    },
+    {
+      "code": "521952",
+      "name": "龙焰鸡腿堡",
+      "price_fen": 2750,
+      "price_yuan": 27.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
       ]
     },
     {

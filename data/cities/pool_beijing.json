@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04 09:47:37",
-  "date": "2026-11-04",
+  "generated_at": "2026-11-05 02:59:03",
+  "date": "2026-11-05",
   "anchor": {
     "city": "北京市",
     "keyword": "国贸"
@@ -14,11 +14,11 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 115,
-    "tagged_new": 10,
+    "menu_total": 122,
+    "tagged_new": 13,
     "non_food_dropped": 2,
-    "food_new": 8,
-    "after_fold": 8
+    "food_new": 11,
+    "after_fold": 11
   },
   "dropped_non_food": [
     "麦当劳限定丝巾",
@@ -59,6 +59,28 @@
       ]
     },
     {
+      "code": "9900016073",
+      "name": "龙焰鸡腿堡三件套",
+      "price_fen": 2690,
+      "price_yuan": 26.9,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ]
+    },
+    {
+      "code": "521952",
+      "name": "龙焰鸡腿堡",
+      "price_fen": 1590,
+      "price_yuan": 15.9,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ]
+    },
+    {
       "code": "9900005462",
       "name": "板烧鸡腿堡三件套",
       "price_fen": 3450,
@@ -92,6 +114,18 @@
         "单品",
         "全新升级",
         "川香风味"
+      ]
+    },
+    {
+      "code": "521986",
+      "name": "马苏里拉拉丝芝士条",
+      "price_fen": 1100,
+      "price_yuan": 11.0,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "趁热拉丝",
+        "奶香醇厚"
       ]
     },
     {
