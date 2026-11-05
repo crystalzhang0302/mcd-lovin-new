@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05 03:02:54",
+  "generated_at": "2026-11-05 09:53:34",
   "date": "2026-11-05",
   "anchor": {
     "city": "成都市",
@@ -15,10 +15,10 @@
   },
   "stats": {
     "menu_total": 120,
-    "tagged_new": 13,
+    "tagged_new": 14,
     "non_food_dropped": 0,
-    "food_new": 13,
-    "after_fold": 13
+    "food_new": 14,
+    "after_fold": 14
   },
   "dropped_non_food": [],
   "pool": [
@@ -166,6 +166,16 @@
       "tags": [
         "上新",
         "一口柠香"
+      ]
+    },
+    {
+      "code": "521817",
+      "name": "【美汁源】“多汁柠柠”",
+      "price_fen": 1200,
+      "price_yuan": 12.0,
+      "category": "饮品",
+      "tags": [
+        "上新"
       ]
     }
   ]

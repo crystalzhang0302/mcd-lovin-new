@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05 03:03:53",
+  "generated_at": "2026-11-05 09:54:36",
   "date": "2026-11-05",
   "anchor": {
     "city": "杭州市",
@@ -14,7 +14,7 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 119,
+    "menu_total": 118,
     "tagged_new": 10,
     "non_food_dropped": 0,
     "food_new": 10,

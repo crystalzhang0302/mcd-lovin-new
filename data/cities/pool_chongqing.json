@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05 03:07:21",
+  "generated_at": "2026-11-05 09:58:29",
   "date": "2026-11-05",
   "anchor": {
     "city": "重庆市",
@@ -14,13 +14,14 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 104,
-    "tagged_new": 8,
-    "non_food_dropped": 2,
-    "food_new": 6,
-    "after_fold": 6
+    "menu_total": 94,
+    "tagged_new": 10,
+    "non_food_dropped": 3,
+    "food_new": 7,
+    "after_fold": 7
   },
   "dropped_non_food": [
+    "旋旋水手帽",
     "旋旋星愿贴",
     "“葱不求人“按摩捶痒痒挠"
   ],
@@ -67,6 +68,18 @@
       "tags": [
         "上新",
         "韩式辣椒黄油风味"
+      ]
+    },
+    {
+      "code": "521900",
+      "name": "咸蛋黄鸡腿蛋月堡",
+      "price_fen": 2850,
+      "price_yuan": 28.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "酥脆鸡腿排",
+        "滑嫩蒸蛋"
       ]
     },
     {

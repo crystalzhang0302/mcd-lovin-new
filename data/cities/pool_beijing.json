@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05 02:59:03",
+  "generated_at": "2026-11-05 09:49:38",
   "date": "2026-11-05",
   "anchor": {
     "city": "北京市",
@@ -14,14 +14,15 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 122,
-    "tagged_new": 13,
-    "non_food_dropped": 2,
+    "menu_total": 123,
+    "tagged_new": 14,
+    "non_food_dropped": 3,
     "food_new": 11,
     "after_fold": 11
   },
   "dropped_non_food": [
     "麦当劳限定丝巾",
+    "“葱不求人“按摩捶痒痒挠",
     "薯条脆卜卜嘭嘭单肩包"
   ],
   "pool": [
