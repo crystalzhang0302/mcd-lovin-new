@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05 09:58:29",
-  "date": "2026-11-05",
+  "generated_at": "2026-11-06 03:08:57",
+  "date": "2026-11-06",
   "anchor": {
     "city": "重庆市",
     "keyword": "解放碑"
@@ -14,11 +14,11 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 94,
-    "tagged_new": 10,
+    "menu_total": 107,
+    "tagged_new": 9,
     "non_food_dropped": 3,
-    "food_new": 7,
-    "after_fold": 7
+    "food_new": 6,
+    "after_fold": 6
   },
   "dropped_non_food": [
     "旋旋水手帽",
@@ -68,18 +68,6 @@
       "tags": [
         "上新",
         "韩式辣椒黄油风味"
-      ]
-    },
-    {
-      "code": "521900",
-      "name": "咸蛋黄鸡腿蛋月堡",
-      "price_fen": 2850,
-      "price_yuan": 28.5,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "酥脆鸡腿排",
-        "滑嫩蒸蛋"
       ]
     },
     {

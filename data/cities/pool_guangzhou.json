@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05 09:50:56",
-  "date": "2026-11-05",
+  "generated_at": "2026-11-06 03:00:36",
+  "date": "2026-11-06",
   "anchor": {
     "city": "广州市",
     "keyword": "体育西路"
@@ -14,7 +14,7 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 130,
+    "menu_total": 131,
     "tagged_new": 18,
     "non_food_dropped": 4,
     "food_new": 14,

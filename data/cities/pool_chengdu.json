@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05 09:53:34",
-  "date": "2026-11-05",
+  "generated_at": "2026-11-06 03:03:34",
+  "date": "2026-11-06",
   "anchor": {
     "city": "成都市",
     "keyword": "春熙路"
@@ -14,7 +14,7 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 120,
+    "menu_total": 121,
     "tagged_new": 14,
     "non_food_dropped": 0,
     "food_new": 14,

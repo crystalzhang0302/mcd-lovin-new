@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05 09:49:38",
-  "date": "2026-11-05",
+  "generated_at": "2026-11-06 02:59:09",
+  "date": "2026-11-06",
   "anchor": {
     "city": "北京市",
     "keyword": "国贸"
@@ -14,7 +14,7 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 123,
+    "menu_total": 124,
     "tagged_new": 14,
     "non_food_dropped": 3,
     "food_new": 11,
