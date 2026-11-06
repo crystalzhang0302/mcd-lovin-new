@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06 03:00:36",
+  "generated_at": "2026-11-06 09:50:24",
   "date": "2026-11-06",
   "anchor": {
     "city": "广州市",
@@ -14,17 +14,18 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 131,
-    "tagged_new": 18,
-    "non_food_dropped": 4,
-    "food_new": 14,
-    "after_fold": 14
+    "menu_total": 127,
+    "tagged_new": 16,
+    "non_food_dropped": 5,
+    "food_new": 11,
+    "after_fold": 11
   },
   "dropped_non_food": [
     "麦当劳限定丝巾",
     "麦当劳联名徽章",
     "麦当劳联名复古棒球帽",
-    "旋旋水手帽"
+    "旋旋水手帽",
+    "“葱不求人“按摩捶痒痒挠"
   ],
   "pool": [
     {
@@ -36,39 +37,6 @@
       "tags": [
         "上新",
         "韩式风味"
-      ]
-    },
-    {
-      "code": "9900016078",
-      "name": "蘸酱麦麦脆汁鸡",
-      "price_fen": 1800,
-      "price_yuan": 18.0,
-      "category": "蘸酱炸鸡",
-      "tags": [
-        "蘸酱炸鸡",
-        "蘸酱炸鸡新吃法"
-      ]
-    },
-    {
-      "code": "9900016096",
-      "name": "蘸酱韩式甜辣酱鸡块",
-      "price_fen": 1190,
-      "price_yuan": 11.9,
-      "category": "蘸酱炸鸡",
-      "tags": [
-        "蘸酱炸鸡",
-        "蘸酱炸鸡新吃法"
-      ]
-    },
-    {
-      "code": "9900015729",
-      "name": "蘸酱BFF四宫格小食盘",
-      "price_fen": 4330,
-      "price_yuan": 43.3,
-      "category": "蘸酱炸鸡",
-      "tags": [
-        "蘸酱炸鸡",
-        "蘸酱炸鸡新吃法"
       ]
     },
     {

@@ -3,7 +3,7 @@
     "date": "2026-11-06",
     "city": "上海市",
     "anchor": "人民广场",
-    "generatedAt": "2026-11-06 02:58:45",
+    "generatedAt": "2026-11-06 09:48:15",
     "stores": [
       {
         "code": "1450713",
@@ -505,14 +505,6 @@
           "price": 5.0
         },
         {
-          "code": "1450441",
-          "name": "麦当劳上海福州路餐厅",
-          "distance": 235,
-          "address": "福州路666号",
-          "productCode": "521951",
-          "price": 5.0
-        },
-        {
           "code": "1450124",
           "name": "麦当劳上海南京西路NX258餐厅",
           "distance": 412,
@@ -521,7 +513,7 @@
           "price": 5.0
         }
       ],
-      "storeCount": 3
+      "storeCount": 2
     },
     {
       "name": "蘸酱麦麦脆汁鸡",

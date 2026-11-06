@@ -3,7 +3,7 @@
     "date": "2026-11-06",
     "city": "成都市",
     "anchor": "春熙路",
-    "generatedAt": "2026-11-06 03:04:32",
+    "generatedAt": "2026-11-06 09:55:10",
     "stores": [
       {
         "code": "3450410",
@@ -47,60 +47,6 @@
     "items": 14
   },
   "items": [
-    {
-      "name": "海陆双全堡",
-      "price": 25.0,
-      "priceRange": null,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "全新海陆双全来袭"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "3450410",
-          "name": "麦当劳成都锦江区联升巷(京都大厦)餐厅",
-          "distance": 173,
-          "address": "大科甲巷43号1栋1楼1号（自编号L10号）及2楼1号（自编号L210号）",
-          "productCode": "522016",
-          "price": 25.0
-        },
-        {
-          "code": "3450339",
-          "name": "麦当劳成都锦江总府路茂业百货餐厅",
-          "distance": 288,
-          "address": "总府路1号茂业百货二层1号内部铺位号9F02001X商铺",
-          "productCode": "522016",
-          "price": 25.0
-        },
-        {
-          "code": "3450069003",
-          "name": "成都锦江区春熙路地铁站快捷小站",
-          "distance": 293,
-          "address": "春熙路地铁站D1号商铺",
-          "productCode": "522016",
-          "price": 25.0
-        },
-        {
-          "code": "3450069",
-          "name": "麦当劳成都第一城餐厅",
-          "distance": 299,
-          "address": "小科甲巷１号二层30、31号商铺（IFS）对面",
-          "productCode": "522016",
-          "price": 25.0
-        },
-        {
-          "code": "3450043",
-          "name": "麦当劳成都壹购广场餐厅",
-          "distance": 344,
-          "address": "东大街上东大街段１３３号壹购潮流广场",
-          "productCode": "522016",
-          "price": 25.0
-        }
-      ],
-      "storeCount": 5
-    },
     {
       "name": "【美汁源】“多汁柠柠”",
       "price": 12.0,
@@ -193,14 +139,14 @@
       "storeCount": 4
     },
     {
-      "name": "板烧鸡腿堡三件套",
-      "price": 34.5,
+      "name": "酥酥多笋卷",
+      "price": 21.0,
       "priceRange": null,
       "category": "鸡肉汉堡/卷",
       "tags": [
-        "套餐",
-        "新升级",
-        "更多汁"
+        "单品",
+        "全新升级",
+        "川香风味"
       ],
       "variants": null,
       "stores": [
@@ -209,32 +155,125 @@
           "name": "麦当劳成都锦江区联升巷(京都大厦)餐厅",
           "distance": 173,
           "address": "大科甲巷43号1栋1楼1号（自编号L10号）及2楼1号（自编号L210号）",
-          "productCode": "9900005462",
-          "price": 34.5
+          "productCode": "522032",
+          "price": 21.0
         },
         {
           "code": "3450339",
           "name": "麦当劳成都锦江总府路茂业百货餐厅",
           "distance": 288,
           "address": "总府路1号茂业百货二层1号内部铺位号9F02001X商铺",
-          "productCode": "9900005462",
-          "price": 34.5
+          "productCode": "522032",
+          "price": 21.0
         },
         {
           "code": "3450069",
           "name": "麦当劳成都第一城餐厅",
           "distance": 299,
           "address": "小科甲巷１号二层30、31号商铺（IFS）对面",
-          "productCode": "9900005462",
-          "price": 34.5
+          "productCode": "522032",
+          "price": 21.0
         },
         {
           "code": "3450043",
           "name": "麦当劳成都壹购广场餐厅",
           "distance": 344,
           "address": "东大街上东大街段１３３号壹购潮流广场",
-          "productCode": "9900005462",
-          "price": 34.5
+          "productCode": "522032",
+          "price": 21.0
+        }
+      ],
+      "storeCount": 4
+    },
+    {
+      "name": "海陆双全堡",
+      "price": 25.0,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "全新海陆双全来袭"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3450410",
+          "name": "麦当劳成都锦江区联升巷(京都大厦)餐厅",
+          "distance": 173,
+          "address": "大科甲巷43号1栋1楼1号（自编号L10号）及2楼1号（自编号L210号）",
+          "productCode": "522016",
+          "price": 25.0
+        },
+        {
+          "code": "3450339",
+          "name": "麦当劳成都锦江总府路茂业百货餐厅",
+          "distance": 288,
+          "address": "总府路1号茂业百货二层1号内部铺位号9F02001X商铺",
+          "productCode": "522016",
+          "price": 25.0
+        },
+        {
+          "code": "3450069",
+          "name": "麦当劳成都第一城餐厅",
+          "distance": 299,
+          "address": "小科甲巷１号二层30、31号商铺（IFS）对面",
+          "productCode": "522016",
+          "price": 25.0
+        },
+        {
+          "code": "3450043",
+          "name": "麦当劳成都壹购广场餐厅",
+          "distance": 344,
+          "address": "东大街上东大街段１３３号壹购潮流广场",
+          "productCode": "522016",
+          "price": 25.0
+        }
+      ],
+      "storeCount": 4
+    },
+    {
+      "name": "酥酥多笋卷三件套",
+      "price": 32.0,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "全新升级",
+        "川香风味"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3450410",
+          "name": "麦当劳成都锦江区联升巷(京都大厦)餐厅",
+          "distance": 173,
+          "address": "大科甲巷43号1栋1楼1号（自编号L10号）及2楼1号（自编号L210号）",
+          "productCode": "9900015008",
+          "price": 32.0
+        },
+        {
+          "code": "3450339",
+          "name": "麦当劳成都锦江总府路茂业百货餐厅",
+          "distance": 288,
+          "address": "总府路1号茂业百货二层1号内部铺位号9F02001X商铺",
+          "productCode": "9900015008",
+          "price": 32.0
+        },
+        {
+          "code": "3450069",
+          "name": "麦当劳成都第一城餐厅",
+          "distance": 299,
+          "address": "小科甲巷１号二层30、31号商铺（IFS）对面",
+          "productCode": "9900015008",
+          "price": 32.0
+        },
+        {
+          "code": "3450043",
+          "name": "麦当劳成都壹购广场餐厅",
+          "distance": 344,
+          "address": "东大街上东大街段１３３号壹购潮流广场",
+          "productCode": "9900015008",
+          "price": 32.0
         }
       ],
       "storeCount": 4
@@ -362,44 +401,6 @@
       "storeCount": 3
     },
     {
-      "name": "蓝莓爆爆珠麦旋风",
-      "price": 16.5,
-      "priceRange": null,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "蓝莓"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "3450410",
-          "name": "麦当劳成都锦江区联升巷(京都大厦)餐厅",
-          "distance": 173,
-          "address": "大科甲巷43号1栋1楼1号（自编号L10号）及2楼1号（自编号L210号）",
-          "productCode": "521950",
-          "price": 16.5
-        },
-        {
-          "code": "3450069",
-          "name": "麦当劳成都第一城餐厅",
-          "distance": 299,
-          "address": "小科甲巷１号二层30、31号商铺（IFS）对面",
-          "productCode": "521950",
-          "price": 16.5
-        },
-        {
-          "code": "3450043",
-          "name": "麦当劳成都壹购广场餐厅",
-          "distance": 344,
-          "address": "东大街上东大街段１３３号壹购潮流广场",
-          "productCode": "521950",
-          "price": 16.5
-        }
-      ],
-      "storeCount": 3
-    },
-    {
       "name": "韩式甜辣酱鸡块8块",
       "price": 19.9,
       "priceRange": null,
@@ -476,6 +477,45 @@
       "storeCount": 3
     },
     {
+      "name": "板烧鸡腿堡三件套",
+      "price": 34.5,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "新升级",
+        "更多汁"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3450410",
+          "name": "麦当劳成都锦江区联升巷(京都大厦)餐厅",
+          "distance": 173,
+          "address": "大科甲巷43号1栋1楼1号（自编号L10号）及2楼1号（自编号L210号）",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "3450069",
+          "name": "麦当劳成都第一城餐厅",
+          "distance": 299,
+          "address": "小科甲巷１号二层30、31号商铺（IFS）对面",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "3450043",
+          "name": "麦当劳成都壹购广场餐厅",
+          "distance": 344,
+          "address": "东大街上东大街段１３３号壹购潮流广场",
+          "productCode": "9900005462",
+          "price": 34.5
+        }
+      ],
+      "storeCount": 3
+    },
+    {
       "name": "柠檬脆脆麦旋风",
       "price": 16.5,
       "priceRange": null,
@@ -536,14 +576,13 @@
       "storeCount": 2
     },
     {
-      "name": "酥酥多笋卷",
-      "price": 21.0,
+      "name": "蓝莓爆爆珠麦旋风",
+      "price": 16.5,
       "priceRange": null,
-      "category": "鸡肉汉堡/卷",
+      "category": "小食甜品/其他",
       "tags": [
-        "单品",
-        "全新升级",
-        "川香风味"
+        "上新",
+        "蓝莓"
       ],
       "variants": null,
       "stores": [
@@ -552,47 +591,16 @@
           "name": "麦当劳成都锦江区联升巷(京都大厦)餐厅",
           "distance": 173,
           "address": "大科甲巷43号1栋1楼1号（自编号L10号）及2楼1号（自编号L210号）",
-          "productCode": "522032",
-          "price": 21.0
+          "productCode": "521950",
+          "price": 16.5
         },
         {
-          "code": "3450339",
-          "name": "麦当劳成都锦江总府路茂业百货餐厅",
-          "distance": 288,
-          "address": "总府路1号茂业百货二层1号内部铺位号9F02001X商铺",
-          "productCode": "522032",
-          "price": 21.0
-        }
-      ],
-      "storeCount": 2
-    },
-    {
-      "name": "酥酥多笋卷三件套",
-      "price": 32.0,
-      "priceRange": null,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "套餐",
-        "全新升级",
-        "川香风味"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "3450410",
-          "name": "麦当劳成都锦江区联升巷(京都大厦)餐厅",
-          "distance": 173,
-          "address": "大科甲巷43号1栋1楼1号（自编号L10号）及2楼1号（自编号L210号）",
-          "productCode": "9900015008",
-          "price": 32.0
-        },
-        {
-          "code": "3450339",
-          "name": "麦当劳成都锦江总府路茂业百货餐厅",
-          "distance": 288,
-          "address": "总府路1号茂业百货二层1号内部铺位号9F02001X商铺",
-          "productCode": "9900015008",
-          "price": 32.0
+          "code": "3450069",
+          "name": "麦当劳成都第一城餐厅",
+          "distance": 299,
+          "address": "小科甲巷１号二层30、31号商铺（IFS）对面",
+          "productCode": "521950",
+          "price": 16.5
         }
       ],
       "storeCount": 2
