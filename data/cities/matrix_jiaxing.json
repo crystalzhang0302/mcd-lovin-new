@@ -1,9 +1,9 @@
 {
   "meta": {
-    "date": "2026-11-06",
+    "date": "2026-11-07",
     "city": "嘉兴市",
     "anchor": "月河历史街区",
-    "generatedAt": "2026-11-06 10:04:28",
+    "generatedAt": "2026-11-07 02:39:11",
     "stores": [
       {
         "code": "3330756",
@@ -46,6 +46,60 @@
     "items": 7
   },
   "items": [
+    {
+      "name": "灰焰圆筒",
+      "price": 5.0,
+      "priceRange": null,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "灰焰"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3330756",
+          "name": "麦当劳嘉兴南湖区华庭街餐厅",
+          "distance": 251,
+          "address": "华庭街购物中心N区营业用房N118、N233号商铺",
+          "productCode": "521951",
+          "price": 5.0
+        },
+        {
+          "code": "3330325",
+          "name": "麦当劳嘉兴戴梦得餐厅",
+          "distance": 1316,
+          "address": "禾兴南路520号",
+          "productCode": "521951",
+          "price": 5.0
+        },
+        {
+          "code": "3330749",
+          "name": "麦当劳嘉兴中山东路餐厅",
+          "distance": 2408,
+          "address": "中山东路",
+          "productCode": "521951",
+          "price": 5.0
+        },
+        {
+          "code": "3330225",
+          "name": "麦当劳嘉兴中山西路得来速餐厅",
+          "distance": 2959,
+          "address": "中山西路50号",
+          "productCode": "521951",
+          "price": 5.0
+        },
+        {
+          "code": "3330625",
+          "name": "麦当劳嘉兴南湖区合乐城餐厅",
+          "distance": 3476,
+          "address": "东栅街道合乐城B区内一层 B-129B号 ",
+          "productCode": "521951",
+          "price": 5.0
+        }
+      ],
+      "storeCount": 5
+    },
     {
       "name": "【美汁源】“多汁柠柠”",
       "price": 12.0,
@@ -371,52 +425,6 @@
         }
       ],
       "storeCount": 5
-    },
-    {
-      "name": "灰焰圆筒",
-      "price": 5.0,
-      "priceRange": null,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "灰焰"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "3330756",
-          "name": "麦当劳嘉兴南湖区华庭街餐厅",
-          "distance": 251,
-          "address": "华庭街购物中心N区营业用房N118、N233号商铺",
-          "productCode": "521951",
-          "price": 5.0
-        },
-        {
-          "code": "3330325",
-          "name": "麦当劳嘉兴戴梦得餐厅",
-          "distance": 1316,
-          "address": "禾兴南路520号",
-          "productCode": "521951",
-          "price": 5.0
-        },
-        {
-          "code": "3330225",
-          "name": "麦当劳嘉兴中山西路得来速餐厅",
-          "distance": 2959,
-          "address": "中山西路50号",
-          "productCode": "521951",
-          "price": 5.0
-        },
-        {
-          "code": "3330625",
-          "name": "麦当劳嘉兴南湖区合乐城餐厅",
-          "distance": 3476,
-          "address": "东栅街道合乐城B区内一层 B-129B号 ",
-          "productCode": "521951",
-          "price": 5.0
-        }
-      ],
-      "storeCount": 4
     }
   ]
 }

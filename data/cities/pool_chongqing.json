@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06 10:00:33",
-  "date": "2026-11-06",
+  "generated_at": "2026-11-07 02:36:08",
+  "date": "2026-11-07",
   "anchor": {
     "city": "重庆市",
     "keyword": "解放碑"
@@ -14,11 +14,11 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 105,
-    "tagged_new": 10,
+    "menu_total": 114,
+    "tagged_new": 8,
     "non_food_dropped": 3,
-    "food_new": 7,
-    "after_fold": 7
+    "food_new": 5,
+    "after_fold": 5
   },
   "dropped_non_food": [
     "旋旋水手帽",
@@ -46,28 +46,6 @@
       "tags": [
         "上新",
         "全新海陆双全来袭"
-      ]
-    },
-    {
-      "code": "9900016073",
-      "name": "龙焰鸡腿堡三件套",
-      "price_fen": 5300,
-      "price_yuan": 53.0,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "韩式辣椒黄油风味"
-      ]
-    },
-    {
-      "code": "521952",
-      "name": "龙焰鸡腿堡",
-      "price_fen": 2750,
-      "price_yuan": 27.5,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "韩式辣椒黄油风味"
       ]
     },
     {

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06 09:57:20",
-  "date": "2026-11-06",
+  "generated_at": "2026-11-07 02:33:25",
+  "date": "2026-11-07",
   "anchor": {
     "city": "南京市",
     "keyword": "新街口"
@@ -14,14 +14,13 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 134,
-    "tagged_new": 17,
-    "non_food_dropped": 2,
+    "menu_total": 144,
+    "tagged_new": 16,
+    "non_food_dropped": 1,
     "food_new": 14,
     "after_fold": 14
   },
   "dropped_non_food": [
-    "麦当劳限定丝巾",
     "“葱不求人“按摩捶痒痒挠"
   ],
   "pool": [

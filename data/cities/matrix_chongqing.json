@@ -1,9 +1,9 @@
 {
   "meta": {
-    "date": "2026-11-06",
+    "date": "2026-11-07",
     "city": "重庆市",
     "anchor": "解放碑",
-    "generatedAt": "2026-11-06 10:01:35",
+    "generatedAt": "2026-11-07 02:36:57",
     "stores": [
       {
         "code": "3450149",
@@ -38,16 +38,69 @@
     ]
   },
   "stats": {
-    "raw_new": 11,
+    "raw_new": 9,
     "dropped_nonfood": [
       "薯条脆卜卜嘭嘭单肩包",
       "“葱不求人“按摩捶痒痒挠",
       "旋旋水手帽",
       "旋旋星愿贴"
     ],
-    "items": 7
+    "items": 5
   },
   "items": [
+    {
+      "name": "【美汁源】“多汁柠柠”",
+      "price": 13.5,
+      "priceRange": null,
+      "category": "饮品",
+      "tags": [
+        "上新"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3450149",
+          "name": "麦当劳重庆金鹰财富中心餐厅",
+          "distance": 73,
+          "address": "解放碑邹容路82号负一层",
+          "productCode": "521817",
+          "price": 13.5
+        },
+        {
+          "code": "3450146",
+          "name": "麦当劳重庆1089艺术美丽中心餐厅",
+          "distance": 236,
+          "address": "八一路53号负一层B01号、第一层103号",
+          "productCode": "521817",
+          "price": 13.5
+        },
+        {
+          "code": "3450379",
+          "name": "麦当劳重庆解放碑赛博城市餐厅",
+          "distance": 346,
+          "address": "解放碑街道民族路168号1层L1-2-1号",
+          "productCode": "521817",
+          "price": 13.5
+        },
+        {
+          "code": "3450136",
+          "name": "麦当劳重庆中信银行餐厅",
+          "distance": 1705,
+          "address": "江北城西大街5号负5楼",
+          "productCode": "521817",
+          "price": 13.5
+        },
+        {
+          "code": "3450303",
+          "name": "麦当劳重庆东原1891餐厅",
+          "distance": 1717,
+          "address": "南滨路80号附2号麦当劳餐厅",
+          "productCode": "521817",
+          "price": 13.5
+        }
+      ],
+      "storeCount": 5
+    },
     {
       "name": "海陆双全堡",
       "price": 28.0,
@@ -158,73 +211,6 @@
       "storeCount": 5
     },
     {
-      "name": "【美汁源】“多汁柠柠”",
-      "price": 13.5,
-      "priceRange": null,
-      "category": "饮品",
-      "tags": [
-        "上新"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "3450149",
-          "name": "麦当劳重庆金鹰财富中心餐厅",
-          "distance": 73,
-          "address": "解放碑邹容路82号负一层",
-          "productCode": "521817",
-          "price": 13.5
-        },
-        {
-          "code": "3450146",
-          "name": "麦当劳重庆1089艺术美丽中心餐厅",
-          "distance": 236,
-          "address": "八一路53号负一层B01号、第一层103号",
-          "productCode": "521817",
-          "price": 13.5
-        },
-        {
-          "code": "3450379",
-          "name": "麦当劳重庆解放碑赛博城市餐厅",
-          "distance": 346,
-          "address": "解放碑街道民族路168号1层L1-2-1号",
-          "productCode": "521817",
-          "price": 13.5
-        },
-        {
-          "code": "3450303",
-          "name": "麦当劳重庆东原1891餐厅",
-          "distance": 1717,
-          "address": "南滨路80号附2号麦当劳餐厅",
-          "productCode": "521817",
-          "price": 13.5
-        }
-      ],
-      "storeCount": 4
-    },
-    {
-      "name": "龙焰鸡腿堡",
-      "price": 27.5,
-      "priceRange": null,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "韩式辣椒黄油风味"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "3450149",
-          "name": "麦当劳重庆金鹰财富中心餐厅",
-          "distance": 73,
-          "address": "解放碑邹容路82号负一层",
-          "productCode": "521952",
-          "price": 27.5
-        }
-      ],
-      "storeCount": 1
-    },
-    {
       "name": "咸蛋黄鸡腿蛋月堡",
       "price": 28.5,
       "priceRange": null,
@@ -265,28 +251,6 @@
           "address": "解放碑邹容路82号负一层",
           "productCode": "9900015726",
           "price": 33.0
-        }
-      ],
-      "storeCount": 1
-    },
-    {
-      "name": "龙焰鸡腿堡三件套",
-      "price": 53.0,
-      "priceRange": null,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "韩式辣椒黄油风味"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "3450149",
-          "name": "麦当劳重庆金鹰财富中心餐厅",
-          "distance": 73,
-          "address": "解放碑邹容路82号负一层",
-          "productCode": "9900016073",
-          "price": 53.0
         }
       ],
       "storeCount": 1

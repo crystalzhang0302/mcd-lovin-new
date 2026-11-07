@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06 10:03:28",
-  "date": "2026-11-06",
+  "generated_at": "2026-11-07 02:38:25",
+  "date": "2026-11-07",
   "anchor": {
     "city": "嘉兴市",
     "keyword": "月河历史街区"
@@ -14,15 +14,14 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 106,
-    "tagged_new": 9,
-    "non_food_dropped": 2,
+    "menu_total": 108,
+    "tagged_new": 8,
+    "non_food_dropped": 1,
     "food_new": 7,
     "after_fold": 7
   },
   "dropped_non_food": [
-    "旋旋水手帽",
-    "“葱不求人“按摩捶痒痒挠"
+    "旋旋水手帽"
   ],
   "pool": [
     {
