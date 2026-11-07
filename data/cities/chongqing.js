@@ -4,8 +4,8 @@ window.NEW_DATA = {
   "city": "重庆市",
   "anchor": "解放碑",
   "poolAt": "chongqing",
-  "matrixAt": "2026-11-07 02:36:57",
-  "generatedAt": "2026-11-07 02:39:11",
+  "matrixAt": "2026-11-07 09:27:06",
+  "generatedAt": "2026-11-07 09:30:05",
   "stores": [
    {
     "code": "3450149",

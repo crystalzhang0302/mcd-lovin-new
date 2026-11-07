@@ -3,7 +3,7 @@
     "date": "2026-11-07",
     "city": "南京市",
     "anchor": "新街口",
-    "generatedAt": "2026-11-07 02:34:18",
+    "generatedAt": "2026-11-07 09:23:28",
     "stores": [
       {
         "code": "1990346",
@@ -419,6 +419,52 @@
       "storeCount": 4
     },
     {
+      "name": "韩式甜辣酱鸡块8块",
+      "price": 19.9,
+      "priceRange": null,
+      "category": "小食拼盘/多人餐",
+      "tags": [
+        "上新",
+        "韩式风味"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1990346",
+          "name": "麦当劳南京新百餐厅",
+          "distance": 182,
+          "address": "中山南路1号A座负一层G-A-025号商铺",
+          "productCode": "9900015726",
+          "price": 19.9
+        },
+        {
+          "code": "1990043",
+          "name": "麦当劳南京洪武餐厅",
+          "distance": 519,
+          "address": "洪武路119号",
+          "productCode": "9900015726",
+          "price": 19.9
+        },
+        {
+          "code": "1990675",
+          "name": "麦当劳南京新街口苏宁餐厅",
+          "distance": 645,
+          "address": "淮海路 88 号苏宁广场一层101B商铺",
+          "productCode": "9900015726",
+          "price": 19.9
+        },
+        {
+          "code": "1990100",
+          "name": "麦当劳南京汉中路餐厅",
+          "distance": 740,
+          "address": "白下区汉中路139-7号环亚广场一楼麦当劳",
+          "productCode": "9900015726",
+          "price": 19.9
+        }
+      ],
+      "storeCount": 4
+    },
+    {
       "name": "蘸酱BFF四宫格小食盘",
       "price": 43.3,
       "priceRange": null,
@@ -465,13 +511,13 @@
       "storeCount": 4
     },
     {
-      "name": "韩式甜辣酱鸡块8块",
-      "price": 19.9,
+      "name": "蘸酱韩式甜辣酱鸡块",
+      "price": 11.9,
       "priceRange": null,
-      "category": "小食拼盘/多人餐",
+      "category": "蘸酱炸鸡",
       "tags": [
-        "上新",
-        "韩式风味"
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
       ],
       "variants": null,
       "stores": [
@@ -480,24 +526,24 @@
           "name": "麦当劳南京新百餐厅",
           "distance": 182,
           "address": "中山南路1号A座负一层G-A-025号商铺",
-          "productCode": "9900015726",
-          "price": 19.9
+          "productCode": "9900016096",
+          "price": 11.9
         },
         {
-          "code": "1990675",
-          "name": "麦当劳南京新街口苏宁餐厅",
-          "distance": 645,
-          "address": "淮海路 88 号苏宁广场一层101B商铺",
-          "productCode": "9900015726",
-          "price": 19.9
+          "code": "1990043",
+          "name": "麦当劳南京洪武餐厅",
+          "distance": 519,
+          "address": "洪武路119号",
+          "productCode": "9900016096",
+          "price": 11.9
         },
         {
           "code": "1990100",
           "name": "麦当劳南京汉中路餐厅",
           "distance": 740,
           "address": "白下区汉中路139-7号环亚广场一楼麦当劳",
-          "productCode": "9900015726",
-          "price": 19.9
+          "productCode": "9900016096",
+          "price": 11.9
         }
       ],
       "storeCount": 3
@@ -528,36 +574,6 @@
           "address": "淮海路 88 号苏宁广场一层101B商铺",
           "productCode": "9900016566",
           "price": 9.9
-        }
-      ],
-      "storeCount": 2
-    },
-    {
-      "name": "蘸酱韩式甜辣酱鸡块",
-      "price": 11.9,
-      "priceRange": null,
-      "category": "蘸酱炸鸡",
-      "tags": [
-        "蘸酱炸鸡",
-        "蘸酱炸鸡新吃法"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1990346",
-          "name": "麦当劳南京新百餐厅",
-          "distance": 182,
-          "address": "中山南路1号A座负一层G-A-025号商铺",
-          "productCode": "9900016096",
-          "price": 11.9
-        },
-        {
-          "code": "1990100",
-          "name": "麦当劳南京汉中路餐厅",
-          "distance": 740,
-          "address": "白下区汉中路139-7号环亚广场一楼麦当劳",
-          "productCode": "9900016096",
-          "price": 11.9
         }
       ],
       "storeCount": 2

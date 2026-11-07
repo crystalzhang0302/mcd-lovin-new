@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07 02:38:25",
+  "generated_at": "2026-11-07 09:29:07",
   "date": "2026-11-07",
   "anchor": {
     "city": "嘉兴市",
@@ -14,11 +14,11 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 108,
-    "tagged_new": 8,
+    "menu_total": 102,
+    "tagged_new": 7,
     "non_food_dropped": 1,
-    "food_new": 7,
-    "after_fold": 7
+    "food_new": 6,
+    "after_fold": 6
   },
   "dropped_non_food": [
     "旋旋水手帽"
@@ -80,17 +80,6 @@
         "单品",
         "全新升级",
         "川香风味"
-      ]
-    },
-    {
-      "code": "521951",
-      "name": "灰焰圆筒",
-      "price_fen": 500,
-      "price_yuan": 5.0,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "灰焰"
       ]
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07 02:30:30",
+  "generated_at": "2026-11-07 09:18:42",
   "date": "2026-11-07",
   "anchor": {
     "city": "成都市",
@@ -14,11 +14,11 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 128,
-    "tagged_new": 14,
+    "menu_total": 118,
+    "tagged_new": 12,
     "non_food_dropped": 0,
-    "food_new": 14,
-    "after_fold": 14
+    "food_new": 12,
+    "after_fold": 12
   },
   "dropped_non_food": [],
   "pool": [
@@ -109,30 +109,6 @@
         "套餐",
         "新升级",
         "更多汁"
-      ]
-    },
-    {
-      "code": "9900015008",
-      "name": "酥酥多笋卷三件套",
-      "price_fen": 3200,
-      "price_yuan": 32.0,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "套餐",
-        "全新升级",
-        "川香风味"
-      ]
-    },
-    {
-      "code": "522032",
-      "name": "酥酥多笋卷",
-      "price_fen": 2100,
-      "price_yuan": 21.0,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "单品",
-        "全新升级",
-        "川香风味"
       ]
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07 02:33:25",
+  "generated_at": "2026-11-07 09:22:30",
   "date": "2026-11-07",
   "anchor": {
     "city": "南京市",
@@ -14,7 +14,7 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 144,
+    "menu_total": 143,
     "tagged_new": 16,
     "non_food_dropped": 1,
     "food_new": 14,

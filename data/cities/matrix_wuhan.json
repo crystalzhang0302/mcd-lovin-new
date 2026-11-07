@@ -3,7 +3,7 @@
     "date": "2026-11-07",
     "city": "武汉市",
     "anchor": "江汉路",
-    "generatedAt": "2026-11-07 02:35:51",
+    "generatedAt": "2026-11-07 09:25:41",
     "stores": [
       {
         "code": "1960008",
@@ -38,14 +38,14 @@
     ]
   },
   "stats": {
-    "raw_new": 15,
+    "raw_new": 14,
     "dropped_nonfood": [
       "薯条脆卜卜嘭嘭单肩包",
       "麦当劳联名复古棒球帽",
       "麦当劳联名徽章",
       "麦当劳限定丝巾"
     ],
-    "items": 11
+    "items": 10
   },
   "items": [
     {
@@ -480,36 +480,6 @@
         }
       ],
       "storeCount": 5
-    },
-    {
-      "name": "灰焰圆筒",
-      "price": 5.0,
-      "priceRange": null,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "灰焰"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1960008",
-          "name": "麦当劳武汉HAPPY站台餐厅(江汉路地铁H出口)",
-          "distance": 144,
-          "address": "中山大道888号新佳丽广场负一楼happy站台",
-          "productCode": "521951",
-          "price": 5.0
-        },
-        {
-          "code": "1960327",
-          "name": "麦当劳武汉江汉路X118餐厅",
-          "distance": 348,
-          "address": "江汉路118号港澳中心一层L104、二层L203号商铺",
-          "productCode": "521951",
-          "price": 5.0
-        }
-      ],
-      "storeCount": 2
     },
     {
       "name": "柠檬脆脆麦旋风",

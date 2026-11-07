@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07 02:34:49",
+  "generated_at": "2026-11-07 09:23:58",
   "date": "2026-11-07",
   "anchor": {
     "city": "武汉市",
@@ -14,11 +14,11 @@
     "businessEndTime": "00:15"
   },
   "stats": {
-    "menu_total": 130,
-    "tagged_new": 15,
+    "menu_total": 128,
+    "tagged_new": 14,
     "non_food_dropped": 3,
-    "food_new": 11,
-    "after_fold": 11
+    "food_new": 10,
+    "after_fold": 10
   },
   "dropped_non_food": [
     "麦当劳限定丝巾",
@@ -115,17 +115,6 @@
         "上新",
         "趁热拉丝",
         "奶香醇厚"
-      ]
-    },
-    {
-      "code": "521951",
-      "name": "灰焰圆筒",
-      "price_fen": 500,
-      "price_yuan": 5.0,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "灰焰"
       ]
     },
     {

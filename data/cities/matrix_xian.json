@@ -3,7 +3,7 @@
     "date": "2026-11-07",
     "city": "西安市",
     "anchor": "钟楼",
-    "generatedAt": "2026-11-07 02:38:07",
+    "generatedAt": "2026-11-07 09:28:49",
     "stores": [
       {
         "code": "1960622",
@@ -465,9 +465,17 @@
           "address": "北大街地铁站下沉广场",
           "productCode": "9900016099",
           "price": 11.9
+        },
+        {
+          "code": "1960737",
+          "name": "麦当劳西安合生汇餐厅",
+          "distance": 1177,
+          "address": "南大街合生汇",
+          "productCode": "9900016099",
+          "price": 11.9
         }
       ],
-      "storeCount": 2
+      "storeCount": 3
     },
     {
       "name": "泷愿成真麦旋风——大米风味",
