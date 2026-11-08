@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08 02:02:51",
+  "generated_at": "2026-11-08 09:39:03",
   "date": "2026-11-08",
   "anchor": {
     "city": "嘉兴市",
@@ -14,16 +14,39 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 77,
-    "tagged_new": 2,
+    "menu_total": 105,
+    "tagged_new": 4,
     "non_food_dropped": 1,
-    "food_new": 1,
-    "after_fold": 1
+    "food_new": 3,
+    "after_fold": 3
   },
   "dropped_non_food": [
     "旋旋水手帽"
   ],
   "pool": [
+    {
+      "code": "522016",
+      "name": "海陆双全堡",
+      "price_fen": 2550,
+      "price_yuan": 25.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "全新海陆双全来袭"
+      ]
+    },
+    {
+      "code": "9900005462",
+      "name": "板烧鸡腿堡三件套",
+      "price_fen": 3450,
+      "price_yuan": 34.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "新升级",
+        "更多汁"
+      ]
+    },
     {
       "code": "521817",
       "name": "【美汁源】“多汁柠柠”",
@@ -31,8 +54,7 @@
       "price_yuan": 12.0,
       "category": "饮品",
       "tags": [
-        "上新",
-        "清爽上新"
+        "上新"
       ]
     }
   ]
