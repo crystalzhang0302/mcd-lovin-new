@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08 09:25:29",
-  "date": "2026-11-08",
+  "generated_at": "2026-11-09 02:13:24",
+  "date": "2026-11-09",
   "anchor": {
     "city": "上海市",
     "keyword": "人民广场"
@@ -14,107 +14,16 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 130,
-    "tagged_new": 14,
+    "menu_total": 113,
+    "tagged_new": 6,
     "non_food_dropped": 1,
-    "food_new": 13,
-    "after_fold": 13
+    "food_new": 5,
+    "after_fold": 5
   },
   "dropped_non_food": [
     "旋旋水手帽"
   ],
   "pool": [
-    {
-      "code": "9900016078",
-      "name": "蘸酱麦麦脆汁鸡",
-      "price_fen": 1800,
-      "price_yuan": 18.0,
-      "category": "蘸酱炸鸡",
-      "tags": [
-        "蘸酱炸鸡",
-        "蘸酱炸鸡新吃法"
-      ]
-    },
-    {
-      "code": "9900015729",
-      "name": "蘸酱BFF四宫格小食盘",
-      "price_fen": 4280,
-      "price_yuan": 42.8,
-      "category": "蘸酱炸鸡",
-      "tags": [
-        "蘸酱炸鸡",
-        "蘸酱炸鸡新吃法"
-      ]
-    },
-    {
-      "code": "522016",
-      "name": "海陆双全堡",
-      "price_fen": 2450,
-      "price_yuan": 24.5,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "全新海陆双全来袭"
-      ]
-    },
-    {
-      "code": "9900016073",
-      "name": "龙焰鸡腿堡三件套",
-      "price_fen": 2690,
-      "price_yuan": 26.9,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "韩式辣椒黄油风味"
-      ]
-    },
-    {
-      "code": "521952",
-      "name": "龙焰鸡腿堡",
-      "price_fen": 1590,
-      "price_yuan": 15.9,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "韩式辣椒黄油风味"
-      ]
-    },
-    {
-      "code": "9900005462",
-      "name": "板烧鸡腿堡三件套",
-      "price_fen": 3450,
-      "price_yuan": 34.5,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "套餐",
-        "新升级",
-        "更多汁"
-      ]
-    },
-    {
-      "code": "9900015008",
-      "name": "酥酥多笋卷三件套",
-      "price_fen": 3150,
-      "price_yuan": 31.5,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "套餐",
-        "全新升级",
-        "川香风味"
-      ]
-    },
-    {
-      "code": "522032",
-      "name": "酥酥多笋卷",
-      "price_fen": 2050,
-      "price_yuan": 20.5,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "单品",
-        "全新升级",
-        "川香风味"
-      ]
-    },
     {
       "code": "521950",
       "name": "蓝莓爆爆珠麦旋风",
@@ -149,6 +58,17 @@
       ]
     },
     {
+      "code": "521817",
+      "name": "【美汁源】“多汁柠柠”",
+      "price_fen": 1200,
+      "price_yuan": 12.0,
+      "category": "饮品",
+      "tags": [
+        "上新",
+        "清爽上新"
+      ]
+    },
+    {
       "code": "9900014092",
       "name": "麦当劳奶昔",
       "price_fen": 1500,
@@ -157,16 +77,6 @@
       "tags": [
         "上新",
         "奶昔回归"
-      ]
-    },
-    {
-      "code": "521817",
-      "name": "【美汁源】“多汁柠柠”",
-      "price_fen": 1200,
-      "price_yuan": 12.0,
-      "category": "饮品",
-      "tags": [
-        "上新"
       ]
     }
   ]

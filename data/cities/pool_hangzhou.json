@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08 09:32:24",
-  "date": "2026-11-08",
+  "generated_at": "2026-11-09 02:16:24",
+  "date": "2026-11-09",
   "anchor": {
     "city": "杭州市",
     "keyword": "武林广场"
@@ -14,83 +14,14 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 126,
-    "tagged_new": 10,
+    "menu_total": 104,
+    "tagged_new": 4,
     "non_food_dropped": 0,
-    "food_new": 10,
-    "after_fold": 10
+    "food_new": 4,
+    "after_fold": 4
   },
   "dropped_non_food": [],
   "pool": [
-    {
-      "code": "522016",
-      "name": "海陆双全堡",
-      "price_fen": 2550,
-      "price_yuan": 25.5,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "全新海陆双全来袭"
-      ]
-    },
-    {
-      "code": "9900016073",
-      "name": "龙焰鸡腿堡三件套",
-      "price_fen": 2690,
-      "price_yuan": 26.9,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "韩式辣椒黄油风味"
-      ]
-    },
-    {
-      "code": "521952",
-      "name": "龙焰鸡腿堡",
-      "price_fen": 1590,
-      "price_yuan": 15.9,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "韩式辣椒黄油风味"
-      ]
-    },
-    {
-      "code": "9900005462",
-      "name": "板烧鸡腿堡三件套",
-      "price_fen": 3450,
-      "price_yuan": 34.5,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "套餐",
-        "新升级",
-        "更多汁"
-      ]
-    },
-    {
-      "code": "9900015008",
-      "name": "酥酥多笋卷三件套",
-      "price_fen": 3200,
-      "price_yuan": 32.0,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "套餐",
-        "全新升级",
-        "川香风味"
-      ]
-    },
-    {
-      "code": "522032",
-      "name": "酥酥多笋卷",
-      "price_fen": 2100,
-      "price_yuan": 21.0,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "单品",
-        "全新升级",
-        "川香风味"
-      ]
-    },
     {
       "code": "521950",
       "name": "蓝莓爆爆珠麦旋风",
@@ -131,7 +62,8 @@
       "price_yuan": 12.0,
       "category": "饮品",
       "tags": [
-        "上新"
+        "上新",
+        "清爽上新"
       ]
     }
   ]
