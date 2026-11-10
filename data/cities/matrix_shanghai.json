@@ -3,7 +3,7 @@
     "date": "2026-11-10",
     "city": "上海市",
     "anchor": "人民广场",
-    "generatedAt": "2026-11-10 04:26:34",
+    "generatedAt": "2026-11-10 10:19:07",
     "stores": [
       {
         "code": "1450713",
@@ -328,18 +328,18 @@
           "price": 20.5
         },
         {
-          "code": "1450056",
-          "name": "麦当劳上海食品一店餐厅",
-          "distance": 355,
-          "address": "南京东路720号",
-          "productCode": "522032",
-          "price": 20.5
-        },
-        {
           "code": "1450195",
           "name": "麦当劳上海雅居乐餐厅",
           "distance": 382,
           "address": "西藏中路525号",
+          "productCode": "522032",
+          "price": 20.5
+        },
+        {
+          "code": "1450124",
+          "name": "麦当劳上海南京西路NX258餐厅",
+          "distance": 412,
+          "address": "南京西路258号1幢一层",
           "productCode": "522032",
           "price": 20.5
         }
@@ -375,18 +375,18 @@
           "price": 31.5
         },
         {
-          "code": "1450056",
-          "name": "麦当劳上海食品一店餐厅",
-          "distance": 355,
-          "address": "南京东路720号",
-          "productCode": "9900015008",
-          "price": 31.5
-        },
-        {
           "code": "1450195",
           "name": "麦当劳上海雅居乐餐厅",
           "distance": 382,
           "address": "西藏中路525号",
+          "productCode": "9900015008",
+          "price": 31.5
+        },
+        {
+          "code": "1450124",
+          "name": "麦当劳上海南京西路NX258餐厅",
+          "distance": 412,
+          "address": "南京西路258号1幢一层",
           "productCode": "9900015008",
           "price": 31.5
         }
