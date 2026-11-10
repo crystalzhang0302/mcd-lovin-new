@@ -1,9 +1,9 @@
 {
   "meta": {
-    "date": "2026-11-09",
+    "date": "2026-11-10",
     "city": "上海市",
     "anchor": "人民广场",
-    "generatedAt": "2026-11-09 10:14:49",
+    "generatedAt": "2026-11-10 04:26:34",
     "stores": [
       {
         "code": "1450713",
@@ -148,6 +148,61 @@
           "address": "南京西路258号1幢一层",
           "productCode": "522016",
           "price": 24.5
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "板烧鸡腿堡三件套",
+      "price": 34.5,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "新升级",
+        "更多汁"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1450713",
+          "name": "麦当劳上海黄浦华旭国际大厦餐厅",
+          "distance": 144,
+          "address": "南京东路街道西藏中路336号",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "1450441",
+          "name": "麦当劳上海福州路餐厅",
+          "distance": 235,
+          "address": "福州路666号",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "1450056",
+          "name": "麦当劳上海食品一店餐厅",
+          "distance": 355,
+          "address": "南京东路720号",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "1450195",
+          "name": "麦当劳上海雅居乐餐厅",
+          "distance": 382,
+          "address": "西藏中路525号",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "1450124",
+          "name": "麦当劳上海南京西路NX258餐厅",
+          "distance": 412,
+          "address": "南京西路258号1幢一层",
+          "productCode": "9900005462",
+          "price": 34.5
         }
       ],
       "storeCount": 5
@@ -334,53 +389,6 @@
           "address": "西藏中路525号",
           "productCode": "9900015008",
           "price": 31.5
-        }
-      ],
-      "storeCount": 4
-    },
-    {
-      "name": "板烧鸡腿堡三件套",
-      "price": 34.5,
-      "priceRange": null,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "套餐",
-        "新升级",
-        "更多汁"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1450713",
-          "name": "麦当劳上海黄浦华旭国际大厦餐厅",
-          "distance": 144,
-          "address": "南京东路街道西藏中路336号",
-          "productCode": "9900005462",
-          "price": 34.5
-        },
-        {
-          "code": "1450441",
-          "name": "麦当劳上海福州路餐厅",
-          "distance": 235,
-          "address": "福州路666号",
-          "productCode": "9900005462",
-          "price": 34.5
-        },
-        {
-          "code": "1450056",
-          "name": "麦当劳上海食品一店餐厅",
-          "distance": 355,
-          "address": "南京东路720号",
-          "productCode": "9900005462",
-          "price": 34.5
-        },
-        {
-          "code": "1450195",
-          "name": "麦当劳上海雅居乐餐厅",
-          "distance": 382,
-          "address": "西藏中路525号",
-          "productCode": "9900005462",
-          "price": 34.5
         }
       ],
       "storeCount": 4

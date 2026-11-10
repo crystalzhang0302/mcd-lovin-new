@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09 10:20:42",
-  "date": "2026-11-09",
+  "generated_at": "2026-11-10 04:33:55",
+  "date": "2026-11-10",
   "anchor": {
     "city": "南京市",
     "keyword": "新街口"
@@ -14,7 +14,7 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 135,
+    "menu_total": 133,
     "tagged_new": 16,
     "non_food_dropped": 1,
     "food_new": 14,
