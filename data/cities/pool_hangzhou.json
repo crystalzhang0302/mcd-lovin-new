@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11 02:26:35",
+  "generated_at": "2026-11-11 09:56:32",
   "date": "2026-11-11",
   "anchor": {
     "city": "杭州市",
@@ -14,14 +14,131 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 100,
-    "tagged_new": 4,
+    "menu_total": 119,
+    "tagged_new": 14,
     "non_food_dropped": 0,
-    "food_new": 4,
-    "after_fold": 4
+    "food_new": 14,
+    "after_fold": 14
   },
   "dropped_non_food": [],
   "pool": [
+    {
+      "code": "522016",
+      "name": "海陆双全堡",
+      "price_fen": 2550,
+      "price_yuan": 25.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "全新海陆双全来袭"
+      ]
+    },
+    {
+      "code": "9900016073",
+      "name": "龙焰鸡腿堡三件套",
+      "price_fen": 2690,
+      "price_yuan": 26.9,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ]
+    },
+    {
+      "code": "521952",
+      "name": "龙焰鸡腿堡",
+      "price_fen": 1590,
+      "price_yuan": 15.9,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ]
+    },
+    {
+      "code": "9900005462",
+      "name": "板烧鸡腿堡三件套",
+      "price_fen": 3450,
+      "price_yuan": 34.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "新升级",
+        "更多汁"
+      ]
+    },
+    {
+      "code": "9900015008",
+      "name": "酥酥多笋卷三件套",
+      "price_fen": 3200,
+      "price_yuan": 32.0,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "全新升级",
+        "川香风味"
+      ]
+    },
+    {
+      "code": "522032",
+      "name": "酥酥多笋卷",
+      "price_fen": 2100,
+      "price_yuan": 21.0,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "单品",
+        "全新升级",
+        "川香风味"
+      ]
+    },
+    {
+      "code": "9900016694",
+      "name": "汉堡开心乐园餐",
+      "price_fen": 2350,
+      "price_yuan": 23.5,
+      "category": "开心乐园",
+      "tags": [
+        "开心乐园餐",
+        "童年童款",
+        "玩具上新啦"
+      ]
+    },
+    {
+      "code": "9900016693",
+      "name": "鱼排堡开心乐园餐",
+      "price_fen": 2400,
+      "price_yuan": 24.0,
+      "category": "开心乐园",
+      "tags": [
+        "开心乐园餐",
+        "童年童款",
+        "玩具上新啦"
+      ]
+    },
+    {
+      "code": "9900016695",
+      "name": "麦乐鸡开心乐园餐",
+      "price_fen": 2500,
+      "price_yuan": 25.0,
+      "category": "开心乐园",
+      "tags": [
+        "开心乐园餐",
+        "童年童款",
+        "玩具上新啦"
+      ]
+    },
+    {
+      "code": "9900016696",
+      "name": "开心亲子双人餐",
+      "price_fen": 5950,
+      "price_yuan": 59.5,
+      "category": "开心乐园",
+      "tags": [
+        "开心亲子餐",
+        "童年童款",
+        "玩具上新啦"
+      ]
+    },
     {
       "code": "521950",
       "name": "蓝莓爆爆珠麦旋风",
@@ -62,8 +179,7 @@
       "price_yuan": 12.0,
       "category": "饮品",
       "tags": [
-        "上新",
-        "清爽上新"
+        "上新"
       ]
     }
   ]

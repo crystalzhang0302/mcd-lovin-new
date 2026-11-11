@@ -3,7 +3,7 @@
     "date": "2026-11-11",
     "city": "南京市",
     "anchor": "新街口",
-    "generatedAt": "2026-11-11 02:27:31",
+    "generatedAt": "2026-11-11 09:59:06",
     "stores": [
       {
         "code": "1990346",
@@ -38,11 +38,12 @@
     ]
   },
   "stats": {
-    "raw_new": 4,
+    "raw_new": 18,
     "dropped_nonfood": [
-      "薯条脆卜卜绒绒耳机包"
+      "薯条脆卜卜绒绒耳机包",
+      "“葱不求人”按摩捶痒痒挠"
     ],
-    "items": 3
+    "items": 16
   },
   "items": [
     {
@@ -51,8 +52,7 @@
       "priceRange": null,
       "category": "饮品",
       "tags": [
-        "上新",
-        "清爽上新"
+        "上新"
       ],
       "variants": null,
       "stores": [
@@ -154,12 +154,648 @@
       "storeCount": 5
     },
     {
+      "name": "韩式甜辣酱鸡块8块",
+      "price": 19.9,
+      "priceRange": null,
+      "category": "小食拼盘/多人餐",
+      "tags": [
+        "上新",
+        "韩式风味"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1990346",
+          "name": "麦当劳南京新百餐厅",
+          "distance": 182,
+          "address": "中山南路1号A座负一层G-A-025号商铺",
+          "productCode": "9900015726",
+          "price": 19.9
+        },
+        {
+          "code": "1990043",
+          "name": "麦当劳南京洪武餐厅",
+          "distance": 519,
+          "address": "洪武路119号",
+          "productCode": "9900015726",
+          "price": 19.9
+        },
+        {
+          "code": "1990675",
+          "name": "麦当劳南京新街口苏宁餐厅",
+          "distance": 645,
+          "address": "淮海路 88 号苏宁广场一层101B商铺",
+          "productCode": "9900015726",
+          "price": 19.9
+        },
+        {
+          "code": "1990762",
+          "name": "麦当劳南京青奥城市客厅餐厅",
+          "distance": 645,
+          "address": "中山东路145号1F-18、19商铺",
+          "productCode": "9900015726",
+          "price": 19.9
+        },
+        {
+          "code": "1990100",
+          "name": "麦当劳南京汉中路餐厅",
+          "distance": 740,
+          "address": "白下区汉中路139-7号环亚广场一楼麦当劳",
+          "productCode": "9900015726",
+          "price": 19.9
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "酥酥多笋卷",
+      "price": 21.0,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "单品",
+        "全新升级",
+        "川香风味"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1990346",
+          "name": "麦当劳南京新百餐厅",
+          "distance": 182,
+          "address": "中山南路1号A座负一层G-A-025号商铺",
+          "productCode": "522032",
+          "price": 21.0
+        },
+        {
+          "code": "1990043",
+          "name": "麦当劳南京洪武餐厅",
+          "distance": 519,
+          "address": "洪武路119号",
+          "productCode": "522032",
+          "price": 21.0
+        },
+        {
+          "code": "1990675",
+          "name": "麦当劳南京新街口苏宁餐厅",
+          "distance": 645,
+          "address": "淮海路 88 号苏宁广场一层101B商铺",
+          "productCode": "522032",
+          "price": 21.0
+        },
+        {
+          "code": "1990762",
+          "name": "麦当劳南京青奥城市客厅餐厅",
+          "distance": 645,
+          "address": "中山东路145号1F-18、19商铺",
+          "productCode": "522032",
+          "price": 21.0
+        },
+        {
+          "code": "1990100",
+          "name": "麦当劳南京汉中路餐厅",
+          "distance": 740,
+          "address": "白下区汉中路139-7号环亚广场一楼麦当劳",
+          "productCode": "522032",
+          "price": 21.0
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "汉堡开心乐园餐",
+      "price": 23.5,
+      "priceRange": null,
+      "category": "开心乐园",
+      "tags": [
+        "开心乐园餐",
+        "童年童款",
+        "玩具上新啦"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1990346",
+          "name": "麦当劳南京新百餐厅",
+          "distance": 182,
+          "address": "中山南路1号A座负一层G-A-025号商铺",
+          "productCode": "9900016694",
+          "price": 23.5
+        },
+        {
+          "code": "1990043",
+          "name": "麦当劳南京洪武餐厅",
+          "distance": 519,
+          "address": "洪武路119号",
+          "productCode": "9900016694",
+          "price": 23.5
+        },
+        {
+          "code": "1990675",
+          "name": "麦当劳南京新街口苏宁餐厅",
+          "distance": 645,
+          "address": "淮海路 88 号苏宁广场一层101B商铺",
+          "productCode": "9900016694",
+          "price": 23.5
+        },
+        {
+          "code": "1990762",
+          "name": "麦当劳南京青奥城市客厅餐厅",
+          "distance": 645,
+          "address": "中山东路145号1F-18、19商铺",
+          "productCode": "9900016694",
+          "price": 23.5
+        },
+        {
+          "code": "1990100",
+          "name": "麦当劳南京汉中路餐厅",
+          "distance": 740,
+          "address": "白下区汉中路139-7号环亚广场一楼麦当劳",
+          "productCode": "9900016694",
+          "price": 23.5
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "鱼排堡开心乐园餐",
+      "price": 24.0,
+      "priceRange": null,
+      "category": "开心乐园",
+      "tags": [
+        "开心乐园餐",
+        "童年童款",
+        "玩具上新啦"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1990346",
+          "name": "麦当劳南京新百餐厅",
+          "distance": 182,
+          "address": "中山南路1号A座负一层G-A-025号商铺",
+          "productCode": "9900016693",
+          "price": 24.0
+        },
+        {
+          "code": "1990043",
+          "name": "麦当劳南京洪武餐厅",
+          "distance": 519,
+          "address": "洪武路119号",
+          "productCode": "9900016693",
+          "price": 24.0
+        },
+        {
+          "code": "1990675",
+          "name": "麦当劳南京新街口苏宁餐厅",
+          "distance": 645,
+          "address": "淮海路 88 号苏宁广场一层101B商铺",
+          "productCode": "9900016693",
+          "price": 24.0
+        },
+        {
+          "code": "1990762",
+          "name": "麦当劳南京青奥城市客厅餐厅",
+          "distance": 645,
+          "address": "中山东路145号1F-18、19商铺",
+          "productCode": "9900016693",
+          "price": 24.0
+        },
+        {
+          "code": "1990100",
+          "name": "麦当劳南京汉中路餐厅",
+          "distance": 740,
+          "address": "白下区汉中路139-7号环亚广场一楼麦当劳",
+          "productCode": "9900016693",
+          "price": 24.0
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "麦乐鸡开心乐园餐",
+      "price": 25.0,
+      "priceRange": null,
+      "category": "开心乐园",
+      "tags": [
+        "开心乐园餐",
+        "童年童款",
+        "玩具上新啦"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1990346",
+          "name": "麦当劳南京新百餐厅",
+          "distance": 182,
+          "address": "中山南路1号A座负一层G-A-025号商铺",
+          "productCode": "9900016695",
+          "price": 25.0
+        },
+        {
+          "code": "1990043",
+          "name": "麦当劳南京洪武餐厅",
+          "distance": 519,
+          "address": "洪武路119号",
+          "productCode": "9900016695",
+          "price": 25.0
+        },
+        {
+          "code": "1990675",
+          "name": "麦当劳南京新街口苏宁餐厅",
+          "distance": 645,
+          "address": "淮海路 88 号苏宁广场一层101B商铺",
+          "productCode": "9900016695",
+          "price": 25.0
+        },
+        {
+          "code": "1990762",
+          "name": "麦当劳南京青奥城市客厅餐厅",
+          "distance": 645,
+          "address": "中山东路145号1F-18、19商铺",
+          "productCode": "9900016695",
+          "price": 25.0
+        },
+        {
+          "code": "1990100",
+          "name": "麦当劳南京汉中路餐厅",
+          "distance": 740,
+          "address": "白下区汉中路139-7号环亚广场一楼麦当劳",
+          "productCode": "9900016695",
+          "price": 25.0
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "海陆双全堡",
+      "price": 25.5,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "全新海陆双全来袭"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1990346",
+          "name": "麦当劳南京新百餐厅",
+          "distance": 182,
+          "address": "中山南路1号A座负一层G-A-025号商铺",
+          "productCode": "522016",
+          "price": 25.5
+        },
+        {
+          "code": "1990043",
+          "name": "麦当劳南京洪武餐厅",
+          "distance": 519,
+          "address": "洪武路119号",
+          "productCode": "522016",
+          "price": 25.5
+        },
+        {
+          "code": "1990675",
+          "name": "麦当劳南京新街口苏宁餐厅",
+          "distance": 645,
+          "address": "淮海路 88 号苏宁广场一层101B商铺",
+          "productCode": "522016",
+          "price": 25.5
+        },
+        {
+          "code": "1990762",
+          "name": "麦当劳南京青奥城市客厅餐厅",
+          "distance": 645,
+          "address": "中山东路145号1F-18、19商铺",
+          "productCode": "522016",
+          "price": 25.5
+        },
+        {
+          "code": "1990100",
+          "name": "麦当劳南京汉中路餐厅",
+          "distance": 740,
+          "address": "白下区汉中路139-7号环亚广场一楼麦当劳",
+          "productCode": "522016",
+          "price": 25.5
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "酥酥多笋卷三件套",
+      "price": 32.0,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "全新升级",
+        "川香风味"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1990346",
+          "name": "麦当劳南京新百餐厅",
+          "distance": 182,
+          "address": "中山南路1号A座负一层G-A-025号商铺",
+          "productCode": "9900015008",
+          "price": 32.0
+        },
+        {
+          "code": "1990043",
+          "name": "麦当劳南京洪武餐厅",
+          "distance": 519,
+          "address": "洪武路119号",
+          "productCode": "9900015008",
+          "price": 32.0
+        },
+        {
+          "code": "1990675",
+          "name": "麦当劳南京新街口苏宁餐厅",
+          "distance": 645,
+          "address": "淮海路 88 号苏宁广场一层101B商铺",
+          "productCode": "9900015008",
+          "price": 32.0
+        },
+        {
+          "code": "1990762",
+          "name": "麦当劳南京青奥城市客厅餐厅",
+          "distance": 645,
+          "address": "中山东路145号1F-18、19商铺",
+          "productCode": "9900015008",
+          "price": 32.0
+        },
+        {
+          "code": "1990100",
+          "name": "麦当劳南京汉中路餐厅",
+          "distance": 740,
+          "address": "白下区汉中路139-7号环亚广场一楼麦当劳",
+          "productCode": "9900015008",
+          "price": 32.0
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "板烧鸡腿堡三件套",
+      "price": 34.5,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "新升级",
+        "更多汁"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1990346",
+          "name": "麦当劳南京新百餐厅",
+          "distance": 182,
+          "address": "中山南路1号A座负一层G-A-025号商铺",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "1990043",
+          "name": "麦当劳南京洪武餐厅",
+          "distance": 519,
+          "address": "洪武路119号",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "1990675",
+          "name": "麦当劳南京新街口苏宁餐厅",
+          "distance": 645,
+          "address": "淮海路 88 号苏宁广场一层101B商铺",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "1990762",
+          "name": "麦当劳南京青奥城市客厅餐厅",
+          "distance": 645,
+          "address": "中山东路145号1F-18、19商铺",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "1990100",
+          "name": "麦当劳南京汉中路餐厅",
+          "distance": 740,
+          "address": "白下区汉中路139-7号环亚广场一楼麦当劳",
+          "productCode": "9900005462",
+          "price": 34.5
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "开心亲子双人餐",
+      "price": 59.5,
+      "priceRange": null,
+      "category": "开心乐园",
+      "tags": [
+        "开心亲子餐",
+        "童年童款",
+        "玩具上新啦"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1990346",
+          "name": "麦当劳南京新百餐厅",
+          "distance": 182,
+          "address": "中山南路1号A座负一层G-A-025号商铺",
+          "productCode": "9900016696",
+          "price": 59.5
+        },
+        {
+          "code": "1990043",
+          "name": "麦当劳南京洪武餐厅",
+          "distance": 519,
+          "address": "洪武路119号",
+          "productCode": "9900016696",
+          "price": 59.5
+        },
+        {
+          "code": "1990675",
+          "name": "麦当劳南京新街口苏宁餐厅",
+          "distance": 645,
+          "address": "淮海路 88 号苏宁广场一层101B商铺",
+          "productCode": "9900016696",
+          "price": 59.5
+        },
+        {
+          "code": "1990762",
+          "name": "麦当劳南京青奥城市客厅餐厅",
+          "distance": 645,
+          "address": "中山东路145号1F-18、19商铺",
+          "productCode": "9900016696",
+          "price": 59.5
+        },
+        {
+          "code": "1990100",
+          "name": "麦当劳南京汉中路餐厅",
+          "distance": 740,
+          "address": "白下区汉中路139-7号环亚广场一楼麦当劳",
+          "productCode": "9900016696",
+          "price": 59.5
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "蘸酱韩式甜辣酱鸡块",
+      "price": 11.9,
+      "priceRange": null,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1990346",
+          "name": "麦当劳南京新百餐厅",
+          "distance": 182,
+          "address": "中山南路1号A座负一层G-A-025号商铺",
+          "productCode": "9900016096",
+          "price": 11.9
+        },
+        {
+          "code": "1990043",
+          "name": "麦当劳南京洪武餐厅",
+          "distance": 519,
+          "address": "洪武路119号",
+          "productCode": "9900016096",
+          "price": 11.9
+        },
+        {
+          "code": "1990100",
+          "name": "麦当劳南京汉中路餐厅",
+          "distance": 740,
+          "address": "白下区汉中路139-7号环亚广场一楼麦当劳",
+          "productCode": "9900016096",
+          "price": 11.9
+        }
+      ],
+      "storeCount": 3
+    },
+    {
+      "name": "蘸酱麦麦脆汁鸡",
+      "price": 18.0,
+      "priceRange": null,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1990346",
+          "name": "麦当劳南京新百餐厅",
+          "distance": 182,
+          "address": "中山南路1号A座负一层G-A-025号商铺",
+          "productCode": "9900016078",
+          "price": 18.0
+        },
+        {
+          "code": "1990043",
+          "name": "麦当劳南京洪武餐厅",
+          "distance": 519,
+          "address": "洪武路119号",
+          "productCode": "9900016078",
+          "price": 18.0
+        },
+        {
+          "code": "1990100",
+          "name": "麦当劳南京汉中路餐厅",
+          "distance": 740,
+          "address": "白下区汉中路139-7号环亚广场一楼麦当劳",
+          "productCode": "9900016078",
+          "price": 18.0
+        }
+      ],
+      "storeCount": 3
+    },
+    {
+      "name": "蘸酱BFF四宫格小食盘",
+      "price": 43.3,
+      "priceRange": null,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1990346",
+          "name": "麦当劳南京新百餐厅",
+          "distance": 182,
+          "address": "中山南路1号A座负一层G-A-025号商铺",
+          "productCode": "9900015729",
+          "price": 43.3
+        },
+        {
+          "code": "1990043",
+          "name": "麦当劳南京洪武餐厅",
+          "distance": 519,
+          "address": "洪武路119号",
+          "productCode": "9900015729",
+          "price": 43.3
+        },
+        {
+          "code": "1990100",
+          "name": "麦当劳南京汉中路餐厅",
+          "distance": 740,
+          "address": "白下区汉中路139-7号环亚广场一楼麦当劳",
+          "productCode": "9900015729",
+          "price": 43.3
+        }
+      ],
+      "storeCount": 3
+    },
+    {
+      "name": "心形薯饼8块",
+      "price": 9.9,
+      "priceRange": null,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "限时特惠"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1990346",
+          "name": "麦当劳南京新百餐厅",
+          "distance": 182,
+          "address": "中山南路1号A座负一层G-A-025号商铺",
+          "productCode": "9900016566",
+          "price": 9.9
+        },
+        {
+          "code": "1990675",
+          "name": "麦当劳南京新街口苏宁餐厅",
+          "distance": 645,
+          "address": "淮海路 88 号苏宁广场一层101B商铺",
+          "productCode": "9900016566",
+          "price": 9.9
+        }
+      ],
+      "storeCount": 2
+    },
+    {
       "name": "麦当劳奶昔",
       "price": 15.0,
       "priceRange": null,
-      "category": "饮品",
+      "category": "人气热卖",
       "tags": [
-        "上新",
         "奶昔回归"
       ],
       "variants": null,

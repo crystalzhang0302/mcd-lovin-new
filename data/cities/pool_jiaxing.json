@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11 02:29:22",
+  "generated_at": "2026-11-11 10:03:25",
   "date": "2026-11-11",
   "anchor": {
     "city": "嘉兴市",
@@ -14,16 +14,87 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 70,
-    "tagged_new": 2,
+    "menu_total": 92,
+    "tagged_new": 8,
     "non_food_dropped": 1,
-    "food_new": 1,
-    "after_fold": 1
+    "food_new": 7,
+    "after_fold": 7
   },
   "dropped_non_food": [
     "旋旋水手帽"
   ],
   "pool": [
+    {
+      "code": "522016",
+      "name": "海陆双全堡",
+      "price_fen": 2550,
+      "price_yuan": 25.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "全新海陆双全来袭"
+      ]
+    },
+    {
+      "code": "9900015008",
+      "name": "酥酥多笋卷三件套",
+      "price_fen": 3150,
+      "price_yuan": 31.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "全新升级",
+        "川香风味"
+      ]
+    },
+    {
+      "code": "522032",
+      "name": "酥酥多笋卷",
+      "price_fen": 2050,
+      "price_yuan": 20.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "单品",
+        "全新升级",
+        "川香风味"
+      ]
+    },
+    {
+      "code": "9900016694",
+      "name": "汉堡开心乐园餐",
+      "price_fen": 2350,
+      "price_yuan": 23.5,
+      "category": "开心乐园",
+      "tags": [
+        "开心乐园餐",
+        "童年童款",
+        "玩具上新啦"
+      ]
+    },
+    {
+      "code": "9900016693",
+      "name": "鱼排堡开心乐园餐",
+      "price_fen": 2400,
+      "price_yuan": 24.0,
+      "category": "开心乐园",
+      "tags": [
+        "开心乐园餐",
+        "童年童款",
+        "玩具上新啦"
+      ]
+    },
+    {
+      "code": "9900016695",
+      "name": "麦乐鸡开心乐园餐",
+      "price_fen": 2500,
+      "price_yuan": 25.0,
+      "category": "开心乐园",
+      "tags": [
+        "开心乐园餐",
+        "童年童款",
+        "玩具上新啦"
+      ]
+    },
     {
       "code": "521817",
       "name": "【美汁源】“多汁柠柠”",
@@ -31,8 +102,7 @@
       "price_yuan": 12.0,
       "category": "饮品",
       "tags": [
-        "上新",
-        "清爽上新"
+        "上新"
       ]
     }
   ]

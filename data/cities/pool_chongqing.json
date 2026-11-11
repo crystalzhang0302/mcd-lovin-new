@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11 02:28:24",
+  "generated_at": "2026-11-11 10:01:09",
   "date": "2026-11-11",
   "anchor": {
     "city": "重庆市",
@@ -14,11 +14,11 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 63,
-    "tagged_new": 3,
+    "menu_total": 95,
+    "tagged_new": 10,
     "non_food_dropped": 2,
-    "food_new": 1,
-    "after_fold": 1
+    "food_new": 8,
+    "after_fold": 8
   },
   "dropped_non_food": [
     "旋旋水手帽",
@@ -26,14 +26,95 @@
   ],
   "pool": [
     {
+      "code": "9900015726",
+      "name": "韩式甜辣酱鸡块",
+      "price_fen": 3300,
+      "price_yuan": 33.0,
+      "category": "小食拼盘/多人餐",
+      "tags": [
+        "上新",
+        "韩式风味"
+      ]
+    },
+    {
+      "code": "522016",
+      "name": "海陆双全堡",
+      "price_fen": 2800,
+      "price_yuan": 28.0,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "全新海陆双全来袭"
+      ]
+    },
+    {
+      "code": "9900005462",
+      "name": "板烧鸡腿堡三件套",
+      "price_fen": 5250,
+      "price_yuan": 52.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "新升级",
+        "更多汁"
+      ]
+    },
+    {
+      "code": "9900016694",
+      "name": "汉堡开心乐园餐",
+      "price_fen": 2550,
+      "price_yuan": 25.5,
+      "category": "开心乐园",
+      "tags": [
+        "开心乐园餐",
+        "童年童款",
+        "玩具上新啦"
+      ]
+    },
+    {
+      "code": "9900016693",
+      "name": "鱼排堡开心乐园餐",
+      "price_fen": 2900,
+      "price_yuan": 29.0,
+      "category": "开心乐园",
+      "tags": [
+        "开心乐园餐",
+        "童年童款",
+        "玩具上新啦"
+      ]
+    },
+    {
+      "code": "9900016695",
+      "name": "麦乐鸡开心乐园餐",
+      "price_fen": 2700,
+      "price_yuan": 27.0,
+      "category": "开心乐园",
+      "tags": [
+        "开心乐园餐",
+        "童年童款",
+        "玩具上新啦"
+      ]
+    },
+    {
+      "code": "9900016696",
+      "name": "开心亲子双人餐",
+      "price_fen": 7850,
+      "price_yuan": 78.5,
+      "category": "开心乐园",
+      "tags": [
+        "开心亲子餐",
+        "童年童款",
+        "玩具上新啦"
+      ]
+    },
+    {
       "code": "521817",
       "name": "【美汁源】“多汁柠柠”",
       "price_fen": 1350,
       "price_yuan": 13.5,
       "category": "饮品",
       "tags": [
-        "上新",
-        "清爽上新"
+        "上新"
       ]
     }
   ]
