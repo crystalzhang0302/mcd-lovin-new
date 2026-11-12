@@ -3,7 +3,7 @@
     "date": "2026-11-12",
     "city": "广州市",
     "anchor": "体育西路",
-    "generatedAt": "2026-11-12 03:33:44",
+    "generatedAt": "2026-11-12 10:17:35",
     "stores": [
       {
         "code": "1400011",
@@ -38,7 +38,7 @@
     ]
   },
   "stats": {
-    "raw_new": 21,
+    "raw_new": 22,
     "dropped_nonfood": [
       "薯条脆卜卜嘭嘭单肩包",
       "“葱不求人”按摩捶痒痒挠",
@@ -47,7 +47,7 @@
       "麦当劳联名徽章",
       "麦当劳限定丝巾"
     ],
-    "items": 15
+    "items": 16
   },
   "items": [
     {
@@ -153,6 +153,60 @@
           "address": "花城大道89号花城汇北区负一层1065-2、1065-3号",
           "productCode": "521952",
           "price": 15.9
+        }
+      ],
+      "storeCount": 5
+    },
+    {
+      "name": "蘸酱麦麦脆汁鸡",
+      "price": 18.0,
+      "priceRange": null,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1400011",
+          "name": "麦当劳广州今日广场餐厅",
+          "distance": 82,
+          "address": "体育西路77号首层及二层",
+          "productCode": "9900016078",
+          "price": 18.0
+        },
+        {
+          "code": "1400401",
+          "name": "麦当劳广州维多利广场餐厅",
+          "distance": 418,
+          "address": "体育西路101号维多利广场首层及二层部分",
+          "productCode": "9900016078",
+          "price": 18.0
+        },
+        {
+          "code": "1400194",
+          "name": "麦当劳广州正佳五楼餐厅",
+          "distance": 547,
+          "address": "天河路228号正佳广场五楼561铺",
+          "productCode": "9900016078",
+          "price": 18.0
+        },
+        {
+          "code": "1400489",
+          "name": "麦当劳广州富力盈通餐厅",
+          "distance": 563,
+          "address": "珠江新城华夏路30号富力盈通大厦首层108号商铺",
+          "productCode": "9900016078",
+          "price": 18.0
+        },
+        {
+          "code": "1400246",
+          "name": "麦当劳广州花城大道第二餐厅(花城汇北区)",
+          "distance": 586,
+          "address": "花城大道89号花城汇北区负一层1065-2、1065-3号",
+          "productCode": "9900016078",
+          "price": 18.0
         }
       ],
       "storeCount": 5
@@ -542,7 +596,7 @@
     },
     {
       "name": "蘸酱BFF四宫格小食盘",
-      "price": 42.3,
+      "price": 43.3,
       "priceRange": null,
       "category": "蘸酱炸鸡",
       "tags": [
@@ -557,7 +611,7 @@
           "distance": 82,
           "address": "体育西路77号首层及二层",
           "productCode": "9900015729",
-          "price": 42.3
+          "price": 43.3
         },
         {
           "code": "1400401",
@@ -565,7 +619,7 @@
           "distance": 418,
           "address": "体育西路101号维多利广场首层及二层部分",
           "productCode": "9900015729",
-          "price": 42.3
+          "price": 43.3
         },
         {
           "code": "1400194",
@@ -573,7 +627,7 @@
           "distance": 547,
           "address": "天河路228号正佳广场五楼561铺",
           "productCode": "9900015729",
-          "price": 42.3
+          "price": 43.3
         },
         {
           "code": "1400489",
@@ -581,7 +635,7 @@
           "distance": 563,
           "address": "珠江新城华夏路30号富力盈通大厦首层108号商铺",
           "productCode": "9900015729",
-          "price": 42.3
+          "price": 43.3
         },
         {
           "code": "1400246",
@@ -589,7 +643,7 @@
           "distance": 586,
           "address": "花城大道89号花城汇北区负一层1065-2、1065-3号",
           "productCode": "9900015729",
-          "price": 42.3
+          "price": 43.3
         }
       ],
       "storeCount": 5

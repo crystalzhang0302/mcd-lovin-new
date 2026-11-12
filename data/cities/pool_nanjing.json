@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12 03:38:39",
+  "generated_at": "2026-11-12 10:23:59",
   "date": "2026-11-12",
   "anchor": {
     "city": "南京市",
@@ -14,11 +14,11 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 125,
-    "tagged_new": 18,
+    "menu_total": 128,
+    "tagged_new": 19,
     "non_food_dropped": 1,
-    "food_new": 16,
-    "after_fold": 16
+    "food_new": 17,
+    "after_fold": 17
   },
   "dropped_non_food": [
     "“葱不求人”按摩捶痒痒挠"
@@ -77,6 +77,28 @@
       "tags": [
         "上新",
         "全新海陆双全来袭"
+      ]
+    },
+    {
+      "code": "9900016073",
+      "name": "龙焰鸡腿堡三件套",
+      "price_fen": 2690,
+      "price_yuan": 26.9,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ]
+    },
+    {
+      "code": "521952",
+      "name": "龙焰鸡腿堡",
+      "price_fen": 1590,
+      "price_yuan": 15.9,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
       ]
     },
     {
@@ -194,16 +216,6 @@
       "tags": [
         "上新",
         "奶昔回归"
-      ]
-    },
-    {
-      "code": "521817",
-      "name": "【美汁源】“多汁柠柠”",
-      "price_fen": 1200,
-      "price_yuan": 12.0,
-      "category": "饮品",
-      "tags": [
-        "上新"
       ]
     }
   ]

@@ -3,7 +3,7 @@
     "date": "2026-11-12",
     "city": "重庆市",
     "anchor": "解放碑",
-    "generatedAt": "2026-11-12 03:41:45",
+    "generatedAt": "2026-11-12 10:27:59",
     "stores": [
       {
         "code": "3450149",
@@ -38,12 +38,12 @@
     ]
   },
   "stats": {
-    "raw_new": 10,
+    "raw_new": 7,
     "dropped_nonfood": [
       "旋旋水手帽",
       "旋旋星愿贴"
     ],
-    "items": 8
+    "items": 5
   },
   "items": [
     {
@@ -154,6 +154,52 @@
       "storeCount": 5
     },
     {
+      "name": "汉堡开心乐园餐",
+      "price": 25.5,
+      "priceRange": null,
+      "category": "开心乐园",
+      "tags": [
+        "童年童款",
+        "玩具上新啦"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3450149",
+          "name": "麦当劳重庆金鹰财富中心餐厅",
+          "distance": 73,
+          "address": "解放碑邹容路82号负一层",
+          "productCode": "9900016694",
+          "price": 25.5
+        },
+        {
+          "code": "3450146",
+          "name": "麦当劳重庆1089艺术美丽中心餐厅",
+          "distance": 236,
+          "address": "八一路53号负一层B01号、第一层103号",
+          "productCode": "9900016694",
+          "price": 25.5
+        },
+        {
+          "code": "3450379",
+          "name": "麦当劳重庆解放碑赛博城市餐厅",
+          "distance": 346,
+          "address": "解放碑街道民族路168号1层L1-2-1号",
+          "productCode": "9900016694",
+          "price": 25.5
+        },
+        {
+          "code": "3450303",
+          "name": "麦当劳重庆东原1891餐厅",
+          "distance": 1717,
+          "address": "南滨路80号附2号麦当劳餐厅",
+          "productCode": "9900016694",
+          "price": 25.5
+        }
+      ],
+      "storeCount": 4
+    },
+    {
       "name": "板烧鸡腿堡三件套",
       "price": 52.5,
       "priceRange": null,
@@ -190,208 +236,12 @@
           "price": 52.5
         },
         {
-          "code": "3450136",
-          "name": "麦当劳重庆中信银行餐厅",
-          "distance": 1705,
-          "address": "江北城西大街5号负5楼",
-          "productCode": "9900005462",
-          "price": 52.5
-        },
-        {
           "code": "3450303",
           "name": "麦当劳重庆东原1891餐厅",
           "distance": 1717,
           "address": "南滨路80号附2号麦当劳餐厅",
           "productCode": "9900005462",
           "price": 52.5
-        }
-      ],
-      "storeCount": 5
-    },
-    {
-      "name": "汉堡开心乐园餐",
-      "price": 25.5,
-      "priceRange": null,
-      "category": "开心乐园",
-      "tags": [
-        "开心乐园餐",
-        "童年童款",
-        "玩具上新啦"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "3450149",
-          "name": "麦当劳重庆金鹰财富中心餐厅",
-          "distance": 73,
-          "address": "解放碑邹容路82号负一层",
-          "productCode": "9900016694",
-          "price": 25.5
-        },
-        {
-          "code": "3450146",
-          "name": "麦当劳重庆1089艺术美丽中心餐厅",
-          "distance": 236,
-          "address": "八一路53号负一层B01号、第一层103号",
-          "productCode": "9900016694",
-          "price": 25.5
-        },
-        {
-          "code": "3450379",
-          "name": "麦当劳重庆解放碑赛博城市餐厅",
-          "distance": 346,
-          "address": "解放碑街道民族路168号1层L1-2-1号",
-          "productCode": "9900016694",
-          "price": 25.5
-        },
-        {
-          "code": "3450303",
-          "name": "麦当劳重庆东原1891餐厅",
-          "distance": 1717,
-          "address": "南滨路80号附2号麦当劳餐厅",
-          "productCode": "9900016694",
-          "price": 25.5
-        }
-      ],
-      "storeCount": 4
-    },
-    {
-      "name": "麦乐鸡开心乐园餐",
-      "price": 27.0,
-      "priceRange": null,
-      "category": "开心乐园",
-      "tags": [
-        "开心乐园餐",
-        "童年童款",
-        "玩具上新啦"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "3450149",
-          "name": "麦当劳重庆金鹰财富中心餐厅",
-          "distance": 73,
-          "address": "解放碑邹容路82号负一层",
-          "productCode": "9900016695",
-          "price": 27.0
-        },
-        {
-          "code": "3450146",
-          "name": "麦当劳重庆1089艺术美丽中心餐厅",
-          "distance": 236,
-          "address": "八一路53号负一层B01号、第一层103号",
-          "productCode": "9900016695",
-          "price": 27.0
-        },
-        {
-          "code": "3450379",
-          "name": "麦当劳重庆解放碑赛博城市餐厅",
-          "distance": 346,
-          "address": "解放碑街道民族路168号1层L1-2-1号",
-          "productCode": "9900016695",
-          "price": 27.0
-        },
-        {
-          "code": "3450303",
-          "name": "麦当劳重庆东原1891餐厅",
-          "distance": 1717,
-          "address": "南滨路80号附2号麦当劳餐厅",
-          "productCode": "9900016695",
-          "price": 27.0
-        }
-      ],
-      "storeCount": 4
-    },
-    {
-      "name": "鱼排堡开心乐园餐",
-      "price": 29.0,
-      "priceRange": null,
-      "category": "开心乐园",
-      "tags": [
-        "开心乐园餐",
-        "童年童款",
-        "玩具上新啦"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "3450149",
-          "name": "麦当劳重庆金鹰财富中心餐厅",
-          "distance": 73,
-          "address": "解放碑邹容路82号负一层",
-          "productCode": "9900016693",
-          "price": 29.0
-        },
-        {
-          "code": "3450146",
-          "name": "麦当劳重庆1089艺术美丽中心餐厅",
-          "distance": 236,
-          "address": "八一路53号负一层B01号、第一层103号",
-          "productCode": "9900016693",
-          "price": 29.0
-        },
-        {
-          "code": "3450379",
-          "name": "麦当劳重庆解放碑赛博城市餐厅",
-          "distance": 346,
-          "address": "解放碑街道民族路168号1层L1-2-1号",
-          "productCode": "9900016693",
-          "price": 29.0
-        },
-        {
-          "code": "3450303",
-          "name": "麦当劳重庆东原1891餐厅",
-          "distance": 1717,
-          "address": "南滨路80号附2号麦当劳餐厅",
-          "productCode": "9900016693",
-          "price": 29.0
-        }
-      ],
-      "storeCount": 4
-    },
-    {
-      "name": "开心亲子双人餐",
-      "price": 78.5,
-      "priceRange": null,
-      "category": "开心乐园",
-      "tags": [
-        "开心亲子餐",
-        "童年童款",
-        "玩具上新啦"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "3450149",
-          "name": "麦当劳重庆金鹰财富中心餐厅",
-          "distance": 73,
-          "address": "解放碑邹容路82号负一层",
-          "productCode": "9900016696",
-          "price": 78.5
-        },
-        {
-          "code": "3450146",
-          "name": "麦当劳重庆1089艺术美丽中心餐厅",
-          "distance": 236,
-          "address": "八一路53号负一层B01号、第一层103号",
-          "productCode": "9900016696",
-          "price": 78.5
-        },
-        {
-          "code": "3450379",
-          "name": "麦当劳重庆解放碑赛博城市餐厅",
-          "distance": 346,
-          "address": "解放碑街道民族路168号1层L1-2-1号",
-          "productCode": "9900016696",
-          "price": 78.5
-        },
-        {
-          "code": "3450303",
-          "name": "麦当劳重庆东原1891餐厅",
-          "distance": 1717,
-          "address": "南滨路80号附2号麦当劳餐厅",
-          "productCode": "9900016696",
-          "price": 78.5
         }
       ],
       "storeCount": 4

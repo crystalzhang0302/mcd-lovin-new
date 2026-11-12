@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12 03:41:05",
+  "generated_at": "2026-11-12 10:27:12",
   "date": "2026-11-12",
   "anchor": {
     "city": "重庆市",
@@ -14,11 +14,11 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 99,
-    "tagged_new": 10,
+    "menu_total": 84,
+    "tagged_new": 7,
     "non_food_dropped": 2,
-    "food_new": 8,
-    "after_fold": 8
+    "food_new": 5,
+    "after_fold": 5
   },
   "dropped_non_food": [
     "旋旋水手帽",
@@ -66,43 +66,6 @@
       "price_yuan": 25.5,
       "category": "开心乐园",
       "tags": [
-        "开心乐园餐",
-        "童年童款",
-        "玩具上新啦"
-      ]
-    },
-    {
-      "code": "9900016693",
-      "name": "鱼排堡开心乐园餐",
-      "price_fen": 2900,
-      "price_yuan": 29.0,
-      "category": "开心乐园",
-      "tags": [
-        "开心乐园餐",
-        "童年童款",
-        "玩具上新啦"
-      ]
-    },
-    {
-      "code": "9900016695",
-      "name": "麦乐鸡开心乐园餐",
-      "price_fen": 2700,
-      "price_yuan": 27.0,
-      "category": "开心乐园",
-      "tags": [
-        "开心乐园餐",
-        "童年童款",
-        "玩具上新啦"
-      ]
-    },
-    {
-      "code": "9900016696",
-      "name": "开心亲子双人餐",
-      "price_fen": 7850,
-      "price_yuan": 78.5,
-      "category": "开心乐园",
-      "tags": [
-        "开心亲子餐",
         "童年童款",
         "玩具上新啦"
       ]
