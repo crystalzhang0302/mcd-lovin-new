@@ -1,9 +1,9 @@
 {
   "meta": {
-    "date": "2026-11-11",
+    "date": "2026-11-12",
     "city": "杭州市",
     "anchor": "武林广场",
-    "generatedAt": "2026-11-11 09:57:24",
+    "generatedAt": "2026-11-12 03:38:11",
     "stores": [
       {
         "code": "3330387",
@@ -373,6 +373,61 @@
       "storeCount": 5
     },
     {
+      "name": "板烧鸡腿堡三件套",
+      "price": 34.5,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "新升级",
+        "更多汁"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3330387",
+          "name": "麦当劳杭州国大城市广场餐厅",
+          "distance": 162,
+          "address": "延安路609号B2层B234麦当劳铺位",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "3330388",
+          "name": "麦当劳杭州西湖文化广场餐厅",
+          "distance": 699,
+          "address": "西湖文化广场9-4号",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "3330605",
+          "name": "麦当劳杭州深蓝广场餐厅",
+          "distance": 877,
+          "address": "朝晖路203号绿城深蓝广场1楼",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "3330629",
+          "name": "麦当劳杭州拱墅区集合大厦餐厅",
+          "distance": 1273,
+          "address": "文晖路与莫干山路交叉口集合大厦",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "3330489",
+          "name": "麦当劳杭州拱墅区茶叶大厦餐厅",
+          "distance": 1368,
+          "address": "延安路310号茶叶大厦",
+          "productCode": "9900005462",
+          "price": 34.5
+        }
+      ],
+      "storeCount": 5
+    },
+    {
       "name": "龙焰鸡腿堡",
       "price": 15.9,
       "priceRange": null,
@@ -425,7 +480,7 @@
       "category": "小食甜品/其他",
       "tags": [
         "上新",
-        "快乐旋开吃"
+        "第二份半价"
       ],
       "variants": null,
       "stores": [
@@ -558,14 +613,14 @@
       "storeCount": 4
     },
     {
-      "name": "板烧鸡腿堡三件套",
-      "price": 34.5,
+      "name": "开心亲子双人餐",
+      "price": 59.5,
       "priceRange": null,
-      "category": "鸡肉汉堡/卷",
+      "category": "开心乐园",
       "tags": [
-        "套餐",
-        "新升级",
-        "更多汁"
+        "开心亲子餐",
+        "童年童款",
+        "玩具上新啦"
       ],
       "variants": null,
       "stores": [
@@ -574,32 +629,32 @@
           "name": "麦当劳杭州国大城市广场餐厅",
           "distance": 162,
           "address": "延安路609号B2层B234麦当劳铺位",
-          "productCode": "9900005462",
-          "price": 34.5
+          "productCode": "9900016696",
+          "price": 59.5
         },
         {
           "code": "3330388",
           "name": "麦当劳杭州西湖文化广场餐厅",
           "distance": 699,
           "address": "西湖文化广场9-4号",
-          "productCode": "9900005462",
-          "price": 34.5
+          "productCode": "9900016696",
+          "price": 59.5
         },
         {
           "code": "3330605",
           "name": "麦当劳杭州深蓝广场餐厅",
           "distance": 877,
           "address": "朝晖路203号绿城深蓝广场1楼",
-          "productCode": "9900005462",
-          "price": 34.5
+          "productCode": "9900016696",
+          "price": 59.5
         },
         {
-          "code": "3330489",
-          "name": "麦当劳杭州拱墅区茶叶大厦餐厅",
-          "distance": 1368,
-          "address": "延安路310号茶叶大厦",
-          "productCode": "9900005462",
-          "price": 34.5
+          "code": "3330629",
+          "name": "麦当劳杭州拱墅区集合大厦餐厅",
+          "distance": 1273,
+          "address": "文晖路与莫干山路交叉口集合大厦",
+          "productCode": "9900016696",
+          "price": 59.5
         }
       ],
       "storeCount": 4
@@ -649,7 +704,7 @@
       "category": "小食甜品/其他",
       "tags": [
         "上新",
-        "蓝莓"
+        "第二份半价"
       ],
       "variants": null,
       "stores": [
@@ -676,45 +731,6 @@
           "address": "文晖路与莫干山路交叉口集合大厦",
           "productCode": "521950",
           "price": 16.5
-        }
-      ],
-      "storeCount": 3
-    },
-    {
-      "name": "开心亲子双人餐",
-      "price": 59.5,
-      "priceRange": null,
-      "category": "开心乐园",
-      "tags": [
-        "开心亲子餐",
-        "童年童款",
-        "玩具上新啦"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "3330387",
-          "name": "麦当劳杭州国大城市广场餐厅",
-          "distance": 162,
-          "address": "延安路609号B2层B234麦当劳铺位",
-          "productCode": "9900016696",
-          "price": 59.5
-        },
-        {
-          "code": "3330388",
-          "name": "麦当劳杭州西湖文化广场餐厅",
-          "distance": 699,
-          "address": "西湖文化广场9-4号",
-          "productCode": "9900016696",
-          "price": 59.5
-        },
-        {
-          "code": "3330605",
-          "name": "麦当劳杭州深蓝广场餐厅",
-          "distance": 877,
-          "address": "朝晖路203号绿城深蓝广场1楼",
-          "productCode": "9900016696",
-          "price": 59.5
         }
       ],
       "storeCount": 3

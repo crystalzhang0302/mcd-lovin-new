@@ -1,11 +1,11 @@
 window.NEW_DATA = {
  "meta": {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "city": "重庆市",
   "anchor": "解放碑",
   "poolAt": "chongqing",
-  "matrixAt": "2026-11-11 10:01:41",
-  "generatedAt": "2026-11-11 10:04:25",
+  "matrixAt": "2026-11-12 03:41:45",
+  "generatedAt": "2026-11-12 03:43:55",
   "stores": [
    {
     "code": "3450149",
