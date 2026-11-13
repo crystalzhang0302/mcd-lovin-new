@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13 03:11:16",
+  "generated_at": "2026-11-13 10:08:36",
   "date": "2026-11-13",
   "anchor": {
     "city": "重庆市",
@@ -14,11 +14,11 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 80,
-    "tagged_new": 7,
+    "menu_total": 83,
+    "tagged_new": 8,
     "non_food_dropped": 2,
-    "food_new": 5,
-    "after_fold": 5
+    "food_new": 6,
+    "after_fold": 6
   },
   "dropped_non_food": [
     "旋旋水手帽",
@@ -34,6 +34,17 @@
       "tags": [
         "上新",
         "韩式风味"
+      ]
+    },
+    {
+      "code": "522016",
+      "name": "海陆双全堡",
+      "price_fen": 2800,
+      "price_yuan": 28.0,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "全新海陆双全来袭"
       ]
     },
     {

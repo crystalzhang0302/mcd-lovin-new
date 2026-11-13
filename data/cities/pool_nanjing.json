@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13 03:09:09",
+  "generated_at": "2026-11-13 10:05:39",
   "date": "2026-11-13",
   "anchor": {
     "city": "南京市",
@@ -14,11 +14,11 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 129,
-    "tagged_new": 19,
+    "menu_total": 123,
+    "tagged_new": 17,
     "non_food_dropped": 1,
-    "food_new": 17,
-    "after_fold": 17
+    "food_new": 15,
+    "after_fold": 15
   },
   "dropped_non_food": [
     "“葱不求人”按摩捶痒痒挠"
@@ -77,28 +77,6 @@
       "tags": [
         "上新",
         "全新海陆双全来袭"
-      ]
-    },
-    {
-      "code": "9900016073",
-      "name": "龙焰鸡腿堡三件套",
-      "price_fen": 2690,
-      "price_yuan": 26.9,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "韩式辣椒黄油风味"
-      ]
-    },
-    {
-      "code": "521952",
-      "name": "龙焰鸡腿堡",
-      "price_fen": 1590,
-      "price_yuan": 15.9,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "韩式辣椒黄油风味"
       ]
     },
     {
