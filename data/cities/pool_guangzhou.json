@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12 10:16:20",
-  "date": "2026-11-12",
+  "generated_at": "2026-11-13 03:04:33",
+  "date": "2026-11-13",
   "anchor": {
     "city": "广州市",
     "keyword": "体育西路"
@@ -15,12 +15,13 @@
   },
   "stats": {
     "menu_total": 127,
-    "tagged_new": 20,
-    "non_food_dropped": 3,
+    "tagged_new": 21,
+    "non_food_dropped": 4,
     "food_new": 16,
     "after_fold": 16
   },
   "dropped_non_food": [
+    "麦当劳联名徽章",
     "麦当劳联名复古棒球帽",
     "旋旋水手帽",
     "“葱不求人”按摩捶痒痒挠"

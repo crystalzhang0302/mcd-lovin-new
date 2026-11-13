@@ -1,9 +1,9 @@
 {
   "meta": {
-    "date": "2026-11-12",
+    "date": "2026-11-13",
     "city": "南京市",
     "anchor": "新街口",
-    "generatedAt": "2026-11-12 10:25:06",
+    "generatedAt": "2026-11-13 03:09:51",
     "stores": [
       {
         "code": "1990346",
@@ -18,16 +18,16 @@
         "address": "洪武路119号"
       },
       {
-        "code": "1990762",
-        "name": "麦当劳南京青奥城市客厅餐厅",
-        "distance": 645,
-        "address": "中山东路145号1F-18、19商铺"
-      },
-      {
         "code": "1990675",
         "name": "麦当劳南京新街口苏宁餐厅",
         "distance": 645,
         "address": "淮海路 88 号苏宁广场一层101B商铺"
+      },
+      {
+        "code": "1990762",
+        "name": "麦当劳南京青奥城市客厅餐厅",
+        "distance": 645,
+        "address": "中山东路145号1F-18、19商铺"
       },
       {
         "code": "1990100",
@@ -74,18 +74,18 @@
           "price": 16.5
         },
         {
-          "code": "1990762",
-          "name": "麦当劳南京青奥城市客厅餐厅",
-          "distance": 645,
-          "address": "中山东路145号1F-18、19商铺",
-          "productCode": "521917",
-          "price": 16.5
-        },
-        {
           "code": "1990675",
           "name": "麦当劳南京新街口苏宁餐厅",
           "distance": 645,
           "address": "淮海路 88 号苏宁广场一层101B商铺",
+          "productCode": "521917",
+          "price": 16.5
+        },
+        {
+          "code": "1990762",
+          "name": "麦当劳南京青奥城市客厅餐厅",
+          "distance": 645,
+          "address": "中山东路145号1F-18、19商铺",
           "productCode": "521917",
           "price": 16.5
         },
@@ -128,18 +128,18 @@
           "price": 19.9
         },
         {
-          "code": "1990762",
-          "name": "麦当劳南京青奥城市客厅餐厅",
-          "distance": 645,
-          "address": "中山东路145号1F-18、19商铺",
-          "productCode": "9900015726",
-          "price": 19.9
-        },
-        {
           "code": "1990675",
           "name": "麦当劳南京新街口苏宁餐厅",
           "distance": 645,
           "address": "淮海路 88 号苏宁广场一层101B商铺",
+          "productCode": "9900015726",
+          "price": 19.9
+        },
+        {
+          "code": "1990762",
+          "name": "麦当劳南京青奥城市客厅餐厅",
+          "distance": 645,
+          "address": "中山东路145号1F-18、19商铺",
           "productCode": "9900015726",
           "price": 19.9
         },
@@ -183,18 +183,18 @@
           "price": 21.0
         },
         {
-          "code": "1990762",
-          "name": "麦当劳南京青奥城市客厅餐厅",
-          "distance": 645,
-          "address": "中山东路145号1F-18、19商铺",
-          "productCode": "522032",
-          "price": 21.0
-        },
-        {
           "code": "1990675",
           "name": "麦当劳南京新街口苏宁餐厅",
           "distance": 645,
           "address": "淮海路 88 号苏宁广场一层101B商铺",
+          "productCode": "522032",
+          "price": 21.0
+        },
+        {
+          "code": "1990762",
+          "name": "麦当劳南京青奥城市客厅餐厅",
+          "distance": 645,
+          "address": "中山东路145号1F-18、19商铺",
           "productCode": "522032",
           "price": 21.0
         },
@@ -238,18 +238,18 @@
           "price": 23.5
         },
         {
-          "code": "1990762",
-          "name": "麦当劳南京青奥城市客厅餐厅",
-          "distance": 645,
-          "address": "中山东路145号1F-18、19商铺",
-          "productCode": "9900016694",
-          "price": 23.5
-        },
-        {
           "code": "1990675",
           "name": "麦当劳南京新街口苏宁餐厅",
           "distance": 645,
           "address": "淮海路 88 号苏宁广场一层101B商铺",
+          "productCode": "9900016694",
+          "price": 23.5
+        },
+        {
+          "code": "1990762",
+          "name": "麦当劳南京青奥城市客厅餐厅",
+          "distance": 645,
+          "address": "中山东路145号1F-18、19商铺",
           "productCode": "9900016694",
           "price": 23.5
         },
@@ -293,18 +293,18 @@
           "price": 24.0
         },
         {
-          "code": "1990762",
-          "name": "麦当劳南京青奥城市客厅餐厅",
-          "distance": 645,
-          "address": "中山东路145号1F-18、19商铺",
-          "productCode": "9900016693",
-          "price": 24.0
-        },
-        {
           "code": "1990675",
           "name": "麦当劳南京新街口苏宁餐厅",
           "distance": 645,
           "address": "淮海路 88 号苏宁广场一层101B商铺",
+          "productCode": "9900016693",
+          "price": 24.0
+        },
+        {
+          "code": "1990762",
+          "name": "麦当劳南京青奥城市客厅餐厅",
+          "distance": 645,
+          "address": "中山东路145号1F-18、19商铺",
           "productCode": "9900016693",
           "price": 24.0
         },
@@ -348,18 +348,18 @@
           "price": 25.0
         },
         {
-          "code": "1990762",
-          "name": "麦当劳南京青奥城市客厅餐厅",
-          "distance": 645,
-          "address": "中山东路145号1F-18、19商铺",
-          "productCode": "9900016695",
-          "price": 25.0
-        },
-        {
           "code": "1990675",
           "name": "麦当劳南京新街口苏宁餐厅",
           "distance": 645,
           "address": "淮海路 88 号苏宁广场一层101B商铺",
+          "productCode": "9900016695",
+          "price": 25.0
+        },
+        {
+          "code": "1990762",
+          "name": "麦当劳南京青奥城市客厅餐厅",
+          "distance": 645,
+          "address": "中山东路145号1F-18、19商铺",
           "productCode": "9900016695",
           "price": 25.0
         },
@@ -402,18 +402,18 @@
           "price": 25.5
         },
         {
-          "code": "1990762",
-          "name": "麦当劳南京青奥城市客厅餐厅",
-          "distance": 645,
-          "address": "中山东路145号1F-18、19商铺",
-          "productCode": "522016",
-          "price": 25.5
-        },
-        {
           "code": "1990675",
           "name": "麦当劳南京新街口苏宁餐厅",
           "distance": 645,
           "address": "淮海路 88 号苏宁广场一层101B商铺",
+          "productCode": "522016",
+          "price": 25.5
+        },
+        {
+          "code": "1990762",
+          "name": "麦当劳南京青奥城市客厅餐厅",
+          "distance": 645,
+          "address": "中山东路145号1F-18、19商铺",
           "productCode": "522016",
           "price": 25.5
         },
@@ -457,18 +457,18 @@
           "price": 32.0
         },
         {
-          "code": "1990762",
-          "name": "麦当劳南京青奥城市客厅餐厅",
-          "distance": 645,
-          "address": "中山东路145号1F-18、19商铺",
-          "productCode": "9900015008",
-          "price": 32.0
-        },
-        {
           "code": "1990675",
           "name": "麦当劳南京新街口苏宁餐厅",
           "distance": 645,
           "address": "淮海路 88 号苏宁广场一层101B商铺",
+          "productCode": "9900015008",
+          "price": 32.0
+        },
+        {
+          "code": "1990762",
+          "name": "麦当劳南京青奥城市客厅餐厅",
+          "distance": 645,
+          "address": "中山东路145号1F-18、19商铺",
           "productCode": "9900015008",
           "price": 32.0
         },
@@ -512,18 +512,18 @@
           "price": 34.5
         },
         {
-          "code": "1990762",
-          "name": "麦当劳南京青奥城市客厅餐厅",
-          "distance": 645,
-          "address": "中山东路145号1F-18、19商铺",
-          "productCode": "9900005462",
-          "price": 34.5
-        },
-        {
           "code": "1990675",
           "name": "麦当劳南京新街口苏宁餐厅",
           "distance": 645,
           "address": "淮海路 88 号苏宁广场一层101B商铺",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "1990762",
+          "name": "麦当劳南京青奥城市客厅餐厅",
+          "distance": 645,
+          "address": "中山东路145号1F-18、19商铺",
           "productCode": "9900005462",
           "price": 34.5
         },
@@ -567,18 +567,18 @@
           "price": 59.5
         },
         {
-          "code": "1990762",
-          "name": "麦当劳南京青奥城市客厅餐厅",
-          "distance": 645,
-          "address": "中山东路145号1F-18、19商铺",
-          "productCode": "9900016696",
-          "price": 59.5
-        },
-        {
           "code": "1990675",
           "name": "麦当劳南京新街口苏宁餐厅",
           "distance": 645,
           "address": "淮海路 88 号苏宁广场一层101B商铺",
+          "productCode": "9900016696",
+          "price": 59.5
+        },
+        {
+          "code": "1990762",
+          "name": "麦当劳南京青奥城市客厅餐厅",
+          "distance": 645,
+          "address": "中山东路145号1F-18、19商铺",
           "productCode": "9900016696",
           "price": 59.5
         },
@@ -738,6 +738,27 @@
       "storeCount": 2
     },
     {
+      "name": "麦当劳奶昔",
+      "price": 15.0,
+      "priceRange": null,
+      "category": "人气热卖",
+      "tags": [
+        "奶昔回归"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1990346",
+          "name": "麦当劳南京新百餐厅",
+          "distance": 182,
+          "address": "中山南路1号A座负一层G-A-025号商铺",
+          "productCode": "9900014092",
+          "price": 15.0
+        }
+      ],
+      "storeCount": 1
+    },
+    {
       "name": "龙焰鸡腿堡",
       "price": 15.9,
       "priceRange": null,
@@ -755,17 +776,9 @@
           "address": "中山南路1号A座负一层G-A-025号商铺",
           "productCode": "521952",
           "price": 15.9
-        },
-        {
-          "code": "1990100",
-          "name": "麦当劳南京汉中路餐厅",
-          "distance": 740,
-          "address": "白下区汉中路139-7号环亚广场一楼麦当劳",
-          "productCode": "521952",
-          "price": 15.9
         }
       ],
-      "storeCount": 2
+      "storeCount": 1
     },
     {
       "name": "龙焰鸡腿堡三件套",
@@ -785,35 +798,6 @@
           "address": "中山南路1号A座负一层G-A-025号商铺",
           "productCode": "9900016073",
           "price": 26.9
-        },
-        {
-          "code": "1990100",
-          "name": "麦当劳南京汉中路餐厅",
-          "distance": 740,
-          "address": "白下区汉中路139-7号环亚广场一楼麦当劳",
-          "productCode": "9900016073",
-          "price": 26.9
-        }
-      ],
-      "storeCount": 2
-    },
-    {
-      "name": "麦当劳奶昔",
-      "price": 15.0,
-      "priceRange": null,
-      "category": "人气热卖",
-      "tags": [
-        "奶昔回归"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1990346",
-          "name": "麦当劳南京新百餐厅",
-          "distance": 182,
-          "address": "中山南路1号A座负一层G-A-025号商铺",
-          "productCode": "9900014092",
-          "price": 15.0
         }
       ],
       "storeCount": 1

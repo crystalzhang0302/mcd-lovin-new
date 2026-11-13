@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12 10:20:25",
-  "date": "2026-11-12",
+  "generated_at": "2026-11-13 03:06:54",
+  "date": "2026-11-13",
   "anchor": {
     "city": "成都市",
     "keyword": "春熙路"
@@ -14,11 +14,11 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 105,
-    "tagged_new": 12,
+    "menu_total": 99,
+    "tagged_new": 11,
     "non_food_dropped": 0,
-    "food_new": 12,
-    "after_fold": 12
+    "food_new": 11,
+    "after_fold": 11
   },
   "dropped_non_food": [],
   "pool": [
@@ -31,17 +31,6 @@
       "tags": [
         "上新",
         "韩式风味"
-      ]
-    },
-    {
-      "code": "9900016078",
-      "name": "蘸酱麦麦脆汁鸡",
-      "price_fen": 1800,
-      "price_yuan": 18.0,
-      "category": "蘸酱炸鸡",
-      "tags": [
-        "蘸酱炸鸡",
-        "蘸酱炸鸡新吃法"
       ]
     },
     {
@@ -58,8 +47,8 @@
     {
       "code": "9900015729",
       "name": "蘸酱BFF四宫格小食盘",
-      "price_fen": 4280,
-      "price_yuan": 42.8,
+      "price_fen": 4180,
+      "price_yuan": 41.8,
       "category": "蘸酱炸鸡",
       "tags": [
         "蘸酱炸鸡",
@@ -136,14 +125,14 @@
       ]
     },
     {
-      "code": "521836",
-      "name": "柠檬脆脆麦旋风",
-      "price_fen": 1650,
-      "price_yuan": 16.5,
+      "code": "521770",
+      "name": "麦当劳素龙限定饼干",
+      "price_fen": 200,
+      "price_yuan": 2.0,
       "category": "小食甜品/其他",
       "tags": [
         "上新",
-        "第二份半价"
+        "汪苏泷同款"
       ]
     },
     {

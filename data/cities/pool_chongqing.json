@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12 10:27:12",
-  "date": "2026-11-12",
+  "generated_at": "2026-11-13 03:11:16",
+  "date": "2026-11-13",
   "anchor": {
     "city": "重庆市",
     "keyword": "解放碑"
@@ -14,7 +14,7 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 84,
+    "menu_total": 80,
     "tagged_new": 7,
     "non_food_dropped": 2,
     "food_new": 5,
@@ -37,17 +37,6 @@
       ]
     },
     {
-      "code": "522016",
-      "name": "海陆双全堡",
-      "price_fen": 2800,
-      "price_yuan": 28.0,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "全新海陆双全来袭"
-      ]
-    },
-    {
       "code": "9900005462",
       "name": "板烧鸡腿堡三件套",
       "price_fen": 5250,
@@ -64,6 +53,17 @@
       "name": "汉堡开心乐园餐",
       "price_fen": 2550,
       "price_yuan": 25.5,
+      "category": "开心乐园",
+      "tags": [
+        "童年童款",
+        "玩具上新啦"
+      ]
+    },
+    {
+      "code": "9900016693",
+      "name": "鱼排堡开心乐园餐",
+      "price_fen": 2900,
+      "price_yuan": 29.0,
       "category": "开心乐园",
       "tags": [
         "童年童款",
