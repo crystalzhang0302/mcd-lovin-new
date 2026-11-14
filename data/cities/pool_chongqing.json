@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13 10:08:36",
-  "date": "2026-11-13",
+  "generated_at": "2026-11-14 03:00:46",
+  "date": "2026-11-14",
   "anchor": {
     "city": "重庆市",
     "keyword": "解放碑"
@@ -14,11 +14,11 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 83,
-    "tagged_new": 8,
+    "menu_total": 85,
+    "tagged_new": 6,
     "non_food_dropped": 2,
-    "food_new": 6,
-    "after_fold": 6
+    "food_new": 4,
+    "after_fold": 4
   },
   "dropped_non_food": [
     "旋旋水手帽",
@@ -57,28 +57,6 @@
         "套餐",
         "新升级",
         "更多汁"
-      ]
-    },
-    {
-      "code": "9900016694",
-      "name": "汉堡开心乐园餐",
-      "price_fen": 2550,
-      "price_yuan": 25.5,
-      "category": "开心乐园",
-      "tags": [
-        "童年童款",
-        "玩具上新啦"
-      ]
-    },
-    {
-      "code": "9900016693",
-      "name": "鱼排堡开心乐园餐",
-      "price_fen": 2900,
-      "price_yuan": 29.0,
-      "category": "开心乐园",
-      "tags": [
-        "童年童款",
-        "玩具上新啦"
       ]
     },
     {
