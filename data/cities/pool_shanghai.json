@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14 02:49:04",
+  "generated_at": "2026-11-14 09:20:58",
   "date": "2026-11-14",
   "anchor": {
     "city": "上海市",
@@ -14,7 +14,7 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 130,
+    "menu_total": 129,
     "tagged_new": 16,
     "non_food_dropped": 1,
     "food_new": 15,
