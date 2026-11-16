@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16 02:36:50",
+  "generated_at": "2026-11-16 10:18:56",
   "date": "2026-11-16",
   "anchor": {
     "city": "重庆市",
@@ -14,11 +14,11 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 96,
-    "tagged_new": 6,
+    "menu_total": 90,
+    "tagged_new": 5,
     "non_food_dropped": 2,
-    "food_new": 4,
-    "after_fold": 4
+    "food_new": 3,
+    "after_fold": 3
   },
   "dropped_non_food": [
     "旋旋水手帽",
@@ -45,18 +45,6 @@
       "tags": [
         "上新",
         "全新海陆双全来袭"
-      ]
-    },
-    {
-      "code": "9900005462",
-      "name": "板烧鸡腿堡三件套",
-      "price_fen": 5250,
-      "price_yuan": 52.5,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "套餐",
-        "新升级",
-        "更多汁"
       ]
     },
     {
