@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15 09:56:52",
-  "date": "2026-11-15",
+  "generated_at": "2026-11-16 02:33:53",
+  "date": "2026-11-16",
   "anchor": {
     "city": "杭州市",
     "keyword": "武林广场"
@@ -14,7 +14,7 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 127,
+    "menu_total": 120,
     "tagged_new": 13,
     "non_food_dropped": 0,
     "food_new": 13,

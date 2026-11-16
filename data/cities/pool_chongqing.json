@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15 10:00:24",
-  "date": "2026-11-15",
+  "generated_at": "2026-11-16 02:36:50",
+  "date": "2026-11-16",
   "anchor": {
     "city": "重庆市",
     "keyword": "解放碑"
@@ -14,7 +14,7 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 94,
+    "menu_total": 96,
     "tagged_new": 6,
     "non_food_dropped": 2,
     "food_new": 4,
