@@ -1,9 +1,9 @@
 {
   "meta": {
-    "date": "2026-11-16",
+    "date": "2026-11-17",
     "city": "北京市",
     "anchor": "国贸",
-    "generatedAt": "2026-11-16 10:09:29",
+    "generatedAt": "2026-11-17 04:55:03",
     "stores": [
       {
         "code": "1950564",
@@ -694,17 +694,9 @@
           "address": "光华东里8号院1号楼B1层B1-03商铺 ",
           "productCode": "9900016078",
           "price": 18.0
-        },
-        {
-          "code": "1950553",
-          "name": "麦当劳北京景华南街餐厅",
-          "distance": 729,
-          "address": "东三环中路25号住总大厦",
-          "productCode": "9900016078",
-          "price": 18.0
         }
       ],
-      "storeCount": 3
+      "storeCount": 2
     },
     {
       "name": "蘸酱BFF四宫格小食盘",
@@ -732,17 +724,9 @@
           "address": "光华东里8号院1号楼B1层B1-03商铺 ",
           "productCode": "9900015729",
           "price": 42.8
-        },
-        {
-          "code": "1950553",
-          "name": "麦当劳北京景华南街餐厅",
-          "distance": 729,
-          "address": "东三环中路25号住总大厦",
-          "productCode": "9900015729",
-          "price": 42.8
         }
       ],
-      "storeCount": 3
+      "storeCount": 2
     }
   ]
 }

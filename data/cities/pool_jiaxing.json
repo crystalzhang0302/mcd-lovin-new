@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16 10:21:03",
-  "date": "2026-11-16",
+  "generated_at": "2026-11-17 05:09:16",
+  "date": "2026-11-17",
   "anchor": {
     "city": "嘉兴市",
     "keyword": "月河历史街区"
@@ -14,11 +14,11 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 88,
-    "tagged_new": 7,
+    "menu_total": 90,
+    "tagged_new": 9,
     "non_food_dropped": 1,
-    "food_new": 6,
-    "after_fold": 6
+    "food_new": 8,
+    "after_fold": 8
   },
   "dropped_non_food": [
     "旋旋水手帽"
@@ -33,6 +33,18 @@
       "tags": [
         "上新",
         "全新海陆双全来袭"
+      ]
+    },
+    {
+      "code": "9900005462",
+      "name": "板烧鸡腿堡三件套",
+      "price_fen": 3450,
+      "price_yuan": 34.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "新升级",
+        "更多汁"
       ]
     },
     {
@@ -79,6 +91,18 @@
       "category": "开心乐园",
       "tags": [
         "开心乐园餐",
+        "童年童款",
+        "玩具上新啦"
+      ]
+    },
+    {
+      "code": "9900016696",
+      "name": "开心亲子双人餐",
+      "price_fen": 5950,
+      "price_yuan": 59.5,
+      "category": "开心乐园",
+      "tags": [
+        "开心亲子餐",
         "童年童款",
         "玩具上新啦"
       ]

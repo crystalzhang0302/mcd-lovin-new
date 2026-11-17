@@ -1,9 +1,9 @@
 {
   "meta": {
-    "date": "2026-11-16",
+    "date": "2026-11-17",
     "city": "上海市",
     "anchor": "人民广场",
-    "generatedAt": "2026-11-16 10:08:08",
+    "generatedAt": "2026-11-17 04:53:21",
     "stores": [
       {
         "code": "1450713",
@@ -16,12 +16,6 @@
         "name": "麦当劳上海福州路餐厅",
         "distance": 235,
         "address": "福州路666号"
-      },
-      {
-        "code": "1450056",
-        "name": "麦当劳上海食品一店餐厅",
-        "distance": 355,
-        "address": "南京东路720号"
       },
       {
         "code": "1450195",
@@ -72,14 +66,6 @@
           "price": 12.0
         },
         {
-          "code": "1450056",
-          "name": "麦当劳上海食品一店餐厅",
-          "distance": 355,
-          "address": "南京东路720号",
-          "productCode": "521817",
-          "price": 12.0
-        },
-        {
           "code": "1450195",
           "name": "麦当劳上海雅居乐餐厅",
           "distance": 382,
@@ -94,271 +80,6 @@
           "address": "南京西路258号1幢一层",
           "productCode": "521817",
           "price": 12.0
-        }
-      ],
-      "storeCount": 5
-    },
-    {
-      "name": "汉堡开心乐园餐",
-      "price": 23.5,
-      "priceRange": null,
-      "category": "开心乐园",
-      "tags": [
-        "开心乐园餐",
-        "童年童款",
-        "玩具上新啦"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1450713",
-          "name": "麦当劳上海黄浦华旭国际大厦餐厅",
-          "distance": 144,
-          "address": "南京东路街道西藏中路336号",
-          "productCode": "9900016694",
-          "price": 23.5
-        },
-        {
-          "code": "1450441",
-          "name": "麦当劳上海福州路餐厅",
-          "distance": 235,
-          "address": "福州路666号",
-          "productCode": "9900016694",
-          "price": 23.5
-        },
-        {
-          "code": "1450056",
-          "name": "麦当劳上海食品一店餐厅",
-          "distance": 355,
-          "address": "南京东路720号",
-          "productCode": "9900016694",
-          "price": 23.5
-        },
-        {
-          "code": "1450195",
-          "name": "麦当劳上海雅居乐餐厅",
-          "distance": 382,
-          "address": "西藏中路525号",
-          "productCode": "9900016694",
-          "price": 23.5
-        },
-        {
-          "code": "1450124",
-          "name": "麦当劳上海南京西路NX258餐厅",
-          "distance": 412,
-          "address": "南京西路258号1幢一层",
-          "productCode": "9900016694",
-          "price": 23.5
-        }
-      ],
-      "storeCount": 5
-    },
-    {
-      "name": "鱼排堡开心乐园餐",
-      "price": 24.0,
-      "priceRange": null,
-      "category": "开心乐园",
-      "tags": [
-        "开心乐园餐",
-        "童年童款",
-        "玩具上新啦"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1450713",
-          "name": "麦当劳上海黄浦华旭国际大厦餐厅",
-          "distance": 144,
-          "address": "南京东路街道西藏中路336号",
-          "productCode": "9900016693",
-          "price": 24.0
-        },
-        {
-          "code": "1450441",
-          "name": "麦当劳上海福州路餐厅",
-          "distance": 235,
-          "address": "福州路666号",
-          "productCode": "9900016693",
-          "price": 24.0
-        },
-        {
-          "code": "1450056",
-          "name": "麦当劳上海食品一店餐厅",
-          "distance": 355,
-          "address": "南京东路720号",
-          "productCode": "9900016693",
-          "price": 24.0
-        },
-        {
-          "code": "1450195",
-          "name": "麦当劳上海雅居乐餐厅",
-          "distance": 382,
-          "address": "西藏中路525号",
-          "productCode": "9900016693",
-          "price": 24.0
-        },
-        {
-          "code": "1450124",
-          "name": "麦当劳上海南京西路NX258餐厅",
-          "distance": 412,
-          "address": "南京西路258号1幢一层",
-          "productCode": "9900016693",
-          "price": 24.0
-        }
-      ],
-      "storeCount": 5
-    },
-    {
-      "name": "海陆双全堡",
-      "price": 24.5,
-      "priceRange": null,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "全新海陆双全来袭"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1450713",
-          "name": "麦当劳上海黄浦华旭国际大厦餐厅",
-          "distance": 144,
-          "address": "南京东路街道西藏中路336号",
-          "productCode": "522016",
-          "price": 24.5
-        },
-        {
-          "code": "1450441",
-          "name": "麦当劳上海福州路餐厅",
-          "distance": 235,
-          "address": "福州路666号",
-          "productCode": "522016",
-          "price": 24.5
-        },
-        {
-          "code": "1450056",
-          "name": "麦当劳上海食品一店餐厅",
-          "distance": 355,
-          "address": "南京东路720号",
-          "productCode": "522016",
-          "price": 24.5
-        },
-        {
-          "code": "1450195",
-          "name": "麦当劳上海雅居乐餐厅",
-          "distance": 382,
-          "address": "西藏中路525号",
-          "productCode": "522016",
-          "price": 24.5
-        },
-        {
-          "code": "1450124",
-          "name": "麦当劳上海南京西路NX258餐厅",
-          "distance": 412,
-          "address": "南京西路258号1幢一层",
-          "productCode": "522016",
-          "price": 24.5
-        }
-      ],
-      "storeCount": 5
-    },
-    {
-      "name": "板烧鸡腿堡三件套",
-      "price": 34.5,
-      "priceRange": null,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "套餐",
-        "新升级",
-        "更多汁"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1450713",
-          "name": "麦当劳上海黄浦华旭国际大厦餐厅",
-          "distance": 144,
-          "address": "南京东路街道西藏中路336号",
-          "productCode": "9900005462",
-          "price": 34.5
-        },
-        {
-          "code": "1450441",
-          "name": "麦当劳上海福州路餐厅",
-          "distance": 235,
-          "address": "福州路666号",
-          "productCode": "9900005462",
-          "price": 34.5
-        },
-        {
-          "code": "1450056",
-          "name": "麦当劳上海食品一店餐厅",
-          "distance": 355,
-          "address": "南京东路720号",
-          "productCode": "9900005462",
-          "price": 34.5
-        },
-        {
-          "code": "1450195",
-          "name": "麦当劳上海雅居乐餐厅",
-          "distance": 382,
-          "address": "西藏中路525号",
-          "productCode": "9900005462",
-          "price": 34.5
-        },
-        {
-          "code": "1450124",
-          "name": "麦当劳上海南京西路NX258餐厅",
-          "distance": 412,
-          "address": "南京西路258号1幢一层",
-          "productCode": "9900005462",
-          "price": 34.5
-        }
-      ],
-      "storeCount": 5
-    },
-    {
-      "name": "泷愿成真麦旋风——大米风味",
-      "price": 16.5,
-      "priceRange": null,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "第二份半价"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1450713",
-          "name": "麦当劳上海黄浦华旭国际大厦餐厅",
-          "distance": 144,
-          "address": "南京东路街道西藏中路336号",
-          "productCode": "521917",
-          "price": 16.5
-        },
-        {
-          "code": "1450441",
-          "name": "麦当劳上海福州路餐厅",
-          "distance": 235,
-          "address": "福州路666号",
-          "productCode": "521917",
-          "price": 16.5
-        },
-        {
-          "code": "1450056",
-          "name": "麦当劳上海食品一店餐厅",
-          "distance": 355,
-          "address": "南京东路720号",
-          "productCode": "521917",
-          "price": 16.5
-        },
-        {
-          "code": "1450195",
-          "name": "麦当劳上海雅居乐餐厅",
-          "distance": 382,
-          "address": "西藏中路525号",
-          "productCode": "521917",
-          "price": 16.5
         }
       ],
       "storeCount": 4
@@ -411,8 +132,8 @@
       "storeCount": 4
     },
     {
-      "name": "麦乐鸡开心乐园餐",
-      "price": 25.0,
+      "name": "汉堡开心乐园餐",
+      "price": 23.5,
       "priceRange": null,
       "category": "开心乐园",
       "tags": [
@@ -427,32 +148,125 @@
           "name": "麦当劳上海黄浦华旭国际大厦餐厅",
           "distance": 144,
           "address": "南京东路街道西藏中路336号",
-          "productCode": "9900016695",
-          "price": 25.0
+          "productCode": "9900016694",
+          "price": 23.5
         },
         {
           "code": "1450441",
           "name": "麦当劳上海福州路餐厅",
           "distance": 235,
           "address": "福州路666号",
-          "productCode": "9900016695",
-          "price": 25.0
-        },
-        {
-          "code": "1450056",
-          "name": "麦当劳上海食品一店餐厅",
-          "distance": 355,
-          "address": "南京东路720号",
-          "productCode": "9900016695",
-          "price": 25.0
+          "productCode": "9900016694",
+          "price": 23.5
         },
         {
           "code": "1450195",
           "name": "麦当劳上海雅居乐餐厅",
           "distance": 382,
           "address": "西藏中路525号",
-          "productCode": "9900016695",
-          "price": 25.0
+          "productCode": "9900016694",
+          "price": 23.5
+        },
+        {
+          "code": "1450124",
+          "name": "麦当劳上海南京西路NX258餐厅",
+          "distance": 412,
+          "address": "南京西路258号1幢一层",
+          "productCode": "9900016694",
+          "price": 23.5
+        }
+      ],
+      "storeCount": 4
+    },
+    {
+      "name": "鱼排堡开心乐园餐",
+      "price": 24.0,
+      "priceRange": null,
+      "category": "开心乐园",
+      "tags": [
+        "开心乐园餐",
+        "童年童款",
+        "玩具上新啦"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1450713",
+          "name": "麦当劳上海黄浦华旭国际大厦餐厅",
+          "distance": 144,
+          "address": "南京东路街道西藏中路336号",
+          "productCode": "9900016693",
+          "price": 24.0
+        },
+        {
+          "code": "1450441",
+          "name": "麦当劳上海福州路餐厅",
+          "distance": 235,
+          "address": "福州路666号",
+          "productCode": "9900016693",
+          "price": 24.0
+        },
+        {
+          "code": "1450195",
+          "name": "麦当劳上海雅居乐餐厅",
+          "distance": 382,
+          "address": "西藏中路525号",
+          "productCode": "9900016693",
+          "price": 24.0
+        },
+        {
+          "code": "1450124",
+          "name": "麦当劳上海南京西路NX258餐厅",
+          "distance": 412,
+          "address": "南京西路258号1幢一层",
+          "productCode": "9900016693",
+          "price": 24.0
+        }
+      ],
+      "storeCount": 4
+    },
+    {
+      "name": "海陆双全堡",
+      "price": 24.5,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "全新海陆双全来袭"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1450713",
+          "name": "麦当劳上海黄浦华旭国际大厦餐厅",
+          "distance": 144,
+          "address": "南京东路街道西藏中路336号",
+          "productCode": "522016",
+          "price": 24.5
+        },
+        {
+          "code": "1450441",
+          "name": "麦当劳上海福州路餐厅",
+          "distance": 235,
+          "address": "福州路666号",
+          "productCode": "522016",
+          "price": 24.5
+        },
+        {
+          "code": "1450195",
+          "name": "麦当劳上海雅居乐餐厅",
+          "distance": 382,
+          "address": "西藏中路525号",
+          "productCode": "522016",
+          "price": 24.5
+        },
+        {
+          "code": "1450124",
+          "name": "麦当劳上海南京西路NX258餐厅",
+          "distance": 412,
+          "address": "南京西路258号1幢一层",
+          "productCode": "522016",
+          "price": 24.5
         }
       ],
       "storeCount": 4
@@ -505,6 +319,130 @@
       "storeCount": 4
     },
     {
+      "name": "板烧鸡腿堡三件套",
+      "price": 34.5,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "新升级",
+        "更多汁"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1450713",
+          "name": "麦当劳上海黄浦华旭国际大厦餐厅",
+          "distance": 144,
+          "address": "南京东路街道西藏中路336号",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "1450441",
+          "name": "麦当劳上海福州路餐厅",
+          "distance": 235,
+          "address": "福州路666号",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "1450195",
+          "name": "麦当劳上海雅居乐餐厅",
+          "distance": 382,
+          "address": "西藏中路525号",
+          "productCode": "9900005462",
+          "price": 34.5
+        },
+        {
+          "code": "1450124",
+          "name": "麦当劳上海南京西路NX258餐厅",
+          "distance": 412,
+          "address": "南京西路258号1幢一层",
+          "productCode": "9900005462",
+          "price": 34.5
+        }
+      ],
+      "storeCount": 4
+    },
+    {
+      "name": "泷愿成真麦旋风——大米风味",
+      "price": 16.5,
+      "priceRange": null,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "第二份半价"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1450713",
+          "name": "麦当劳上海黄浦华旭国际大厦餐厅",
+          "distance": 144,
+          "address": "南京东路街道西藏中路336号",
+          "productCode": "521917",
+          "price": 16.5
+        },
+        {
+          "code": "1450441",
+          "name": "麦当劳上海福州路餐厅",
+          "distance": 235,
+          "address": "福州路666号",
+          "productCode": "521917",
+          "price": 16.5
+        },
+        {
+          "code": "1450195",
+          "name": "麦当劳上海雅居乐餐厅",
+          "distance": 382,
+          "address": "西藏中路525号",
+          "productCode": "521917",
+          "price": 16.5
+        }
+      ],
+      "storeCount": 3
+    },
+    {
+      "name": "麦乐鸡开心乐园餐",
+      "price": 25.0,
+      "priceRange": null,
+      "category": "开心乐园",
+      "tags": [
+        "开心乐园餐",
+        "童年童款",
+        "玩具上新啦"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1450713",
+          "name": "麦当劳上海黄浦华旭国际大厦餐厅",
+          "distance": 144,
+          "address": "南京东路街道西藏中路336号",
+          "productCode": "9900016695",
+          "price": 25.0
+        },
+        {
+          "code": "1450441",
+          "name": "麦当劳上海福州路餐厅",
+          "distance": 235,
+          "address": "福州路666号",
+          "productCode": "9900016695",
+          "price": 25.0
+        },
+        {
+          "code": "1450195",
+          "name": "麦当劳上海雅居乐餐厅",
+          "distance": 382,
+          "address": "西藏中路525号",
+          "productCode": "9900016695",
+          "price": 25.0
+        }
+      ],
+      "storeCount": 3
+    },
+    {
       "name": "开心亲子双人餐",
       "price": 59.5,
       "priceRange": null,
@@ -533,14 +471,6 @@
           "price": 59.5
         },
         {
-          "code": "1450056",
-          "name": "麦当劳上海食品一店餐厅",
-          "distance": 355,
-          "address": "南京东路720号",
-          "productCode": "9900016696",
-          "price": 59.5
-        },
-        {
           "code": "1450195",
           "name": "麦当劳上海雅居乐餐厅",
           "distance": 382,
@@ -549,7 +479,7 @@
           "price": 59.5
         }
       ],
-      "storeCount": 4
+      "storeCount": 3
     },
     {
       "name": "灰焰圆筒",
@@ -569,17 +499,9 @@
           "address": "南京东路街道西藏中路336号",
           "productCode": "521951",
           "price": 5.0
-        },
-        {
-          "code": "1450056",
-          "name": "麦当劳上海食品一店餐厅",
-          "distance": 355,
-          "address": "南京东路720号",
-          "productCode": "521951",
-          "price": 5.0
         }
       ],
-      "storeCount": 2
+      "storeCount": 1
     },
     {
       "name": "麦当劳奶昔",

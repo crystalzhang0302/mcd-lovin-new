@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16 10:16:08",
-  "date": "2026-11-16",
+  "generated_at": "2026-11-17 05:03:04",
+  "date": "2026-11-17",
   "anchor": {
     "city": "南京市",
     "keyword": "新街口"
@@ -14,11 +14,11 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 112,
-    "tagged_new": 13,
+    "menu_total": 123,
+    "tagged_new": 17,
     "non_food_dropped": 0,
-    "food_new": 12,
-    "after_fold": 12
+    "food_new": 16,
+    "after_fold": 16
   },
   "dropped_non_food": [],
   "pool": [
@@ -78,6 +78,28 @@
       ]
     },
     {
+      "code": "9900016073",
+      "name": "龙焰鸡腿堡三件套",
+      "price_fen": 2690,
+      "price_yuan": 26.9,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ]
+    },
+    {
+      "code": "521952",
+      "name": "龙焰鸡腿堡",
+      "price_fen": 1590,
+      "price_yuan": 15.9,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ]
+    },
+    {
       "code": "9900005462",
       "name": "板烧鸡腿堡三件套",
       "price_fen": 3450,
@@ -87,6 +109,30 @@
         "套餐",
         "新升级",
         "更多汁"
+      ]
+    },
+    {
+      "code": "9900015008",
+      "name": "酥酥多笋卷三件套",
+      "price_fen": 3200,
+      "price_yuan": 32.0,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "全新升级",
+        "川香风味"
+      ]
+    },
+    {
+      "code": "522032",
+      "name": "酥酥多笋卷",
+      "price_fen": 2100,
+      "price_yuan": 21.0,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "单品",
+        "全新升级",
+        "川香风味"
       ]
     },
     {
