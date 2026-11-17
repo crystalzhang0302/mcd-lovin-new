@@ -3,7 +3,7 @@
     "date": "2026-11-17",
     "city": "南京市",
     "anchor": "新街口",
-    "generatedAt": "2026-11-17 05:04:10",
+    "generatedAt": "2026-11-17 11:16:35",
     "stores": [
       {
         "code": "1990346",
@@ -38,11 +38,11 @@
     ]
   },
   "stats": {
-    "raw_new": 17,
+    "raw_new": 15,
     "dropped_nonfood": [
       "薯条脆卜卜绒绒耳机包"
     ],
-    "items": 16
+    "items": 14
   },
   "items": [
     {
@@ -683,50 +683,6 @@
           "address": "中山南路1号A座负一层G-A-025号商铺",
           "productCode": "9900014092",
           "price": 15.0
-        }
-      ],
-      "storeCount": 1
-    },
-    {
-      "name": "龙焰鸡腿堡",
-      "price": 15.9,
-      "priceRange": null,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "韩式辣椒黄油风味"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1990346",
-          "name": "麦当劳南京新百餐厅",
-          "distance": 182,
-          "address": "中山南路1号A座负一层G-A-025号商铺",
-          "productCode": "521952",
-          "price": 15.9
-        }
-      ],
-      "storeCount": 1
-    },
-    {
-      "name": "龙焰鸡腿堡三件套",
-      "price": 26.9,
-      "priceRange": null,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "韩式辣椒黄油风味"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1990346",
-          "name": "麦当劳南京新百餐厅",
-          "distance": 182,
-          "address": "中山南路1号A座负一层G-A-025号商铺",
-          "productCode": "9900016073",
-          "price": 26.9
         }
       ],
       "storeCount": 1

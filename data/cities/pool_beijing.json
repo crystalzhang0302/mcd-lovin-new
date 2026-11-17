@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17 04:53:52",
+  "generated_at": "2026-11-17 11:05:50",
   "date": "2026-11-17",
   "anchor": {
     "city": "北京市",
@@ -14,7 +14,7 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 126,
+    "menu_total": 125,
     "tagged_new": 16,
     "non_food_dropped": 2,
     "food_new": 14,

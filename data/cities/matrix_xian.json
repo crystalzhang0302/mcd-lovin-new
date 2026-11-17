@@ -3,7 +3,7 @@
     "date": "2026-11-17",
     "city": "西安市",
     "anchor": "钟楼",
-    "generatedAt": "2026-11-17 05:08:58",
+    "generatedAt": "2026-11-17 11:21:15",
     "stores": [
       {
         "code": "1960622",
@@ -628,6 +628,44 @@
       "storeCount": 4
     },
     {
+      "name": "泷愿成真麦旋风——大米风味",
+      "price": 16.5,
+      "priceRange": null,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "第二份半价"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1960622",
+          "name": "麦当劳西安开元餐厅",
+          "distance": 152,
+          "address": "东大街解放市场6号首层",
+          "productCode": "521917",
+          "price": 16.5
+        },
+        {
+          "code": "1960701",
+          "name": "麦当劳西安北大街地铁站下沉广场餐厅",
+          "distance": 1114,
+          "address": "北大街地铁站下沉广场",
+          "productCode": "521917",
+          "price": 16.5
+        },
+        {
+          "code": "1960737",
+          "name": "麦当劳西安合生汇餐厅",
+          "distance": 1177,
+          "address": "南大街合生汇",
+          "productCode": "521917",
+          "price": 16.5
+        }
+      ],
+      "storeCount": 3
+    },
+    {
       "name": "蘸酱脆皮鸡块4块",
       "price": 11.9,
       "priceRange": [
@@ -667,36 +705,6 @@
           "address": "南大街合生汇",
           "productCode": "9900016099",
           "price": 11.9
-        }
-      ],
-      "storeCount": 2
-    },
-    {
-      "name": "泷愿成真麦旋风——大米风味",
-      "price": 16.5,
-      "priceRange": null,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "第二份半价"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1960622",
-          "name": "麦当劳西安开元餐厅",
-          "distance": 152,
-          "address": "东大街解放市场6号首层",
-          "productCode": "521917",
-          "price": 16.5
-        },
-        {
-          "code": "1960737",
-          "name": "麦当劳西安合生汇餐厅",
-          "distance": 1177,
-          "address": "南大街合生汇",
-          "productCode": "521917",
-          "price": 16.5
         }
       ],
       "storeCount": 2

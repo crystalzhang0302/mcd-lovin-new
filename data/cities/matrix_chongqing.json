@@ -3,7 +3,7 @@
     "date": "2026-11-17",
     "city": "重庆市",
     "anchor": "解放碑",
-    "generatedAt": "2026-11-17 05:07:21",
+    "generatedAt": "2026-11-17 11:19:24",
     "stores": [
       {
         "code": "3450149",
@@ -201,7 +201,7 @@
       "storeCount": 4
     },
     {
-      "name": "麦乐鸡开心乐园餐",
+      "name": "鱼排堡开心乐园餐",
       "price": null,
       "priceRange": null,
       "category": "开心乐园",
@@ -217,7 +217,7 @@
           "name": "麦当劳重庆1089艺术美丽中心餐厅",
           "distance": 236,
           "address": "八一路53号负一层B01号、第一层103号",
-          "productCode": "9900016695",
+          "productCode": "9900016693",
           "price": null
         },
         {
@@ -225,7 +225,7 @@
           "name": "麦当劳重庆解放碑赛博城市餐厅",
           "distance": 346,
           "address": "解放碑街道民族路168号1层L1-2-1号",
-          "productCode": "9900016695",
+          "productCode": "9900016693",
           "price": null
         },
         {
@@ -233,19 +233,19 @@
           "name": "麦当劳重庆东原1891餐厅",
           "distance": 1717,
           "address": "南滨路80号附2号麦当劳餐厅",
-          "productCode": "9900016695",
+          "productCode": "9900016693",
           "price": null
         }
       ],
       "storeCount": 3
     },
     {
-      "name": "开心亲子双人餐",
+      "name": "汉堡开心乐园餐",
       "price": null,
       "priceRange": null,
       "category": "开心乐园",
       "tags": [
-        "开心亲子餐",
+        "开心乐园餐",
         "童年童款",
         "玩具上新啦"
       ],
@@ -256,7 +256,7 @@
           "name": "麦当劳重庆1089艺术美丽中心餐厅",
           "distance": 236,
           "address": "八一路53号负一层B01号、第一层103号",
-          "productCode": "9900016696",
+          "productCode": "9900016694",
           "price": null
         },
         {
@@ -264,7 +264,7 @@
           "name": "麦当劳重庆解放碑赛博城市餐厅",
           "distance": 346,
           "address": "解放碑街道民族路168号1层L1-2-1号",
-          "productCode": "9900016696",
+          "productCode": "9900016694",
           "price": null
         },
         {
@@ -272,7 +272,7 @@
           "name": "麦当劳重庆东原1891餐厅",
           "distance": 1717,
           "address": "南滨路80号附2号麦当劳餐厅",
-          "productCode": "9900016696",
+          "productCode": "9900016694",
           "price": null
         }
       ],
