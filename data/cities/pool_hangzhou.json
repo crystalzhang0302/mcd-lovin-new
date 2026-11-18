@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17 11:13:53",
-  "date": "2026-11-17",
+  "generated_at": "2026-11-18 04:04:02",
+  "date": "2026-11-18",
   "anchor": {
     "city": "杭州市",
     "keyword": "武林广场"
@@ -14,11 +14,11 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 108,
-    "tagged_new": 11,
+    "menu_total": 115,
+    "tagged_new": 8,
     "non_food_dropped": 0,
-    "food_new": 11,
-    "after_fold": 11
+    "food_new": 8,
+    "after_fold": 8
   },
   "dropped_non_food": [],
   "pool": [
@@ -92,30 +92,6 @@
       ]
     },
     {
-      "code": "9900016694",
-      "name": "汉堡开心乐园餐",
-      "price_fen": 2350,
-      "price_yuan": 23.5,
-      "category": "开心乐园",
-      "tags": [
-        "开心乐园餐",
-        "童年童款",
-        "玩具上新啦"
-      ]
-    },
-    {
-      "code": "9900016693",
-      "name": "鱼排堡开心乐园餐",
-      "price_fen": 2400,
-      "price_yuan": 24.0,
-      "category": "开心乐园",
-      "tags": [
-        "开心乐园餐",
-        "童年童款",
-        "玩具上新啦"
-      ]
-    },
-    {
       "code": "521950",
       "name": "蓝莓爆爆珠麦旋风",
       "price_fen": 1650,
@@ -135,16 +111,6 @@
       "tags": [
         "上新",
         "第二份半价"
-      ]
-    },
-    {
-      "code": "521817",
-      "name": "【美汁源】“多汁柠柠”",
-      "price_fen": 1200,
-      "price_yuan": 12.0,
-      "category": "饮品",
-      "tags": [
-        "上新"
       ]
     }
   ]

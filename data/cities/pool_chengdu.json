@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17 11:11:39",
-  "date": "2026-11-17",
+  "generated_at": "2026-11-18 04:02:31",
+  "date": "2026-11-18",
   "anchor": {
     "city": "成都市",
     "keyword": "春熙路"
@@ -14,11 +14,11 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 104,
-    "tagged_new": 9,
+    "menu_total": 107,
+    "tagged_new": 8,
     "non_food_dropped": 0,
-    "food_new": 9,
-    "after_fold": 9
+    "food_new": 8,
+    "after_fold": 8
   },
   "dropped_non_food": [],
   "pool": [
@@ -111,16 +111,6 @@
       "tags": [
         "上新",
         "第二份半价"
-      ]
-    },
-    {
-      "code": "521817",
-      "name": "【美汁源】“多汁柠柠”",
-      "price_fen": 1200,
-      "price_yuan": 12.0,
-      "category": "饮品",
-      "tags": [
-        "上新"
       ]
     }
   ]

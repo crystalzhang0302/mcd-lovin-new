@@ -1,9 +1,9 @@
 {
   "meta": {
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "city": "深圳市",
     "anchor": "华强北",
-    "generatedAt": "2026-11-17 11:11:15",
+    "generatedAt": "2026-11-18 04:02:09",
     "stores": [
       {
         "code": "1421180",
@@ -38,7 +38,7 @@
     ]
   },
   "stats": {
-    "raw_new": 19,
+    "raw_new": 16,
     "dropped_nonfood": [
       "薯条脆卜卜嘭嘭单肩包",
       "旋旋水手帽",
@@ -47,62 +47,9 @@
       "麦当劳联名徽章",
       "麦当劳限定丝巾"
     ],
-    "items": 13
+    "items": 10
   },
   "items": [
-    {
-      "name": "【美汁源】“多汁柠柠”",
-      "price": 12.0,
-      "priceRange": null,
-      "category": "饮品",
-      "tags": [
-        "上新"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1421180",
-          "name": "麦当劳深圳华强北茂业餐厅",
-          "distance": 127,
-          "address": "华强北路与振兴路交汇处东方时代广场（以下简称“建筑物”）的一部分，具体为负101，即-1层B01019X号商铺",
-          "productCode": "521817",
-          "price": 12.0
-        },
-        {
-          "code": "1420245",
-          "name": "麦当劳深圳振中路餐厅",
-          "distance": 169,
-          "address": "华强北路华强广场1栋101建筑物的一部分",
-          "productCode": "521817",
-          "price": 12.0
-        },
-        {
-          "code": "1420609",
-          "name": "麦当劳深圳中航城君尚餐厅",
-          "distance": 316,
-          "address": "华强北街道华航社区华富路1018号中航城君尚购物中心L116",
-          "productCode": "521817",
-          "price": 12.0
-        },
-        {
-          "code": "1420416",
-          "name": "麦当劳深圳中航路餐厅",
-          "distance": 385,
-          "address": "深南大道3018号世纪汇广场商场第一层124及125号商铺",
-          "productCode": "521817",
-          "price": 12.0
-        },
-        {
-          "code": "1420077",
-          "name": "麦当劳深圳华强北餐厅",
-          "distance": 430,
-          "address": "华强北上步工业区102栋部分一层、部分二层",
-          "productCode": "521817",
-          "price": 12.0
-        }
-      ],
-      "storeCount": 5
-    },
     {
       "name": "酥酥多笋卷",
       "price": 20.5,
@@ -159,116 +106,6 @@
       "storeCount": 5
     },
     {
-      "name": "汉堡开心乐园餐",
-      "price": 23.5,
-      "priceRange": null,
-      "category": "开心乐园",
-      "tags": [
-        "开心乐园餐",
-        "童年童款",
-        "玩具上新啦"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1421180",
-          "name": "麦当劳深圳华强北茂业餐厅",
-          "distance": 127,
-          "address": "华强北路与振兴路交汇处东方时代广场（以下简称“建筑物”）的一部分，具体为负101，即-1层B01019X号商铺",
-          "productCode": "9900016694",
-          "price": 23.5
-        },
-        {
-          "code": "1420245",
-          "name": "麦当劳深圳振中路餐厅",
-          "distance": 169,
-          "address": "华强北路华强广场1栋101建筑物的一部分",
-          "productCode": "9900016694",
-          "price": 23.5
-        },
-        {
-          "code": "1420609",
-          "name": "麦当劳深圳中航城君尚餐厅",
-          "distance": 316,
-          "address": "华强北街道华航社区华富路1018号中航城君尚购物中心L116",
-          "productCode": "9900016694",
-          "price": 23.5
-        },
-        {
-          "code": "1420416",
-          "name": "麦当劳深圳中航路餐厅",
-          "distance": 385,
-          "address": "深南大道3018号世纪汇广场商场第一层124及125号商铺",
-          "productCode": "9900016694",
-          "price": 23.5
-        },
-        {
-          "code": "1420077",
-          "name": "麦当劳深圳华强北餐厅",
-          "distance": 430,
-          "address": "华强北上步工业区102栋部分一层、部分二层",
-          "productCode": "9900016694",
-          "price": 23.5
-        }
-      ],
-      "storeCount": 5
-    },
-    {
-      "name": "鱼排堡开心乐园餐",
-      "price": 24.0,
-      "priceRange": null,
-      "category": "开心乐园",
-      "tags": [
-        "开心乐园餐",
-        "童年童款",
-        "玩具上新啦"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1421180",
-          "name": "麦当劳深圳华强北茂业餐厅",
-          "distance": 127,
-          "address": "华强北路与振兴路交汇处东方时代广场（以下简称“建筑物”）的一部分，具体为负101，即-1层B01019X号商铺",
-          "productCode": "9900016693",
-          "price": 24.0
-        },
-        {
-          "code": "1420245",
-          "name": "麦当劳深圳振中路餐厅",
-          "distance": 169,
-          "address": "华强北路华强广场1栋101建筑物的一部分",
-          "productCode": "9900016693",
-          "price": 24.0
-        },
-        {
-          "code": "1420609",
-          "name": "麦当劳深圳中航城君尚餐厅",
-          "distance": 316,
-          "address": "华强北街道华航社区华富路1018号中航城君尚购物中心L116",
-          "productCode": "9900016693",
-          "price": 24.0
-        },
-        {
-          "code": "1420416",
-          "name": "麦当劳深圳中航路餐厅",
-          "distance": 385,
-          "address": "深南大道3018号世纪汇广场商场第一层124及125号商铺",
-          "productCode": "9900016693",
-          "price": 24.0
-        },
-        {
-          "code": "1420077",
-          "name": "麦当劳深圳华强北餐厅",
-          "distance": 430,
-          "address": "华强北上步工业区102栋部分一层、部分二层",
-          "productCode": "9900016693",
-          "price": 24.0
-        }
-      ],
-      "storeCount": 5
-    },
-    {
       "name": "海陆双全堡",
       "price": 24.5,
       "priceRange": null,
@@ -318,61 +155,6 @@
           "address": "华强北上步工业区102栋部分一层、部分二层",
           "productCode": "522016",
           "price": 24.5
-        }
-      ],
-      "storeCount": 5
-    },
-    {
-      "name": "麦乐鸡开心乐园餐",
-      "price": 25.0,
-      "priceRange": null,
-      "category": "开心乐园",
-      "tags": [
-        "开心乐园餐",
-        "童年童款",
-        "玩具上新啦"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1421180",
-          "name": "麦当劳深圳华强北茂业餐厅",
-          "distance": 127,
-          "address": "华强北路与振兴路交汇处东方时代广场（以下简称“建筑物”）的一部分，具体为负101，即-1层B01019X号商铺",
-          "productCode": "9900016695",
-          "price": 25.0
-        },
-        {
-          "code": "1420245",
-          "name": "麦当劳深圳振中路餐厅",
-          "distance": 169,
-          "address": "华强北路华强广场1栋101建筑物的一部分",
-          "productCode": "9900016695",
-          "price": 25.0
-        },
-        {
-          "code": "1420609",
-          "name": "麦当劳深圳中航城君尚餐厅",
-          "distance": 316,
-          "address": "华强北街道华航社区华富路1018号中航城君尚购物中心L116",
-          "productCode": "9900016695",
-          "price": 25.0
-        },
-        {
-          "code": "1420416",
-          "name": "麦当劳深圳中航路餐厅",
-          "distance": 385,
-          "address": "深南大道3018号世纪汇广场商场第一层124及125号商铺",
-          "productCode": "9900016695",
-          "price": 25.0
-        },
-        {
-          "code": "1420077",
-          "name": "麦当劳深圳华强北餐厅",
-          "distance": 430,
-          "address": "华强北上步工业区102栋部分一层、部分二层",
-          "productCode": "9900016695",
-          "price": 25.0
         }
       ],
       "storeCount": 5
@@ -480,53 +262,6 @@
       "storeCount": 4
     },
     {
-      "name": "开心亲子双人餐",
-      "price": 59.5,
-      "priceRange": null,
-      "category": "开心乐园",
-      "tags": [
-        "开心亲子餐",
-        "童年童款",
-        "玩具上新啦"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1421180",
-          "name": "麦当劳深圳华强北茂业餐厅",
-          "distance": 127,
-          "address": "华强北路与振兴路交汇处东方时代广场（以下简称“建筑物”）的一部分，具体为负101，即-1层B01019X号商铺",
-          "productCode": "9900016696",
-          "price": 59.5
-        },
-        {
-          "code": "1420245",
-          "name": "麦当劳深圳振中路餐厅",
-          "distance": 169,
-          "address": "华强北路华强广场1栋101建筑物的一部分",
-          "productCode": "9900016696",
-          "price": 59.5
-        },
-        {
-          "code": "1420609",
-          "name": "麦当劳深圳中航城君尚餐厅",
-          "distance": 316,
-          "address": "华强北街道华航社区华富路1018号中航城君尚购物中心L116",
-          "productCode": "9900016696",
-          "price": 59.5
-        },
-        {
-          "code": "1420077",
-          "name": "麦当劳深圳华强北餐厅",
-          "distance": 430,
-          "address": "华强北上步工业区102栋部分一层、部分二层",
-          "productCode": "9900016696",
-          "price": 59.5
-        }
-      ],
-      "storeCount": 4
-    },
-    {
       "name": "蘸酱BFF四宫格小食盘",
       "price": 42.8,
       "priceRange": null,
@@ -618,6 +353,52 @@
           "address": "华强北路与振兴路交汇处东方时代广场（以下简称“建筑物”）的一部分，具体为负101，即-1层B01019X号商铺",
           "productCode": "9900016078",
           "price": 18.0
+        }
+      ],
+      "storeCount": 1
+    },
+    {
+      "name": "麦辣芝魂鸡腿汉堡",
+      "price": 24.5,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "单品",
+        "全新上市",
+        "奶辣交融"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1421180",
+          "name": "麦当劳深圳华强北茂业餐厅",
+          "distance": 127,
+          "address": "华强北路与振兴路交汇处东方时代广场（以下简称“建筑物”）的一部分，具体为负101，即-1层B01019X号商铺",
+          "productCode": "521494",
+          "price": 24.5
+        }
+      ],
+      "storeCount": 1
+    },
+    {
+      "name": "麦辣芝魂鸡腿汉堡三件套",
+      "price": 27.9,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "全新上市",
+        "奶辣交融"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1421180",
+          "name": "麦当劳深圳华强北茂业餐厅",
+          "distance": 127,
+          "address": "华强北路与振兴路交汇处东方时代广场（以下简称“建筑物”）的一部分，具体为负101，即-1层B01019X号商铺",
+          "productCode": "9900013440",
+          "price": 27.9
         }
       ],
       "storeCount": 1

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17 11:18:36",
-  "date": "2026-11-17",
+  "generated_at": "2026-11-18 04:07:27",
+  "date": "2026-11-18",
   "anchor": {
     "city": "重庆市",
     "keyword": "解放碑"
@@ -14,11 +14,11 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 86,
-    "tagged_new": 6,
+    "menu_total": 98,
+    "tagged_new": 5,
     "non_food_dropped": 2,
-    "food_new": 4,
-    "after_fold": 4
+    "food_new": 3,
+    "after_fold": 3
   },
   "dropped_non_food": [
     "旋旋水手帽",
@@ -57,16 +57,6 @@
         "套餐",
         "新升级",
         "更多汁"
-      ]
-    },
-    {
-      "code": "521817",
-      "name": "【美汁源】“多汁柠柠”",
-      "price_fen": 1350,
-      "price_yuan": 13.5,
-      "category": "饮品",
-      "tags": [
-        "上新"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17 11:04:00",
-  "date": "2026-11-17",
+  "generated_at": "2026-11-18 03:56:58",
+  "date": "2026-11-18",
   "anchor": {
     "city": "上海市",
     "keyword": "人民广场"
@@ -14,11 +14,11 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 113,
-    "tagged_new": 14,
+    "menu_total": 114,
+    "tagged_new": 9,
     "non_food_dropped": 1,
-    "food_new": 13,
-    "after_fold": 13
+    "food_new": 8,
+    "after_fold": 8
   },
   "dropped_non_food": [
     "旋旋水手帽"
@@ -72,54 +72,6 @@
       ]
     },
     {
-      "code": "9900016694",
-      "name": "汉堡开心乐园餐",
-      "price_fen": 2350,
-      "price_yuan": 23.5,
-      "category": "开心乐园",
-      "tags": [
-        "开心乐园餐",
-        "童年童款",
-        "玩具上新啦"
-      ]
-    },
-    {
-      "code": "9900016693",
-      "name": "鱼排堡开心乐园餐",
-      "price_fen": 2400,
-      "price_yuan": 24.0,
-      "category": "开心乐园",
-      "tags": [
-        "开心乐园餐",
-        "童年童款",
-        "玩具上新啦"
-      ]
-    },
-    {
-      "code": "9900016695",
-      "name": "麦乐鸡开心乐园餐",
-      "price_fen": 2500,
-      "price_yuan": 25.0,
-      "category": "开心乐园",
-      "tags": [
-        "开心乐园餐",
-        "童年童款",
-        "玩具上新啦"
-      ]
-    },
-    {
-      "code": "9900016696",
-      "name": "开心亲子双人餐",
-      "price_fen": 5950,
-      "price_yuan": 59.5,
-      "category": "开心乐园",
-      "tags": [
-        "开心亲子餐",
-        "童年童款",
-        "玩具上新啦"
-      ]
-    },
-    {
       "code": "521950",
       "name": "蓝莓爆爆珠麦旋风",
       "price_fen": 1650,
@@ -161,16 +113,6 @@
       "tags": [
         "上新",
         "奶昔回归"
-      ]
-    },
-    {
-      "code": "521817",
-      "name": "【美汁源】“多汁柠柠”",
-      "price_fen": 1200,
-      "price_yuan": 12.0,
-      "category": "饮品",
-      "tags": [
-        "上新"
       ]
     }
   ]
