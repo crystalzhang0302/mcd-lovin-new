@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18 04:07:27",
+  "generated_at": "2026-11-18 10:48:43",
   "date": "2026-11-18",
   "anchor": {
     "city": "重庆市",
@@ -14,7 +14,7 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 98,
+    "menu_total": 93,
     "tagged_new": 5,
     "non_food_dropped": 2,
     "food_new": 3,

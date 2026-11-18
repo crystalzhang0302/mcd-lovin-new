@@ -3,7 +3,7 @@
     "date": "2026-11-18",
     "city": "成都市",
     "anchor": "春熙路",
-    "generatedAt": "2026-11-18 04:03:38",
+    "generatedAt": "2026-11-18 10:44:54",
     "stores": [
       {
         "code": "3450410",
@@ -38,7 +38,7 @@
     ]
   },
   "stats": {
-    "raw_new": 11,
+    "raw_new": 12,
     "dropped_nonfood": [
       "薯条脆卜卜嘭嘭单肩包",
       "旋旋水手帽",
@@ -280,43 +280,48 @@
       "storeCount": 4
     },
     {
-      "name": "板烧鸡腿堡三件套",
-      "price": 34.5,
-      "priceRange": null,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "套餐",
-        "新升级",
-        "更多汁"
+      "name": "蘸酱脆皮鸡块4块",
+      "price": 11.9,
+      "priceRange": [
+        11.9,
+        19.9
       ],
-      "variants": null,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
+      ],
+      "variants": [
+        {
+          "name": "蘸酱脆皮鸡块4块",
+          "code": "9900016099",
+          "price": 11.9
+        },
+        {
+          "name": "蘸酱脆皮鸡块8块",
+          "code": "9900016308",
+          "price": 19.9
+        }
+      ],
       "stores": [
         {
           "code": "3450410",
           "name": "麦当劳成都锦江区联升巷(京都大厦)餐厅",
           "distance": 173,
           "address": "大科甲巷43号1栋1楼1号（自编号L10号）及2楼1号（自编号L210号）",
-          "productCode": "9900005462",
-          "price": 34.5
+          "productCode": "9900016099",
+          "price": 11.9
         },
         {
           "code": "3450069",
           "name": "麦当劳成都第一城餐厅",
           "distance": 299,
           "address": "小科甲巷１号二层30、31号商铺（IFS）对面",
-          "productCode": "9900005462",
-          "price": 34.5
-        },
-        {
-          "code": "3450043",
-          "name": "麦当劳成都壹购广场餐厅",
-          "distance": 344,
-          "address": "东大街上东大街段１３３号壹购潮流广场",
-          "productCode": "9900005462",
-          "price": 34.5
+          "productCode": "9900016099",
+          "price": 11.9
         }
       ],
-      "storeCount": 3
+      "storeCount": 2
     },
     {
       "name": "柠檬脆脆麦旋风",

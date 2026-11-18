@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18 04:02:31",
+  "generated_at": "2026-11-18 10:43:36",
   "date": "2026-11-18",
   "anchor": {
     "city": "成都市",
@@ -14,14 +14,29 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 107,
-    "tagged_new": 8,
+    "menu_total": 104,
+    "tagged_new": 9,
     "non_food_dropped": 0,
-    "food_new": 8,
+    "food_new": 9,
     "after_fold": 8
   },
   "dropped_non_food": [],
   "pool": [
+    {
+      "code": "9900016308",
+      "name": "蘸酱脆皮鸡块",
+      "price_fen": 1990,
+      "price_yuan": 19.9,
+      "category": "小食拼盘/多人餐",
+      "tags": [
+        "上新",
+        "蘸酱炸鸡新吃法"
+      ],
+      "variants": [
+        "蘸酱脆皮鸡块8块",
+        "蘸酱脆皮鸡块4块"
+      ]
+    },
     {
       "code": "9900016078",
       "name": "蘸酱麦麦脆汁鸡",
@@ -53,18 +68,6 @@
       "tags": [
         "上新",
         "全新海陆双全来袭"
-      ]
-    },
-    {
-      "code": "9900005462",
-      "name": "板烧鸡腿堡三件套",
-      "price_fen": 3450,
-      "price_yuan": 34.5,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "套餐",
-        "新升级",
-        "更多汁"
       ]
     },
     {
