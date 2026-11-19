@@ -1,9 +1,9 @@
 {
   "meta": {
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "city": "南京市",
     "anchor": "新街口",
-    "generatedAt": "2026-11-18 10:47:09",
+    "generatedAt": "2026-11-19 04:02:53",
     "stores": [
       {
         "code": "1990346",
@@ -311,6 +311,82 @@
       "storeCount": 4
     },
     {
+      "name": "蘸酱韩式甜辣酱鸡块",
+      "price": 11.9,
+      "priceRange": null,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1990346",
+          "name": "麦当劳南京新百餐厅",
+          "distance": 182,
+          "address": "中山南路1号A座负一层G-A-025号商铺",
+          "productCode": "9900016096",
+          "price": 11.9
+        },
+        {
+          "code": "1990043",
+          "name": "麦当劳南京洪武餐厅",
+          "distance": 519,
+          "address": "洪武路119号",
+          "productCode": "9900016096",
+          "price": 11.9
+        },
+        {
+          "code": "1990100",
+          "name": "麦当劳南京汉中路餐厅",
+          "distance": 740,
+          "address": "白下区汉中路139-7号环亚广场一楼麦当劳",
+          "productCode": "9900016096",
+          "price": 11.9
+        }
+      ],
+      "storeCount": 3
+    },
+    {
+      "name": "蘸酱麦麦脆汁鸡",
+      "price": 18.0,
+      "priceRange": null,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1990346",
+          "name": "麦当劳南京新百餐厅",
+          "distance": 182,
+          "address": "中山南路1号A座负一层G-A-025号商铺",
+          "productCode": "9900016078",
+          "price": 18.0
+        },
+        {
+          "code": "1990043",
+          "name": "麦当劳南京洪武餐厅",
+          "distance": 519,
+          "address": "洪武路119号",
+          "productCode": "9900016078",
+          "price": 18.0
+        },
+        {
+          "code": "1990100",
+          "name": "麦当劳南京汉中路餐厅",
+          "distance": 740,
+          "address": "白下区汉中路139-7号环亚广场一楼麦当劳",
+          "productCode": "9900016078",
+          "price": 18.0
+        }
+      ],
+      "storeCount": 3
+    },
+    {
       "name": "韩式甜辣酱鸡块8块",
       "price": 19.9,
       "priceRange": null,
@@ -349,66 +425,6 @@
       "storeCount": 3
     },
     {
-      "name": "蘸酱韩式甜辣酱鸡块",
-      "price": 11.9,
-      "priceRange": null,
-      "category": "蘸酱炸鸡",
-      "tags": [
-        "蘸酱炸鸡",
-        "蘸酱炸鸡新吃法"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1990346",
-          "name": "麦当劳南京新百餐厅",
-          "distance": 182,
-          "address": "中山南路1号A座负一层G-A-025号商铺",
-          "productCode": "9900016096",
-          "price": 11.9
-        },
-        {
-          "code": "1990043",
-          "name": "麦当劳南京洪武餐厅",
-          "distance": 519,
-          "address": "洪武路119号",
-          "productCode": "9900016096",
-          "price": 11.9
-        }
-      ],
-      "storeCount": 2
-    },
-    {
-      "name": "蘸酱麦麦脆汁鸡",
-      "price": 18.0,
-      "priceRange": null,
-      "category": "蘸酱炸鸡",
-      "tags": [
-        "蘸酱炸鸡",
-        "蘸酱炸鸡新吃法"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1990346",
-          "name": "麦当劳南京新百餐厅",
-          "distance": 182,
-          "address": "中山南路1号A座负一层G-A-025号商铺",
-          "productCode": "9900016078",
-          "price": 18.0
-        },
-        {
-          "code": "1990043",
-          "name": "麦当劳南京洪武餐厅",
-          "distance": 519,
-          "address": "洪武路119号",
-          "productCode": "9900016078",
-          "price": 18.0
-        }
-      ],
-      "storeCount": 2
-    },
-    {
       "name": "蘸酱BFF四宫格小食盘",
       "price": 43.3,
       "priceRange": null,
@@ -434,9 +450,17 @@
           "address": "洪武路119号",
           "productCode": "9900015729",
           "price": 43.3
+        },
+        {
+          "code": "1990100",
+          "name": "麦当劳南京汉中路餐厅",
+          "distance": 740,
+          "address": "白下区汉中路139-7号环亚广场一楼麦当劳",
+          "productCode": "9900015729",
+          "price": 43.3
         }
       ],
-      "storeCount": 2
+      "storeCount": 3
     },
     {
       "name": "麦当劳奶昔",
