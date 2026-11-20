@@ -1,11 +1,11 @@
 window.NEW_DATA = {
  "meta": {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "city": "上海市",
   "anchor": "人民广场",
   "poolAt": "shanghai",
-  "matrixAt": "2026-11-19 10:43:58",
-  "generatedAt": "2026-11-19 10:55:51",
+  "matrixAt": "2026-11-20 03:47:39",
+  "generatedAt": "2026-11-20 03:58:35",
   "stores": [
    {
     "code": "1450713",
