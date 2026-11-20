@@ -4,8 +4,8 @@ window.NEW_DATA = {
   "city": "上海市",
   "anchor": "人民广场",
   "poolAt": "shanghai",
-  "matrixAt": "2026-11-20 03:47:39",
-  "generatedAt": "2026-11-20 03:58:36",
+  "matrixAt": "2026-11-20 10:24:49",
+  "generatedAt": "2026-11-20 10:37:13",
   "stores": [
    {
     "code": "1450713",
