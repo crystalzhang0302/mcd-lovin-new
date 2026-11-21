@@ -4,8 +4,8 @@ window.NEW_DATA = {
   "city": "深圳市",
   "anchor": "华强北",
   "poolAt": "shenzhen",
-  "matrixAt": "2026-11-21 03:42:50",
-  "generatedAt": "2026-11-21 03:48:44",
+  "matrixAt": "2026-11-21 10:12:37",
+  "generatedAt": "2026-11-21 10:19:01",
   "stores": [
    {
     "code": "1421180",

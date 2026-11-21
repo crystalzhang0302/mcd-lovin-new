@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21 03:48:10",
+  "generated_at": "2026-11-21 10:18:26",
   "date": "2026-11-21",
   "anchor": {
     "city": "嘉兴市",
@@ -14,7 +14,7 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 93,
+    "menu_total": 98,
     "tagged_new": 5,
     "non_food_dropped": 1,
     "food_new": 4,

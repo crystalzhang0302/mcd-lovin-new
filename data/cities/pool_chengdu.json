@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21 03:43:03",
+  "generated_at": "2026-11-21 10:12:50",
   "date": "2026-11-21",
   "anchor": {
     "city": "成都市",
@@ -14,7 +14,7 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 117,
+    "menu_total": 116,
     "tagged_new": 8,
     "non_food_dropped": 0,
     "food_new": 8,
