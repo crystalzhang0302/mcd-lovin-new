@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20 10:28:09",
-  "date": "2026-11-20",
+  "generated_at": "2026-11-21 03:42:14",
+  "date": "2026-11-21",
   "anchor": {
     "city": "深圳市",
     "keyword": "华强北"
@@ -14,7 +14,7 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 119,
+    "menu_total": 126,
     "tagged_new": 13,
     "non_food_dropped": 5,
     "food_new": 8,
