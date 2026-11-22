@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22 02:45:28",
+  "generated_at": "2026-11-22 10:13:08",
   "date": "2026-11-22",
   "anchor": {
     "city": "北京市",
@@ -16,13 +16,12 @@
   "stats": {
     "menu_total": 132,
     "tagged_new": 11,
-    "non_food_dropped": 2,
+    "non_food_dropped": 1,
     "food_new": 9,
     "after_fold": 9
   },
   "dropped_non_food": [
-    "麦当劳限定丝巾",
-    "薯条脆卜卜嘭嘭单肩包"
+    "麦当劳限定丝巾"
   ],
   "pool": [
     {

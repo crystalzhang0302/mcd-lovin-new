@@ -3,7 +3,7 @@
     "date": "2026-11-22",
     "city": "成都市",
     "anchor": "春熙路",
-    "generatedAt": "2026-11-22 02:49:42",
+    "generatedAt": "2026-11-22 10:18:03",
     "stores": [
       {
         "code": "3450410",
@@ -235,44 +235,6 @@
       "storeCount": 4
     },
     {
-      "name": "蓝莓爆爆珠麦旋风",
-      "price": 16.5,
-      "priceRange": null,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "第二份半价"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "3450410",
-          "name": "麦当劳成都锦江区联升巷(京都大厦)餐厅",
-          "distance": 173,
-          "address": "大科甲巷43号1栋1楼1号（自编号L10号）及2楼1号（自编号L210号）",
-          "productCode": "521950",
-          "price": 16.5
-        },
-        {
-          "code": "3450069003",
-          "name": "成都锦江区春熙路地铁站快捷小站",
-          "distance": 293,
-          "address": "春熙路地铁站D1号商铺",
-          "productCode": "521950",
-          "price": 16.5
-        },
-        {
-          "code": "3450069",
-          "name": "麦当劳成都第一城餐厅",
-          "distance": 299,
-          "address": "小科甲巷１号二层30、31号商铺（IFS）对面",
-          "productCode": "521950",
-          "price": 16.5
-        }
-      ],
-      "storeCount": 3
-    },
-    {
       "name": "蘸酱BFF四宫格小食盘",
       "price": 41.8,
       "priceRange": null,
@@ -379,6 +341,36 @@
           "distance": 288,
           "address": "总府路1号茂业百货二层1号内部铺位号9F02001X商铺",
           "productCode": "521836",
+          "price": 16.5
+        }
+      ],
+      "storeCount": 2
+    },
+    {
+      "name": "蓝莓爆爆珠麦旋风",
+      "price": 16.5,
+      "priceRange": null,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "第二份半价"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "3450410",
+          "name": "麦当劳成都锦江区联升巷(京都大厦)餐厅",
+          "distance": 173,
+          "address": "大科甲巷43号1栋1楼1号（自编号L10号）及2楼1号（自编号L210号）",
+          "productCode": "521950",
+          "price": 16.5
+        },
+        {
+          "code": "3450069003",
+          "name": "成都锦江区春熙路地铁站快捷小站",
+          "distance": 293,
+          "address": "春熙路地铁站D1号商铺",
+          "productCode": "521950",
           "price": 16.5
         }
       ],

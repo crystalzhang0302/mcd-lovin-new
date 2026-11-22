@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22 02:46:28",
+  "generated_at": "2026-11-22 10:14:20",
   "date": "2026-11-22",
   "anchor": {
     "city": "广州市",
@@ -14,11 +14,11 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 114,
-    "tagged_new": 13,
+    "menu_total": 116,
+    "tagged_new": 14,
     "non_food_dropped": 5,
-    "food_new": 7,
-    "after_fold": 7
+    "food_new": 8,
+    "after_fold": 8
   },
   "dropped_non_food": [
     "麦当劳限定丝巾",
@@ -48,6 +48,18 @@
       "tags": [
         "上新",
         "全新海陆双全来袭"
+      ]
+    },
+    {
+      "code": "9900005462",
+      "name": "板烧鸡腿堡三件套",
+      "price_fen": 3450,
+      "price_yuan": 34.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "新升级",
+        "更多汁"
       ]
     },
     {

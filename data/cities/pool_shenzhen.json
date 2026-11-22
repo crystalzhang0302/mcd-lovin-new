@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22 02:47:43",
+  "generated_at": "2026-11-22 10:15:42",
   "date": "2026-11-22",
   "anchor": {
     "city": "深圳市",
@@ -14,11 +14,11 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 119,
-    "tagged_new": 11,
+    "menu_total": 128,
+    "tagged_new": 13,
     "non_food_dropped": 5,
-    "food_new": 6,
-    "after_fold": 6
+    "food_new": 8,
+    "after_fold": 8
   },
   "dropped_non_food": [
     "麦当劳限定丝巾",
@@ -95,6 +95,28 @@
         "单品",
         "全新升级",
         "川香风味"
+      ]
+    },
+    {
+      "code": "521951",
+      "name": "灰焰圆筒",
+      "price_fen": 500,
+      "price_yuan": 5.0,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "灰焰"
+      ]
+    },
+    {
+      "code": "521836",
+      "name": "柠檬脆脆麦旋风",
+      "price_fen": 1650,
+      "price_yuan": 16.5,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "第二份半价"
       ]
     }
   ]
