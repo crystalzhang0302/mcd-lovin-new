@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21 10:08:18",
-  "date": "2026-11-21",
+  "generated_at": "2026-11-22 02:44:27",
+  "date": "2026-11-22",
   "anchor": {
     "city": "上海市",
     "keyword": "人民广场"
@@ -14,7 +14,7 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 121,
+    "menu_total": 123,
     "tagged_new": 9,
     "non_food_dropped": 1,
     "food_new": 8,

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "city": "武汉市",
     "anchor": "江汉路",
-    "generatedAt": "2026-11-21 10:16:48",
+    "generatedAt": "2026-11-22 02:52:33",
     "stores": [
       {
         "code": "1960008",
@@ -268,52 +268,6 @@
       "storeCount": 5
     },
     {
-      "name": "蘸酱韩式甜辣酱鸡块",
-      "price": 11.9,
-      "priceRange": null,
-      "category": "蘸酱炸鸡",
-      "tags": [
-        "蘸酱炸鸡",
-        "蘸酱炸鸡新吃法"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1960008",
-          "name": "麦当劳武汉HAPPY站台餐厅(江汉路地铁H出口)",
-          "distance": 144,
-          "address": "中山大道888号新佳丽广场负一楼happy站台",
-          "productCode": "9900016096",
-          "price": 11.9
-        },
-        {
-          "code": "1960138",
-          "name": "麦当劳武汉江汉路大汉口餐厅",
-          "distance": 149,
-          "address": "水塔街中山大道539号",
-          "productCode": "9900016096",
-          "price": 11.9
-        },
-        {
-          "code": "1960073",
-          "name": "麦当劳武汉宝利金餐厅",
-          "distance": 169,
-          "address": "花楼街198号宝利金国际广场二期四座一层１－２号，二层１－４、30-34号商铺",
-          "productCode": "9900016096",
-          "price": 11.9
-        },
-        {
-          "code": "1960258",
-          "name": "麦当劳武汉民众乐园餐厅",
-          "distance": 610,
-          "address": "中山大道704号",
-          "productCode": "9900016096",
-          "price": 11.9
-        }
-      ],
-      "storeCount": 4
-    },
-    {
       "name": "蘸酱麦麦脆汁鸡",
       "price": 18.0,
       "priceRange": null,
@@ -360,6 +314,44 @@
       "storeCount": 4
     },
     {
+      "name": "蘸酱韩式甜辣酱鸡块",
+      "price": 11.9,
+      "priceRange": null,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1960008",
+          "name": "麦当劳武汉HAPPY站台餐厅(江汉路地铁H出口)",
+          "distance": 144,
+          "address": "中山大道888号新佳丽广场负一楼happy站台",
+          "productCode": "9900016096",
+          "price": 11.9
+        },
+        {
+          "code": "1960138",
+          "name": "麦当劳武汉江汉路大汉口餐厅",
+          "distance": 149,
+          "address": "水塔街中山大道539号",
+          "productCode": "9900016096",
+          "price": 11.9
+        },
+        {
+          "code": "1960258",
+          "name": "麦当劳武汉民众乐园餐厅",
+          "distance": 610,
+          "address": "中山大道704号",
+          "productCode": "9900016096",
+          "price": 11.9
+        }
+      ],
+      "storeCount": 3
+    },
+    {
       "name": "韩式甜辣酱鸡块8块",
       "price": 19.9,
       "priceRange": null,
@@ -387,14 +379,6 @@
           "price": 19.9
         },
         {
-          "code": "1960073",
-          "name": "麦当劳武汉宝利金餐厅",
-          "distance": 169,
-          "address": "花楼街198号宝利金国际广场二期四座一层１－２号，二层１－４、30-34号商铺",
-          "productCode": "9900015726",
-          "price": 19.9
-        },
-        {
           "code": "1960258",
           "name": "麦当劳武汉民众乐园餐厅",
           "distance": 610,
@@ -403,7 +387,7 @@
           "price": 19.9
         }
       ],
-      "storeCount": 4
+      "storeCount": 3
     },
     {
       "name": "柠檬脆脆麦旋风",

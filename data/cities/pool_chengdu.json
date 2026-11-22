@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21 10:12:50",
-  "date": "2026-11-21",
+  "generated_at": "2026-11-22 02:48:44",
+  "date": "2026-11-22",
   "anchor": {
     "city": "成都市",
     "keyword": "春熙路"
@@ -14,11 +14,11 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 116,
-    "tagged_new": 8,
+    "menu_total": 118,
+    "tagged_new": 9,
     "non_food_dropped": 0,
-    "food_new": 8,
-    "after_fold": 7
+    "food_new": 9,
+    "after_fold": 8
   },
   "dropped_non_food": [],
   "pool": [
@@ -38,21 +38,10 @@
       ]
     },
     {
-      "code": "9900016078",
-      "name": "蘸酱麦麦脆汁鸡",
-      "price_fen": 1800,
-      "price_yuan": 18.0,
-      "category": "蘸酱炸鸡",
-      "tags": [
-        "蘸酱炸鸡",
-        "蘸酱炸鸡新吃法"
-      ]
-    },
-    {
       "code": "9900015729",
       "name": "蘸酱BFF四宫格小食盘",
-      "price_fen": 4280,
-      "price_yuan": 42.8,
+      "price_fen": 4180,
+      "price_yuan": 41.8,
       "category": "蘸酱炸鸡",
       "tags": [
         "蘸酱炸鸡",
@@ -80,6 +69,30 @@
         "套餐",
         "新升级",
         "更多汁"
+      ]
+    },
+    {
+      "code": "9900015008",
+      "name": "酥酥多笋卷三件套",
+      "price_fen": 3200,
+      "price_yuan": 32.0,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "全新升级",
+        "川香风味"
+      ]
+    },
+    {
+      "code": "522032",
+      "name": "酥酥多笋卷",
+      "price_fen": 2100,
+      "price_yuan": 21.0,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "单品",
+        "全新升级",
+        "川香风味"
       ]
     },
     {

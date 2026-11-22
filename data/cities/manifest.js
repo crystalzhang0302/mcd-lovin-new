@@ -1,11 +1,11 @@
 window.CITY_MANIFEST = {
- "generatedAt": "2026-11-21 10:19:01",
+ "generatedAt": "2026-11-22 02:54:47",
  "default": "shanghai",
  "cities": [
   {
    "slug": "shanghai",
    "name": "上海",
-   "size_kb": 8
+   "size_kb": 9
   },
   {
    "slug": "beijing",
@@ -15,17 +15,17 @@ window.CITY_MANIFEST = {
   {
    "slug": "guangzhou",
    "name": "广州",
-   "size_kb": 11
+   "size_kb": 8
   },
   {
    "slug": "shenzhen",
    "name": "深圳",
-   "size_kb": 10
+   "size_kb": 9
   },
   {
    "slug": "chengdu",
    "name": "成都",
-   "size_kb": 8
+   "size_kb": 10
   },
   {
    "slug": "hangzhou",
