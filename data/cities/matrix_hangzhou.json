@@ -1,9 +1,9 @@
 {
   "meta": {
-    "date": "2026-11-22",
+    "date": "2026-11-23",
     "city": "杭州市",
     "anchor": "武林广场",
-    "generatedAt": "2026-11-22 10:18:49",
+    "generatedAt": "2026-11-23 03:29:10",
     "stores": [
       {
         "code": "3330387",
@@ -290,14 +290,6 @@
           "price": 16.5
         },
         {
-          "code": "3330629",
-          "name": "麦当劳杭州拱墅区集合大厦餐厅",
-          "distance": 1273,
-          "address": "文晖路与莫干山路交叉口集合大厦",
-          "productCode": "521917",
-          "price": 16.5
-        },
-        {
           "code": "3330489",
           "name": "麦当劳杭州拱墅区茶叶大厦餐厅",
           "distance": 1368,
@@ -306,7 +298,7 @@
           "price": 16.5
         }
       ],
-      "storeCount": 4
+      "storeCount": 3
     },
     {
       "name": "蓝莓爆爆珠麦旋风",
@@ -334,17 +326,9 @@
           "address": "朝晖路203号绿城深蓝广场1楼",
           "productCode": "521950",
           "price": 16.5
-        },
-        {
-          "code": "3330629",
-          "name": "麦当劳杭州拱墅区集合大厦餐厅",
-          "distance": 1273,
-          "address": "文晖路与莫干山路交叉口集合大厦",
-          "productCode": "521950",
-          "price": 16.5
         }
       ],
-      "storeCount": 3
+      "storeCount": 2
     }
   ]
 }

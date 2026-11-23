@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-22 10:14:20",
-  "date": "2026-11-22",
+  "generated_at": "2026-11-23 03:24:30",
+  "date": "2026-11-23",
   "anchor": {
     "city": "广州市",
     "keyword": "体育西路"
@@ -14,11 +14,11 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 116,
-    "tagged_new": 14,
+    "menu_total": 102,
+    "tagged_new": 13,
     "non_food_dropped": 5,
-    "food_new": 8,
-    "after_fold": 8
+    "food_new": 7,
+    "after_fold": 7
   },
   "dropped_non_food": [
     "麦当劳限定丝巾",
@@ -28,17 +28,6 @@
     "“葱不求人”按摩捶痒痒挠"
   ],
   "pool": [
-    {
-      "code": "9900015726",
-      "name": "韩式甜辣酱鸡块",
-      "price_fen": 1990,
-      "price_yuan": 19.9,
-      "category": "小食拼盘/多人餐",
-      "tags": [
-        "上新",
-        "韩式风味"
-      ]
-    },
     {
       "code": "522016",
       "name": "海陆双全堡",
