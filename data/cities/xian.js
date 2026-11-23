@@ -4,8 +4,8 @@ window.NEW_DATA = {
   "city": "西安市",
   "anchor": "钟楼",
   "poolAt": "xian",
-  "matrixAt": "2026-11-23 03:33:04",
-  "generatedAt": "2026-11-23 03:33:57",
+  "matrixAt": "2026-11-23 11:18:12",
+  "generatedAt": "2026-11-23 11:19:00",
   "stores": [
    {
     "code": "1960622",

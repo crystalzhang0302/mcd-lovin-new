@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23 03:26:57",
+  "generated_at": "2026-11-23 11:13:10",
   "date": "2026-11-23",
   "anchor": {
     "city": "成都市",
@@ -14,11 +14,11 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 106,
-    "tagged_new": 7,
+    "menu_total": 103,
+    "tagged_new": 10,
     "non_food_dropped": 0,
-    "food_new": 7,
-    "after_fold": 6
+    "food_new": 10,
+    "after_fold": 9
   },
   "dropped_non_food": [],
   "pool": [
@@ -68,6 +68,42 @@
       "tags": [
         "上新",
         "全新海陆双全来袭"
+      ]
+    },
+    {
+      "code": "9900005462",
+      "name": "板烧鸡腿堡三件套",
+      "price_fen": 3450,
+      "price_yuan": 34.5,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "新升级",
+        "更多汁"
+      ]
+    },
+    {
+      "code": "9900015008",
+      "name": "酥酥多笋卷三件套",
+      "price_fen": 3200,
+      "price_yuan": 32.0,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "全新升级",
+        "川香风味"
+      ]
+    },
+    {
+      "code": "522032",
+      "name": "酥酥多笋卷",
+      "price_fen": 2100,
+      "price_yuan": 21.0,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "单品",
+        "全新升级",
+        "川香风味"
       ]
     },
     {
