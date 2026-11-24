@@ -1,9 +1,9 @@
 {
   "meta": {
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "city": "上海市",
     "anchor": "人民广场",
-    "generatedAt": "2026-11-23 11:09:38",
+    "generatedAt": "2026-11-24 06:37:04",
     "stores": [
       {
         "code": "1450713",
@@ -38,11 +38,11 @@
     ]
   },
   "stats": {
-    "raw_new": 9,
+    "raw_new": 10,
     "dropped_nonfood": [
       "旋旋水手帽"
     ],
-    "items": 8
+    "items": 9
   },
   "items": [
     {
@@ -311,6 +311,66 @@
       "storeCount": 4
     },
     {
+      "name": "蘸酱麦麦脆汁鸡",
+      "price": 18.0,
+      "priceRange": null,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1450713",
+          "name": "麦当劳上海黄浦华旭国际大厦餐厅",
+          "distance": 144,
+          "address": "南京东路街道西藏中路336号",
+          "productCode": "9900016078",
+          "price": 18.0
+        },
+        {
+          "code": "1450441",
+          "name": "麦当劳上海福州路餐厅",
+          "distance": 235,
+          "address": "福州路666号",
+          "productCode": "9900016078",
+          "price": 18.0
+        }
+      ],
+      "storeCount": 2
+    },
+    {
+      "name": "蘸酱BFF四宫格小食盘",
+      "price": 42.8,
+      "priceRange": null,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1450713",
+          "name": "麦当劳上海黄浦华旭国际大厦餐厅",
+          "distance": 144,
+          "address": "南京东路街道西藏中路336号",
+          "productCode": "9900015729",
+          "price": 42.8
+        },
+        {
+          "code": "1450441",
+          "name": "麦当劳上海福州路餐厅",
+          "distance": 235,
+          "address": "福州路666号",
+          "productCode": "9900015729",
+          "price": 42.8
+        }
+      ],
+      "storeCount": 2
+    },
+    {
       "name": "灰焰圆筒",
       "price": 5.0,
       "priceRange": null,
@@ -349,28 +409,6 @@
           "address": "南京东路街道西藏中路336号",
           "productCode": "9900014092",
           "price": 15.0
-        }
-      ],
-      "storeCount": 1
-    },
-    {
-      "name": "蓝莓爆爆珠麦旋风",
-      "price": 16.5,
-      "priceRange": null,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "第二份半价"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1450713",
-          "name": "麦当劳上海黄浦华旭国际大厦餐厅",
-          "distance": 144,
-          "address": "南京东路街道西藏中路336号",
-          "productCode": "521950",
-          "price": 16.5
         }
       ],
       "storeCount": 1

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-23 11:08:56",
-  "date": "2026-11-23",
+  "generated_at": "2026-11-24 06:36:11",
+  "date": "2026-11-24",
   "anchor": {
     "city": "上海市",
     "keyword": "人民广场"
@@ -14,16 +14,38 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 113,
-    "tagged_new": 9,
+    "menu_total": 119,
+    "tagged_new": 10,
     "non_food_dropped": 1,
-    "food_new": 8,
-    "after_fold": 8
+    "food_new": 9,
+    "after_fold": 9
   },
   "dropped_non_food": [
     "旋旋水手帽"
   ],
   "pool": [
+    {
+      "code": "9900016078",
+      "name": "蘸酱麦麦脆汁鸡",
+      "price_fen": 1800,
+      "price_yuan": 18.0,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
+      ]
+    },
+    {
+      "code": "9900015729",
+      "name": "蘸酱BFF四宫格小食盘",
+      "price_fen": 4280,
+      "price_yuan": 42.8,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
+      ]
+    },
     {
       "code": "522016",
       "name": "海陆双全堡",
@@ -69,17 +91,6 @@
         "单品",
         "全新升级",
         "川香风味"
-      ]
-    },
-    {
-      "code": "521950",
-      "name": "蓝莓爆爆珠麦旋风",
-      "price_fen": 1650,
-      "price_yuan": 16.5,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "第二份半价"
       ]
     },
     {

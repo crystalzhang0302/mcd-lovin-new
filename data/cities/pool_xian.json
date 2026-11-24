@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-23 11:17:44",
-  "date": "2026-11-23",
+  "generated_at": "2026-11-24 06:46:45",
+  "date": "2026-11-24",
   "anchor": {
     "city": "西安市",
     "keyword": "钟楼"
@@ -14,11 +14,11 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 109,
-    "tagged_new": 9,
+    "menu_total": 110,
+    "tagged_new": 8,
     "non_food_dropped": 0,
-    "food_new": 9,
-    "after_fold": 8
+    "food_new": 8,
+    "after_fold": 7
   },
   "dropped_non_food": [],
   "pool": [
@@ -104,17 +104,6 @@
         "单品",
         "全新升级",
         "川香风味"
-      ]
-    },
-    {
-      "code": "521917",
-      "name": "泷愿成真麦旋风——大米风味",
-      "price_fen": 1650,
-      "price_yuan": 16.5,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "第二份半价"
       ]
     }
   ]
