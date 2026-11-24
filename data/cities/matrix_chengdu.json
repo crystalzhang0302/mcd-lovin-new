@@ -3,7 +3,7 @@
     "date": "2026-11-24",
     "city": "成都市",
     "anchor": "春熙路",
-    "generatedAt": "2026-11-24 06:42:22",
+    "generatedAt": "2026-11-24 13:00:53",
     "stores": [
       {
         "code": "3450410",
@@ -38,13 +38,13 @@
     ]
   },
   "stats": {
-    "raw_new": 14,
+    "raw_new": 13,
     "dropped_nonfood": [
       "薯条脆卜卜嘭嘭单肩包",
       "旋旋水手帽",
       "旋旋星愿贴"
     ],
-    "items": 10
+    "items": 9
   },
   "items": [
     {
@@ -413,28 +413,6 @@
         }
       ],
       "storeCount": 2
-    },
-    {
-      "name": "麦当劳素龙限定饼干",
-      "price": 2.0,
-      "priceRange": null,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "汪苏泷同款"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "3450410",
-          "name": "麦当劳成都锦江区联升巷(京都大厦)餐厅",
-          "distance": 173,
-          "address": "大科甲巷43号1栋1楼1号（自编号L10号）及2楼1号（自编号L210号）",
-          "productCode": "521770",
-          "price": 2.0
-        }
-      ],
-      "storeCount": 1
     }
   ]
 }

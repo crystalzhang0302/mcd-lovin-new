@@ -3,7 +3,7 @@
     "date": "2026-11-24",
     "city": "广州市",
     "anchor": "体育西路",
-    "generatedAt": "2026-11-24 06:39:23",
+    "generatedAt": "2026-11-24 12:57:20",
     "stores": [
       {
         "code": "1400011",
@@ -215,6 +215,44 @@
       "storeCount": 5
     },
     {
+      "name": "灰焰圆筒",
+      "price": 5.0,
+      "priceRange": null,
+      "category": "小食甜品/其他",
+      "tags": [
+        "上新",
+        "灰焰"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1400011",
+          "name": "麦当劳广州今日广场餐厅",
+          "distance": 82,
+          "address": "体育西路77号首层及二层",
+          "productCode": "521951",
+          "price": 5.0
+        },
+        {
+          "code": "1400401",
+          "name": "麦当劳广州维多利广场餐厅",
+          "distance": 418,
+          "address": "体育西路101号维多利广场首层及二层部分",
+          "productCode": "521951",
+          "price": 5.0
+        },
+        {
+          "code": "1400489",
+          "name": "麦当劳广州富力盈通餐厅",
+          "distance": 563,
+          "address": "珠江新城华夏路30号富力盈通大厦首层108号商铺",
+          "productCode": "521951",
+          "price": 5.0
+        }
+      ],
+      "storeCount": 3
+    },
+    {
       "name": "板烧鸡腿堡三件套",
       "price": 34.5,
       "priceRange": null,
@@ -249,60 +287,6 @@
           "address": "天河路228号正佳广场五楼561铺",
           "productCode": "9900005462",
           "price": 34.5
-        },
-        {
-          "code": "1400489",
-          "name": "麦当劳广州富力盈通餐厅",
-          "distance": 563,
-          "address": "珠江新城华夏路30号富力盈通大厦首层108号商铺",
-          "productCode": "9900005462",
-          "price": 34.5
-        },
-        {
-          "code": "1400246",
-          "name": "麦当劳广州花城大道第二餐厅(花城汇北区)",
-          "distance": 586,
-          "address": "花城大道89号花城汇北区负一层1065-2、1065-3号",
-          "productCode": "9900005462",
-          "price": 34.5
-        }
-      ],
-      "storeCount": 5
-    },
-    {
-      "name": "灰焰圆筒",
-      "price": 5.0,
-      "priceRange": null,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "灰焰"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1400011",
-          "name": "麦当劳广州今日广场餐厅",
-          "distance": 82,
-          "address": "体育西路77号首层及二层",
-          "productCode": "521951",
-          "price": 5.0
-        },
-        {
-          "code": "1400401",
-          "name": "麦当劳广州维多利广场餐厅",
-          "distance": 418,
-          "address": "体育西路101号维多利广场首层及二层部分",
-          "productCode": "521951",
-          "price": 5.0
-        },
-        {
-          "code": "1400489",
-          "name": "麦当劳广州富力盈通餐厅",
-          "distance": 563,
-          "address": "珠江新城华夏路30号富力盈通大厦首层108号商铺",
-          "productCode": "521951",
-          "price": 5.0
         }
       ],
       "storeCount": 3

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24 06:38:31",
+  "generated_at": "2026-11-24 12:56:14",
   "date": "2026-11-24",
   "anchor": {
     "city": "广州市",
@@ -14,7 +14,7 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 108,
+    "menu_total": 106,
     "tagged_new": 13,
     "non_food_dropped": 5,
     "food_new": 7,

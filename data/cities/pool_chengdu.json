@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24 06:41:10",
+  "generated_at": "2026-11-24 12:59:36",
   "date": "2026-11-24",
   "anchor": {
     "city": "成都市",
@@ -14,11 +14,11 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 107,
-    "tagged_new": 11,
+    "menu_total": 105,
+    "tagged_new": 10,
     "non_food_dropped": 0,
-    "food_new": 11,
-    "after_fold": 10
+    "food_new": 10,
+    "after_fold": 9
   },
   "dropped_non_food": [],
   "pool": [
@@ -115,17 +115,6 @@
       "tags": [
         "上新",
         "第二份半价"
-      ]
-    },
-    {
-      "code": "521770",
-      "name": "麦当劳素龙限定饼干",
-      "price_fen": 200,
-      "price_yuan": 2.0,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "汪苏泷同款"
       ]
     },
     {
