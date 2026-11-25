@@ -4,8 +4,8 @@ window.NEW_DATA = {
   "city": "成都市",
   "anchor": "春熙路",
   "poolAt": "chengdu",
-  "matrixAt": "2026-11-25 05:14:37",
-  "generatedAt": "2026-11-25 05:20:10",
+  "matrixAt": "2026-11-25 11:44:57",
+  "generatedAt": "2026-11-25 11:50:56",
   "stores": [
    {
     "code": "3450410",
