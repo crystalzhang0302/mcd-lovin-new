@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-24 12:53:15",
-  "date": "2026-11-24",
+  "generated_at": "2026-11-25 05:09:01",
+  "date": "2026-11-25",
   "anchor": {
     "city": "上海市",
     "keyword": "人民广场"
@@ -14,7 +14,7 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 114,
+    "menu_total": 112,
     "tagged_new": 8,
     "non_food_dropped": 1,
     "food_new": 7,
@@ -72,14 +72,14 @@
       ]
     },
     {
-      "code": "521951",
-      "name": "灰焰圆筒",
-      "price_fen": 500,
-      "price_yuan": 5.0,
+      "code": "521950",
+      "name": "蓝莓爆爆珠麦旋风",
+      "price_fen": 1650,
+      "price_yuan": 16.5,
       "category": "小食甜品/其他",
       "tags": [
         "上新",
-        "灰焰"
+        "第二份半价"
       ]
     },
     {

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "date": "2026-11-24",
+    "date": "2026-11-25",
     "city": "嘉兴市",
     "anchor": "月河历史街区",
-    "generatedAt": "2026-11-24 13:08:13",
+    "generatedAt": "2026-11-25 05:20:10",
     "stores": [
       {
         "code": "3330756",
@@ -252,9 +252,17 @@
           "address": "中山西路50号",
           "productCode": "9900005462",
           "price": 34.5
+        },
+        {
+          "code": "3330625",
+          "name": "麦当劳嘉兴南湖区合乐城餐厅",
+          "distance": 3476,
+          "address": "东栅街道合乐城B区内一层 B-129B号 ",
+          "productCode": "9900005462",
+          "price": 34.5
         }
       ],
-      "storeCount": 4
+      "storeCount": 5
     }
   ]
 }
