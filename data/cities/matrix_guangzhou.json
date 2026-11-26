@@ -1,9 +1,9 @@
 {
   "meta": {
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "city": "广州市",
     "anchor": "体育西路",
-    "generatedAt": "2026-11-25 11:42:23",
+    "generatedAt": "2026-11-26 04:38:53",
     "stores": [
       {
         "code": "1400011",
@@ -289,6 +289,14 @@
           "price": 5.0
         },
         {
+          "code": "1400401",
+          "name": "麦当劳广州维多利广场餐厅",
+          "distance": 418,
+          "address": "体育西路101号维多利广场首层及二层部分",
+          "productCode": "521951",
+          "price": 5.0
+        },
+        {
           "code": "1400489",
           "name": "麦当劳广州富力盈通餐厅",
           "distance": 563,
@@ -297,7 +305,7 @@
           "price": 5.0
         }
       ],
-      "storeCount": 2
+      "storeCount": 3
     },
     {
       "name": "柠檬脆脆麦旋风",
@@ -317,9 +325,17 @@
           "address": "体育西路77号首层及二层",
           "productCode": "521836",
           "price": 16.5
+        },
+        {
+          "code": "1400401",
+          "name": "麦当劳广州维多利广场餐厅",
+          "distance": 418,
+          "address": "体育西路101号维多利广场首层及二层部分",
+          "productCode": "521836",
+          "price": 16.5
         }
       ],
-      "storeCount": 1
+      "storeCount": 2
     },
     {
       "name": "泷愿成真麦旋风——大米风味",
@@ -339,9 +355,17 @@
           "address": "体育西路77号首层及二层",
           "productCode": "521917",
           "price": 16.5
+        },
+        {
+          "code": "1400401",
+          "name": "麦当劳广州维多利广场餐厅",
+          "distance": 418,
+          "address": "体育西路101号维多利广场首层及二层部分",
+          "productCode": "521917",
+          "price": 16.5
         }
       ],
-      "storeCount": 1
+      "storeCount": 2
     }
   ]
 }
