@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26 04:39:17",
+  "generated_at": "2026-11-26 11:30:06",
   "date": "2026-11-26",
   "anchor": {
     "city": "深圳市",
@@ -15,10 +15,10 @@
   },
   "stats": {
     "menu_total": 116,
-    "tagged_new": 13,
+    "tagged_new": 12,
     "non_food_dropped": 5,
-    "food_new": 8,
-    "after_fold": 8
+    "food_new": 7,
+    "after_fold": 7
   },
   "dropped_non_food": [
     "麦当劳限定丝巾",
@@ -29,21 +29,10 @@
   ],
   "pool": [
     {
-      "code": "9900016078",
-      "name": "蘸酱麦麦脆汁鸡",
-      "price_fen": 1800,
-      "price_yuan": 18.0,
-      "category": "蘸酱炸鸡",
-      "tags": [
-        "蘸酱炸鸡",
-        "蘸酱炸鸡新吃法"
-      ]
-    },
-    {
       "code": "9900015729",
       "name": "蘸酱BFF四宫格小食盘",
-      "price_fen": 4280,
-      "price_yuan": 42.8,
+      "price_fen": 4180,
+      "price_yuan": 41.8,
       "category": "蘸酱炸鸡",
       "tags": [
         "蘸酱炸鸡",

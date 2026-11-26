@@ -4,8 +4,8 @@ window.NEW_DATA = {
   "city": "南京市",
   "anchor": "新街口",
   "poolAt": "nanjing",
-  "matrixAt": "2026-11-26 04:43:22",
-  "generatedAt": "2026-11-26 04:46:39",
+  "matrixAt": "2026-11-26 11:34:47",
+  "generatedAt": "2026-11-26 11:39:02",
   "stores": [
    {
     "code": "1990346",

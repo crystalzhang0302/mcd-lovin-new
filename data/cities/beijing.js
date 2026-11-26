@@ -4,8 +4,8 @@ window.NEW_DATA = {
   "city": "北京市",
   "anchor": "国贸",
   "poolAt": "beijing",
-  "matrixAt": "2026-11-26 04:37:44",
-  "generatedAt": "2026-11-26 04:46:39",
+  "matrixAt": "2026-11-26 11:27:56",
+  "generatedAt": "2026-11-26 11:39:02",
   "stores": [
    {
     "code": "1950564",

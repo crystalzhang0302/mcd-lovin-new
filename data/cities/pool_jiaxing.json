@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26 04:46:04",
+  "generated_at": "2026-11-26 11:38:16",
   "date": "2026-11-26",
   "anchor": {
     "city": "嘉兴市",
@@ -14,11 +14,11 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 89,
-    "tagged_new": 5,
+    "menu_total": 84,
+    "tagged_new": 3,
     "non_food_dropped": 1,
-    "food_new": 4,
-    "after_fold": 4
+    "food_new": 2,
+    "after_fold": 2
   },
   "dropped_non_food": [
     "旋旋水手帽"
@@ -45,30 +45,6 @@
         "套餐",
         "新升级",
         "更多汁"
-      ]
-    },
-    {
-      "code": "9900015008",
-      "name": "酥酥多笋卷三件套",
-      "price_fen": 3150,
-      "price_yuan": 31.5,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "套餐",
-        "全新升级",
-        "川香风味"
-      ]
-    },
-    {
-      "code": "522032",
-      "name": "酥酥多笋卷",
-      "price_fen": 2050,
-      "price_yuan": 20.5,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "单品",
-        "全新升级",
-        "川香风味"
       ]
     }
   ]
