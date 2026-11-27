@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27 04:39:45",
+  "generated_at": "2026-11-27 11:20:18",
   "date": "2026-11-27",
   "anchor": {
     "city": "上海市",
@@ -14,11 +14,11 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 111,
-    "tagged_new": 7,
+    "menu_total": 108,
+    "tagged_new": 6,
     "non_food_dropped": 1,
-    "food_new": 6,
-    "after_fold": 6
+    "food_new": 5,
+    "after_fold": 5
   },
   "dropped_non_food": [
     "旋旋水手帽"
@@ -69,17 +69,6 @@
         "单品",
         "全新升级",
         "川香风味"
-      ]
-    },
-    {
-      "code": "521917",
-      "name": "泷愿成真麦旋风——大米风味",
-      "price_fen": 1650,
-      "price_yuan": 16.5,
-      "category": "小食甜品/其他",
-      "tags": [
-        "上新",
-        "第二份半价"
       ]
     },
     {

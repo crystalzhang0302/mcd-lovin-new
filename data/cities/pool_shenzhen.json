@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27 04:44:08",
+  "generated_at": "2026-11-27 11:24:40",
   "date": "2026-11-27",
   "anchor": {
     "city": "深圳市",
@@ -14,7 +14,7 @@
     "businessEndTime": "22:00"
   },
   "stats": {
-    "menu_total": 116,
+    "menu_total": 115,
     "tagged_new": 13,
     "non_food_dropped": 5,
     "food_new": 8,
@@ -42,8 +42,8 @@
     {
       "code": "9900015729",
       "name": "蘸酱BFF四宫格小食盘",
-      "price_fen": 4180,
-      "price_yuan": 41.8,
+      "price_fen": 4280,
+      "price_yuan": 42.8,
       "category": "蘸酱炸鸡",
       "tags": [
         "蘸酱炸鸡",

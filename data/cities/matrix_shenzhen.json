@@ -3,7 +3,7 @@
     "date": "2026-11-27",
     "city": "深圳市",
     "anchor": "华强北",
-    "generatedAt": "2026-11-27 04:44:57",
+    "generatedAt": "2026-11-27 11:25:49",
     "stores": [
       {
         "code": "1421180",
@@ -300,66 +300,6 @@
       "storeCount": 2
     },
     {
-      "name": "蘸酱麦麦脆汁鸡",
-      "price": 18.0,
-      "priceRange": null,
-      "category": "蘸酱炸鸡",
-      "tags": [
-        "蘸酱炸鸡",
-        "蘸酱炸鸡新吃法"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1421180",
-          "name": "麦当劳深圳华强北茂业餐厅",
-          "distance": 127,
-          "address": "华强北路与振兴路交汇处东方时代广场（以下简称“建筑物”）的一部分，具体为负101，即-1层B01019X号商铺",
-          "productCode": "9900016078",
-          "price": 18.0
-        },
-        {
-          "code": "1420416",
-          "name": "麦当劳深圳中航路餐厅",
-          "distance": 385,
-          "address": "深南大道3018号世纪汇广场商场第一层124及125号商铺",
-          "productCode": "9900016078",
-          "price": 18.0
-        }
-      ],
-      "storeCount": 2
-    },
-    {
-      "name": "蘸酱BFF四宫格小食盘",
-      "price": 41.8,
-      "priceRange": null,
-      "category": "蘸酱炸鸡",
-      "tags": [
-        "蘸酱炸鸡",
-        "蘸酱炸鸡新吃法"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1421180",
-          "name": "麦当劳深圳华强北茂业餐厅",
-          "distance": 127,
-          "address": "华强北路与振兴路交汇处东方时代广场（以下简称“建筑物”）的一部分，具体为负101，即-1层B01019X号商铺",
-          "productCode": "9900015729",
-          "price": 41.8
-        },
-        {
-          "code": "1420416",
-          "name": "麦当劳深圳中航路餐厅",
-          "distance": 385,
-          "address": "深南大道3018号世纪汇广场商场第一层124及125号商铺",
-          "productCode": "9900015729",
-          "price": 41.8
-        }
-      ],
-      "storeCount": 2
-    },
-    {
       "name": "灰焰圆筒",
       "price": 5.0,
       "priceRange": null,
@@ -377,6 +317,50 @@
           "address": "华强北路与振兴路交汇处东方时代广场（以下简称“建筑物”）的一部分，具体为负101，即-1层B01019X号商铺",
           "productCode": "521951",
           "price": 5.0
+        }
+      ],
+      "storeCount": 1
+    },
+    {
+      "name": "蘸酱麦麦脆汁鸡",
+      "price": 18.0,
+      "priceRange": null,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1421180",
+          "name": "麦当劳深圳华强北茂业餐厅",
+          "distance": 127,
+          "address": "华强北路与振兴路交汇处东方时代广场（以下简称“建筑物”）的一部分，具体为负101，即-1层B01019X号商铺",
+          "productCode": "9900016078",
+          "price": 18.0
+        }
+      ],
+      "storeCount": 1
+    },
+    {
+      "name": "蘸酱BFF四宫格小食盘",
+      "price": 42.8,
+      "priceRange": null,
+      "category": "蘸酱炸鸡",
+      "tags": [
+        "蘸酱炸鸡",
+        "蘸酱炸鸡新吃法"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1421180",
+          "name": "麦当劳深圳华强北茂业餐厅",
+          "distance": 127,
+          "address": "华强北路与振兴路交汇处东方时代广场（以下简称“建筑物”）的一部分，具体为负101，即-1层B01019X号商铺",
+          "productCode": "9900015729",
+          "price": 42.8
         }
       ],
       "storeCount": 1
