@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26 11:26:56",
-  "date": "2026-11-26",
+  "generated_at": "2026-11-27 04:41:04",
+  "date": "2026-11-27",
   "anchor": {
     "city": "北京市",
     "keyword": "国贸"
@@ -10,8 +10,8 @@
     "storeName": "麦当劳北京建外SOHO(A座)餐厅",
     "address": "东三环中路39号院建外SOHO-A座",
     "distance_m": 269,
-    "businessStartTime": "07:00",
-    "businessEndTime": "22:00"
+    "businessStartTime": "06:00",
+    "businessEndTime": "23:00"
   },
   "stats": {
     "menu_total": 117,

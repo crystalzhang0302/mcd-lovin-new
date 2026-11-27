@@ -1,9 +1,9 @@
 {
   "meta": {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "city": "广州市",
     "anchor": "体育西路",
-    "generatedAt": "2026-11-26 11:29:34",
+    "generatedAt": "2026-11-27 04:43:40",
     "stores": [
       {
         "code": "1400011",
@@ -50,61 +50,6 @@
     "items": 7
   },
   "items": [
-    {
-      "name": "酥酥多笋卷",
-      "price": 21.0,
-      "priceRange": null,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "单品",
-        "全新升级",
-        "川香风味"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1400011",
-          "name": "麦当劳广州今日广场餐厅",
-          "distance": 82,
-          "address": "体育西路77号首层及二层",
-          "productCode": "522032",
-          "price": 21.0
-        },
-        {
-          "code": "1400401",
-          "name": "麦当劳广州维多利广场餐厅",
-          "distance": 418,
-          "address": "体育西路101号维多利广场首层及二层部分",
-          "productCode": "522032",
-          "price": 21.0
-        },
-        {
-          "code": "1400194",
-          "name": "麦当劳广州正佳五楼餐厅",
-          "distance": 547,
-          "address": "天河路228号正佳广场五楼561铺",
-          "productCode": "522032",
-          "price": 21.0
-        },
-        {
-          "code": "1400489",
-          "name": "麦当劳广州富力盈通餐厅",
-          "distance": 563,
-          "address": "珠江新城华夏路30号富力盈通大厦首层108号商铺",
-          "productCode": "522032",
-          "price": 21.0
-        },
-        {
-          "code": "1400246",
-          "name": "麦当劳广州花城大道第二餐厅(花城汇北区)",
-          "distance": 586,
-          "address": "花城大道89号花城汇北区负一层1065-2、1065-3号",
-          "productCode": "522032",
-          "price": 21.0
-        }
-      ],
-      "storeCount": 5
-    },
     {
       "name": "海陆双全堡",
       "price": 25.5,
@@ -155,61 +100,6 @@
           "address": "花城大道89号花城汇北区负一层1065-2、1065-3号",
           "productCode": "522016",
           "price": 25.5
-        }
-      ],
-      "storeCount": 5
-    },
-    {
-      "name": "酥酥多笋卷三件套",
-      "price": 32.0,
-      "priceRange": null,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "套餐",
-        "全新升级",
-        "川香风味"
-      ],
-      "variants": null,
-      "stores": [
-        {
-          "code": "1400011",
-          "name": "麦当劳广州今日广场餐厅",
-          "distance": 82,
-          "address": "体育西路77号首层及二层",
-          "productCode": "9900015008",
-          "price": 32.0
-        },
-        {
-          "code": "1400401",
-          "name": "麦当劳广州维多利广场餐厅",
-          "distance": 418,
-          "address": "体育西路101号维多利广场首层及二层部分",
-          "productCode": "9900015008",
-          "price": 32.0
-        },
-        {
-          "code": "1400194",
-          "name": "麦当劳广州正佳五楼餐厅",
-          "distance": 547,
-          "address": "天河路228号正佳广场五楼561铺",
-          "productCode": "9900015008",
-          "price": 32.0
-        },
-        {
-          "code": "1400489",
-          "name": "麦当劳广州富力盈通餐厅",
-          "distance": 563,
-          "address": "珠江新城华夏路30号富力盈通大厦首层108号商铺",
-          "productCode": "9900015008",
-          "price": 32.0
-        },
-        {
-          "code": "1400246",
-          "name": "麦当劳广州花城大道第二餐厅(花城汇北区)",
-          "distance": 586,
-          "address": "花城大道89号花城汇北区负一层1065-2、1065-3号",
-          "productCode": "9900015008",
-          "price": 32.0
         }
       ],
       "storeCount": 5
@@ -268,6 +158,100 @@
         }
       ],
       "storeCount": 5
+    },
+    {
+      "name": "酥酥多笋卷",
+      "price": 21.0,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "单品",
+        "全新升级",
+        "川香风味"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1400011",
+          "name": "麦当劳广州今日广场餐厅",
+          "distance": 82,
+          "address": "体育西路77号首层及二层",
+          "productCode": "522032",
+          "price": 21.0
+        },
+        {
+          "code": "1400401",
+          "name": "麦当劳广州维多利广场餐厅",
+          "distance": 418,
+          "address": "体育西路101号维多利广场首层及二层部分",
+          "productCode": "522032",
+          "price": 21.0
+        },
+        {
+          "code": "1400489",
+          "name": "麦当劳广州富力盈通餐厅",
+          "distance": 563,
+          "address": "珠江新城华夏路30号富力盈通大厦首层108号商铺",
+          "productCode": "522032",
+          "price": 21.0
+        },
+        {
+          "code": "1400246",
+          "name": "麦当劳广州花城大道第二餐厅(花城汇北区)",
+          "distance": 586,
+          "address": "花城大道89号花城汇北区负一层1065-2、1065-3号",
+          "productCode": "522032",
+          "price": 21.0
+        }
+      ],
+      "storeCount": 4
+    },
+    {
+      "name": "酥酥多笋卷三件套",
+      "price": 32.0,
+      "priceRange": null,
+      "category": "鸡肉汉堡/卷",
+      "tags": [
+        "套餐",
+        "全新升级",
+        "川香风味"
+      ],
+      "variants": null,
+      "stores": [
+        {
+          "code": "1400011",
+          "name": "麦当劳广州今日广场餐厅",
+          "distance": 82,
+          "address": "体育西路77号首层及二层",
+          "productCode": "9900015008",
+          "price": 32.0
+        },
+        {
+          "code": "1400401",
+          "name": "麦当劳广州维多利广场餐厅",
+          "distance": 418,
+          "address": "体育西路101号维多利广场首层及二层部分",
+          "productCode": "9900015008",
+          "price": 32.0
+        },
+        {
+          "code": "1400489",
+          "name": "麦当劳广州富力盈通餐厅",
+          "distance": 563,
+          "address": "珠江新城华夏路30号富力盈通大厦首层108号商铺",
+          "productCode": "9900015008",
+          "price": 32.0
+        },
+        {
+          "code": "1400246",
+          "name": "麦当劳广州花城大道第二餐厅(花城汇北区)",
+          "distance": 586,
+          "address": "花城大道89号花城汇北区负一层1065-2、1065-3号",
+          "productCode": "9900015008",
+          "price": 32.0
+        }
+      ],
+      "storeCount": 4
     },
     {
       "name": "灰焰圆筒",
