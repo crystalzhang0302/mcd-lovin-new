@@ -1,5 +1,5 @@
 window.CITY_MANIFEST = {
- "generatedAt": "2026-11-27 11:34:08",
+ "generatedAt": "2026-11-28 04:37:06",
  "default": "shanghai",
  "cities": [
   {
@@ -35,7 +35,7 @@ window.CITY_MANIFEST = {
   {
    "slug": "nanjing",
    "name": "南京",
-   "size_kb": 12
+   "size_kb": 11
   },
   {
    "slug": "wuhan",
@@ -45,7 +45,7 @@ window.CITY_MANIFEST = {
   {
    "slug": "chongqing",
    "name": "重庆",
-   "size_kb": 4
+   "size_kb": 3
   },
   {
    "slug": "xian",
@@ -55,7 +55,7 @@ window.CITY_MANIFEST = {
   {
    "slug": "jiaxing",
    "name": "嘉兴",
-   "size_kb": 4
+   "size_kb": 6
   }
  ]
 };

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27 11:32:23",
-  "date": "2026-11-27",
+  "generated_at": "2026-11-28 04:35:43",
+  "date": "2026-11-28",
   "anchor": {
     "city": "西安市",
     "keyword": "钟楼"
@@ -14,7 +14,7 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 107,
+    "menu_total": 116,
     "tagged_new": 8,
     "non_food_dropped": 0,
     "food_new": 8,

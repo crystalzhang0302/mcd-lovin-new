@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27 11:21:36",
-  "date": "2026-11-27",
+  "generated_at": "2026-11-28 04:26:20",
+  "date": "2026-11-28",
   "anchor": {
     "city": "北京市",
     "keyword": "国贸"
@@ -14,15 +14,13 @@
     "businessEndTime": "23:00"
   },
   "stats": {
-    "menu_total": 115,
-    "tagged_new": 10,
-    "non_food_dropped": 1,
+    "menu_total": 121,
+    "tagged_new": 9,
+    "non_food_dropped": 0,
     "food_new": 8,
     "after_fold": 8
   },
-  "dropped_non_food": [
-    "麦当劳限定丝巾"
-  ],
+  "dropped_non_food": [],
   "pool": [
     {
       "code": "9900016078",

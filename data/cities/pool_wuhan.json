@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27 11:30:18",
-  "date": "2026-11-27",
+  "generated_at": "2026-11-28 04:33:48",
+  "date": "2026-11-28",
   "anchor": {
     "city": "武汉市",
     "keyword": "江汉路"
@@ -14,7 +14,7 @@
     "businessEndTime": "00:15"
   },
   "stats": {
-    "menu_total": 115,
+    "menu_total": 125,
     "tagged_new": 12,
     "non_food_dropped": 3,
     "food_new": 8,
