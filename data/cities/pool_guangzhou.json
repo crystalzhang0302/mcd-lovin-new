@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28 04:27:41",
+  "generated_at": "2026-11-28 10:49:55",
   "date": "2026-11-28",
   "anchor": {
     "city": "广州市",
@@ -14,11 +14,11 @@
     "businessEndTime": "23:59"
   },
   "stats": {
-    "menu_total": 113,
-    "tagged_new": 12,
+    "menu_total": 106,
+    "tagged_new": 11,
     "non_food_dropped": 4,
-    "food_new": 7,
-    "after_fold": 7
+    "food_new": 6,
+    "after_fold": 6
   },
   "dropped_non_food": [
     "麦当劳限定丝巾",
@@ -27,17 +27,6 @@
     "旋旋水手帽"
   ],
   "pool": [
-    {
-      "code": "522016",
-      "name": "海陆双全堡",
-      "price_fen": 2550,
-      "price_yuan": 25.5,
-      "category": "鸡肉汉堡/卷",
-      "tags": [
-        "上新",
-        "全新海陆双全来袭"
-      ]
-    },
     {
       "code": "9900005462",
       "name": "板烧鸡腿堡三件套",

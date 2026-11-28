@@ -4,8 +4,8 @@ window.NEW_DATA = {
   "city": "武汉市",
   "anchor": "江汉路",
   "poolAt": "wuhan",
-  "matrixAt": "2026-11-28 04:34:42",
-  "generatedAt": "2026-11-28 04:37:05",
+  "matrixAt": "2026-11-28 10:56:11",
+  "generatedAt": "2026-11-28 10:58:23",
   "stores": [
    {
     "code": "1960008",
